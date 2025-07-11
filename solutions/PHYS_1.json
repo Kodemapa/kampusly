@@ -1,0 +1,2900 @@
+{
+    "result": {
+        "data": {
+            "passages": null,
+            "shuffling": true,
+            "sec_questions": [
+                [
+                    1,
+                    null,
+                    "<p>The magnitude of any physical quantity:<\/p>",
+                    [
+                        "<p>Depends on the method of measurement<\/p>",
+                        "<p>Does not depend on the method of measurement<\/p>",
+                        "<p>Is more in SI system than in CGS system<\/p>",
+                        "<p>Directly proportional to the fundamental units of mass, length and time<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>The SI base units are larger than their CGS counterparts. For example, 1 meter is equal to 100 centimeters, and 1 kilogram is equal to 1000 grams.\u00a0This means that in the SI system, the base units inherently represent larger quantities compared to the CGS system. So, the magnitude of any physical quantity is more in SI system than in CGS system.<\/p>",
+                    null,
+                    null,
+                    [
+                        0,
+                        0
+                    ],
+                    1,
+                    1.0130000114440918,
+                    "9353799483f64c748d689257ddc532fe",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    2,
+                    null,
+                    "<p>If the unit of length and force be increased four times, then the unit of energy is:<\/p>",
+                    [
+                        "<p>Increased 4 times<\/p>",
+                        "<p>Increased 8 times<\/p>",
+                        "<p>Increased 16 times<\/p>",
+                        "<p>Decreased 16 times<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Let, the unit of Length \\(=L\\), and Unit of Force \\(=F\\).<\/p><p>Now, energy \\((E)\\) can be expressed in terms of length and force.\u00a0<\/p><p>\\(E=F \\cdot d\\)<\/p><p>Where \\(E=\\) energy, \\(F=\\) force, \\(d=\\) distance (which is directly related to length)<\/p><p>Now, according to question, if both the units of length and force are increased four times:<\/p><p>The new unit of length \\(=4 L\\) and new unit of force becomes \\(=4 F\\)<\/p><p>Then new energy \\(E^{\\prime}=(4 F) \\cdot(4 d)=16(F \\cdot d)=16 E\\)<\/p><p>So, the unit of energy \\(\\left(E^{\\prime}\\right)\\) increases 16 times when both the unit of length and force are increased four times.\u00a0<\/p>",
+                    null,
+                    null,
+                    [
+                        1,
+                        61
+                    ],
+                    1,
+                    0,
+                    "efff4a4553314cc6945a907ccd0a8335",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    3,
+                    null,
+                    "<p>Tesla is a unit for measuring:<\/p>",
+                    [
+                        "<p>Electric Field<\/p>",
+                        "<p>Inductance<\/p>",
+                        "<p>Magnetic field<\/p>",
+                        "<p>Electrical resistance<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>The tesla (T) is the unit of measurement for magnetic flux density or magnetic induction, which quantifies the strength of a magnetic field. One tesla is defined as the magnetic flux density resulting from a one newton per square meter (1 N/m<sup>2<\/sup>) force acting on a conductor carrying a current of one ampere, perpendicular to the magnetic field.<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        2,
+                        62
+                    ],
+                    1,
+                    0,
+                    "8bf9405a288f4192b13abb452f04d196",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    4,
+                    null,
+                    "<p>Which of the following is different from others by units?<\/p>",
+                    [
+                        "<p>Phase difference<\/p>",
+                        "<p>Mechanical equivalent<\/p>",
+                        "<p>Loudness of sound<\/p>",
+                        "<p>Poisson's ratio<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Poisson's ratio is a dimensionless quantity. It's the ratio of the relative contraction strain (or transverse strain) to the relative extension strain (or axial strain), in the direction of the applied force. Since it's a ratio of similar quantities, it doesn't have any units.<\/p><p>Phrase difference unit - degree or radian<\/p><p>Mechanical equivalent unit -\u00a0<span>joules per calorie or calories per joule(<\/span><span>depending on the convention<\/span><span>)<\/span><\/p><p><span>Loudness of sound unit -\u00a0<\/span>decibels (dB)<span><br/><\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        3,
+                        63
+                    ],
+                    1,
+                    0,
+                    "5f4603b46a294550a5eed0cd2d8c042b",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    5,
+                    null,
+                    "<p>If \\(\\mathrm L\\) and \\(\\mathrm R\\) are respectively the inductance and resistance, then the dimensions of \\(\\frac{\\mathrm L}{\\mathrm R}\\) will be:<\/p>",
+                    [
+                        "<p>\\([\\mathrm{M}^0 \\mathrm{~L}^0 \\mathrm{~T}^{-1}]\\)<\/p>",
+                        "<p>\\([\\mathrm{M}^0 \\mathrm{LT}^0]\\)<br/><\/p>",
+                        "<p>\\([\\mathrm{M}^0 \\mathrm{~L}^0 \\mathrm{~T}]\\)<\/p>",
+                        "<p>Cannot be represented in terms of \\(\\mathrm {[M],[L]}\\) and \\(\\mathrm [T]\\)<br/><\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>We know that,<\/p><p>Dimensional formula of \\(\\mathrm{L}=[\\mathrm{ML}^2 \\mathrm{~T}^{-2} \\mathrm{~A}^{-2}]\\)<\/p><p>Dimensional formula for \\(\\mathrm{R}=[\\mathrm{ML}^2 \\mathrm{~T}^{-3} \\mathrm{~A}^{-2}]\\)\u00a0<\/p><p>\\( \\frac{\\mathrm L}{\\mathrm R}=\\frac{[\\mathrm{M L^2}]}{\\mathrm{[T^2 A^2]}} \\times \\frac{\\mathrm{[T^2 A^2]}}{\\mathrm{[M L^2]}}=[\\mathrm{M}^0 \\mathrm{~L}^0 \\mathrm{~T}]\\)<\/p><p>So, when \\(\\mathrm L\\) and \\(\\mathrm R\\) are respectively the inductance and resistance, then the dimensions of \\(\\frac{\\mathrm L}{\\mathrm R}\\) will be \\([\\mathrm{M}^0 \\mathrm{~L}^0 \\mathrm{~T}]\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        4,
+                        64
+                    ],
+                    1,
+                    0,
+                    "59325ef8567346a3904c904001ba1e02",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    6,
+                    null,
+                    "<p>The dimensional formula for impulse is same as the dimensional formula for:<\/p>",
+                    [
+                        "<p>Momentum<\/p>",
+                        "<p>Force<\/p>",
+                        "<p>Rate of change of momentum<\/p>",
+                        "<p>Torque<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p><span>The force acting on an object is given by\u00a0<\/span><span>\\(F=m a\\)<\/span><br/><\/p><p>From the above equation, the unit of force becomes kilogram meter per second square and the\u00a0<span>dimensional formula for impulse is \\(\\left[M L T^{-1}\\right]\\).<\/span><\/p><p>Now, the momentum of an object is given by \\(P=m v\\)<\/p><p>From the above equation, the dimensional formula for momentum is \\(\\left[M L T^{-1}\\right]\\) which is the same as the dimensional formula for impulse.<\/p>",
+                    null,
+                    null,
+                    [
+                        5,
+                        65
+                    ],
+                    1,
+                    0,
+                    "ed24e929c342469fab8ae82e324d5174",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    7,
+                    null,
+                    "<p>Planck's constant has the dimensions (unit) of:<\/p>",
+                    [
+                        "<p>Energy<\/p>",
+                        "<p>Linear momentum<\/p>",
+                        "<p>Work<\/p>",
+                        "<p>Angular momentum<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The unit of the Planck's constant is \\(=J \\cdot s\\)<\/p><p>So, its dimension is \\(\\left[M L^2 T^{-1}\\right]\\)<\/p><p>The angular momentum is given as:<\/p><p>\\(L=m v r\\)<\/p><p>\\([L]=\\left[M L^2 T^{-1}\\right]\\)<\/p><p>Planck's constant \\([\\mathrm{h}]=[\\) Angular momentum \\(]=\\left[M L^2 T^{-1}\\right]\\)<\/p><p>So, Planck's constant has the dimensions (unit) of angular momentum.<\/p>",
+                    null,
+                    null,
+                    [
+                        6,
+                        66
+                    ],
+                    1,
+                    0,
+                    "5155a9792a214ca3a30d8b223a170b1b",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    8,
+                    null,
+                    "<p>Which one o<span>f the following quantities\u00a0<\/span><span>has dimensions different from the remaining three?<\/span><\/p>",
+                    [
+                        "<p>Energy per unit volume<\/p>",
+                        "<p>Force per unit area<\/p>",
+                        "<p>Product of voltage and charge per unit volume<\/p>",
+                        "<p>Angular momentum per unit mass<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Energy density \\(=\\frac{\\text { Energy }}{\\text {Volume }}=\\frac{[\\mathrm{ML}^2 \\mathrm{~T}^{-2}]}{[\\mathrm{~L}^3]}=[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}]\\)<\/p><p>Force per unit area \\(=\\frac{[\\mathrm{MLT}^{-2}]}{[\\mathrm{~L}^2]}=[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}]\\)<\/p><p>Product of the charge per unit volume and voltage<\/p><p>\\(=\\mathrm{Q} \\frac{(\\mathrm{IT}) \\mathrm{V}}{\\text { Volume }}=\\frac{[\\mathrm{ML}^2 \\mathrm{~T}^{-2}]}{[\\mathrm{~L}^3]}=[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}]\\)<\/p><p>Angular momentum per unit mass \\(=\\frac{[\\mathrm{M}^1 \\mathrm{~L}^2 \\mathrm{~T}^{-1}]}{[\\mathrm{M}]}=[\\mathrm{L}^2 \\mathrm{~T}^{-1}]\\)<\/p><p>So, angular momentum per unit mass has dimensions different from the remaining three.<\/p>",
+                    null,
+                    null,
+                    [
+                        7,
+                        67
+                    ],
+                    1,
+                    0,
+                    "ca6adb73ec254527a0fac9c542b1c2c9",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    9,
+                    null,
+                    "<p>Which of the following quantities does not have Nm<sup>\u20132<\/sup> as the unit?<\/p>",
+                    [
+                        "<p>Pressure<\/p>",
+                        "<p>Stress<\/p>",
+                        "<p>Strain<\/p>",
+                        "<p>Young\u2019s modulus<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Strain does not have Nm<sup>\u20132 <\/sup>as its unit. Strain is a dimensionless quantity because it represents the ratio of the change in length (or deformation) to the original length of the object. Since it's a ratio of lengths, it doesn't have any units.<\/p>",
+                    null,
+                    null,
+                    [
+                        8,
+                        68
+                    ],
+                    1,
+                    0,
+                    "e7f67e439ee64eb190f7f804fa22509e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    10,
+                    null,
+                    "<p>Which of the options has two quantities that have different dimensions?<\/p>",
+                    [
+                        "<p>Reynold\u2019s number and coefficient of friction<\/p>",
+                        "<p>Curie and frequency of light<\/p>",
+                        "<p>Planck\u2019s constant and angular momentum<\/p>",
+                        "<p>Latent heat and gravitation constant<br/><\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Coefficient of friction and Reynolds no. have no dimensions. So, their dimensions are same and can be represent as \\(=\\mathrm{[M^0L^0 {T}^0]}\\)<\/p><p>Latent heat \\(=\\frac{\\text { Energy }}{\\text {Mass }}=\\frac{[\\mathrm{M}^1 \\mathrm{~L}^2 \\mathrm{~T}^{-2}]}{[\\mathrm{M}]}=[\\mathrm{L}^2 \\mathrm{~T}^{-2}]\\)<\/p><p>Gravitational potential \\(=\\frac{G M}{r}=\\frac{\\text {Force }}{\\text {Mass }} \\times r=\\frac{[\\mathrm{M^1 L^1 T^{-2}}]}{[\\mathrm M^1]} \\times \\mathrm {[L^1]=[L^2 T^{-2}]}\\)<\/p><p>So, the dimensions of both are same.<\/p><p>Curie \\(=\\) frequency of light wave \\(=[\\mathrm{M}^{0} \\mathrm{L}^{0} \\mathrm{T}^{-1}]\\)<\/p><p>So, the dimensions of both are same.<\/p><p>Planck's constant \\(=[\\mathrm{ML}^2 \\mathrm{~T}^{-1}]\\)<\/p><p>Torque \\(=[\\mathrm{ML}^2 \\mathrm{~T}^{-2}]\\)<\/p><p>So, the dimensions of both are not same.<\/p>",
+                    null,
+                    null,
+                    [
+                        9,
+                        69
+                    ],
+                    1,
+                    0,
+                    "8518411ac19e4afb9ef4774e353e8d14",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    11,
+                    null,
+                    "<p>The dimensions of \\(\\frac{B^2}{2 \\mu_0}\\), where \\(B\\) is magentic field and \\(\\mu_0\\) is the magnetic permiability of vaccum, is:<\/p>",
+                    [
+                        "<p>\\([{MLT}^{-2}]\\)<\/p>",
+                        "<p>\\([{ML}^2 {~T}^{-1}]\\)<\/p>",
+                        "<p>\\([M L^2 T^{-2}]\\)<\/p>",
+                        "<p>\\([{ML}^{-1}{~T}^{-2}]\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The quantity of \\(\\frac{B^2}{2 \\mu_0}\\) is the energy density of magnetic field.<\/p><p>\\(\\Rightarrow\\left[\\frac{B^2}{2 \\mu_0}\\right]=\\frac{\\text { Energy }}{\\text { Volume }}\\)<\/p><p>\\(\\Rightarrow\\left[\\frac{B^2}{2 \\mu_0}\\right] \\frac{\\text { Force } \\times \\text { displacement }}{(\\text { length })^3}\\)<\/p><p>\\(\\Rightarrow\\left[\\frac{B^2}{2 \\mu_0}\\right]=\\left[\\frac{\\left[M L T^{-2}\\right][L]}{[L^3]}\\right] \\)<\/p><p>\\(\\Rightarrow\\left[\\frac{B^2}{2 \\mu_0}\\right]=[M L^{-1} T^{-2}]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        10,
+                        70
+                    ],
+                    1,
+                    0,
+                    "6b8e979528f24588a9097c3397d9ff1d",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    12,
+                    null,
+                    "<p>________ is the international unit of measuring Energy.<\/p>",
+                    [
+                        "<p>Calorie<\/p>",
+                        "<p>Joule<\/p>",
+                        "<p>Watt<\/p>",
+                        "<p>Kilowatt<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Joule is the international unit of measuring Energy.\u00a0<span>It is part of the International System of Units (SI), which is the modern form of the metric system.<\/span><span>\u00a0<\/span><\/p><p><span>The joule is defined as the amount of work done when a force of one newton is applied over a distance of one meter in the direction of the force. Mathematically, 1 joule \\(=\\) 1 newton \\(\\times \\)1 meter.<\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        11,
+                        71
+                    ],
+                    1,
+                    3,
+                    "7db335f66e4d4361ba9d4c1908f3e2f2",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    13,
+                    null,
+                    "<p>Lux is unit of which physical quantity?<\/p>",
+                    [
+                        "<p>Luminance<\/p>",
+                        "<p>Luminous intensity<\/p>",
+                        "<p>Illumination<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>The lux is indeed the derived International System of Units (SI) unit of illumination, which measures the amount of luminous flux (light) incident on a surface per unit area.<\/p>",
+                    null,
+                    null,
+                    [
+                        12,
+                        72
+                    ],
+                    1,
+                    0,
+                    "b5f48b4cc24448ebbfc70a29ddffb237",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    14,
+                    null,
+                    "<p>What are the dimensions of gravitational potential?<\/p>",
+                    [
+                        "<p>\\([M^1 L^2 T^{-2}]\\)<br/><\/p>",
+                        "<p>\\([M^0 L^2 T^{-2}]\\)<\/p>",
+                        "<p>\\([M^1 L^1 T^{-2}]\\)<br/><\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>The dimensional formula of the mass \\(=[M]\\)<\/p><p>The dimensional formula of the work done \\([\\mathrm{W}]=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-2}\\right]\\)<\/p><p>The dimensional formula of the gravitational potential is derived as,<\/p><p>\\([U]=\\frac{\\left[\\mathrm{M L^2 T^{-2}}\\right]}{[\\mathrm M]}=\\left[\\mathrm{M^0 L^2 T^{-2}}\\right]\\)<\/p><p>So, the dimensional formula of the gravitational potential is \\(\\left[\\mathrm{M^0 L^2 T^{-2}}\\right]\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        13,
+                        73
+                    ],
+                    1,
+                    0,
+                    "54bb4784ae9d444dae873c42c8b740d2",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    15,
+                    null,
+                    "<p>The unit of magnetic dipole moment is:<\/p>",
+                    [
+                        "<p>newton/(ampere-metre)<\/p>",
+                        "<p>ampere/metre<\/p>",
+                        "<p>ampere-metre<sup>2<\/sup><\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Magnetic dipole moments have dimensions of energy divided by magnetic flux density or current times area.<\/p><p>The magnetic dipole moment is given by:<\/p><p>\\(\\mu=\\mathrm{N} \\text { i A }\\)<\/p><p>\\(\\mathrm{N}\\) is the no. of turns which has no unit, \\(\\mathrm{A}\\) is the area of the coil with unit square meter, and I is current in the coil with unit ampere. So the unit of \\(\\mu\\) is the ampere-meter<sup>2<\/sup>.<\/p>",
+                    null,
+                    null,
+                    [
+                        14,
+                        74
+                    ],
+                    1,
+                    0,
+                    "24b724b2e5904799af87e26d1c43bef5",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    16,
+                    null,
+                    "<p>What is the dimensional formula of strain?<\/p>",
+                    [
+                        "<p>\\([\\mathrm{M}^0 \\mathrm{~L}^0 \\mathrm{~T}^0]\\)<\/p>",
+                        "<p>\\([\\mathrm{M^1 L^{-1} T^{-2}}]\\)<\/p>",
+                        "<p>\\([\\mathrm{M}^0 \\mathrm{~L}^0 \\mathrm{~T}^{-1}]\\)<\/p>",
+                        "<p>\\([\\mathrm{M}^3 \\mathrm{~L}^1 \\mathrm{~T}^{-2}]\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The ratio of change in configuration to the original configuration is called strain. As the strain is the ratio of two like quantities, it has no units and no dimensions. Its dimension can be expressed as \\([\\mathrm{{M}^0 {L}^0 {T}^0}]\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        15,
+                        75
+                    ],
+                    1,
+                    0,
+                    "957c57d7943f4ae6a7e3df7f0f351786",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    17,
+                    null,
+                    "<p>The unit Joule/coulomb is the same as:<\/p>",
+                    [
+                        "<p>1 ampere<\/p>",
+                        "<p>1 kWh<\/p>",
+                        "<p>1 KW<\/p>",
+                        "<p>1 Volt<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The potential difference between two points in an electric field may be defined as the amount of work done in moving a unit positive charge from one point to the other against the electrostatic force i.e.,<\/p><p>Electric potential \\((\\mathrm{V})=\\frac{\\text { Work done (W) }}{\\text { Charge }(\\mathrm{q})}\\)<\/p><p>We know that, SI unit of work done is joule and the SI unit of charge is the coulomb, then<\/p><p>\\(1 \\mathrm {V=\\frac{J}{C}}\\)<\/p><p>So, Joule/coulomb is the same as \\(1 \\mathrm{~V}\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        16,
+                        76
+                    ],
+                    1,
+                    0,
+                    "00d0f4fe4f8a4063b998aaee1cdb965f",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    18,
+                    null,
+                    "<p>The unit of surface tension may be expressed as:<\/p>",
+                    [
+                        "<p>Joule metre<\/p>",
+                        "<p>Newton metre\\({ }^{-2}\\)<\/p>",
+                        "<p>Joule metre\\({ }^{-2}\\)<\/p>",
+                        "<p>Newton metre<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>The property of liquid surfaces to shrink into the minimum surface area possible is known as surface tension.<\/p><p>Surface tension \\(= \\frac{\\mathrm F}{\\mathrm L} \\) units \\(=\\mathrm{Nm}^{-1} \\)<\/p><p>\\(=(\\mathrm N \\mathrm{m}) / \\mathrm{m}^2=\\text { Joule } / \\mathrm{m}^2\\) = Joule metre<sup>-2<\/sup><\/p>",
+                    null,
+                    null,
+                    [
+                        17,
+                        77
+                    ],
+                    1,
+                    0,
+                    "b818c8aa97b0461d8947adae29e8d454",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    19,
+                    null,
+                    "<p>The dimension of \\(\\frac{\\mathrm{h}}{\\mathrm{e}}\\) is the same as of (here \\(h\\) is Planck's constant and \\(e\\) is electronic charges):<\/p>",
+                    [
+                        "<p>Voltage<\/p>",
+                        "<p>Magnetic flux<\/p>",
+                        "<p>Current<\/p>",
+                        "<p>Angular<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Plancks constant \\((\\mathrm{h})\\) has joule-seconds. dimensions are \\(=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-1}\\right]\\) electron charge (e) will have \\(\\mathrm{[TI]}\\)<\/p><p>Dimension for \\(\\mathrm{{h} / {e}}\\) will be \\(=[\\mathrm{ML}^2 \\mathrm{~T}^{-2} \\mathrm{I}^{-1}]\\)<\/p><p>From the given options,<\/p><p>Dimension for magnetic moment \\(=\\left[\\mathrm{L}^2 \\mathrm{~A}\\right]\\)<\/p><p>Dimension for magnetic flux \\(=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-2} \\mathrm{I}^{-1}\\right]\\)<\/p><p>Dimension for electric flux \\(=\\left[\\mathrm{ML}^3 \\mathrm{~T}^{-3} \\mathrm{I}^{-1}\\right]\\)<\/p><p>Dimension for electric field strength \\(=\\left[\\mathrm{MLT}^{-3} \\mathrm{I}^{-1}\\right]\\)<\/p><p>Both magnetic flux and \\(\\mathrm{{h} / {e}}\\) will have same dimensions.<\/p>",
+                    null,
+                    null,
+                    [
+                        18,
+                        78
+                    ],
+                    1,
+                    0,
+                    "e94877af26734935bc2ac820b22db058",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    20,
+                    null,
+                    "<p>Backlash error is present in:<\/p>",
+                    [
+                        "<p>Vernier callipers<\/p>",
+                        "<p>Screw-Gauge\u00a0<\/p>",
+                        "<p>Spherometer<\/p>",
+                        "<p>All of the above<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Backlash error also called as play or lash (by mechanical engineers) is mostly encountered when we try to move the instrument back and forth rapidly i.e. when we are changing direction of motion of the instrument. Backlash error is present in Vernier calipers, screw gauge and Spherometer.<\/p>",
+                    null,
+                    null,
+                    [
+                        19,
+                        79
+                    ],
+                    1,
+                    0,
+                    "7408a861061442d4b988c3970f0d07e6",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    21,
+                    null,
+                    "<p>If energy of photon is \\(\\mathrm{E} \\propto \\mathrm{h}^{\\mathrm{a}} \\mathrm{c}^{\\mathrm{b}} \\lambda^{\\mathrm{d}}\\). Here, \\(h=\\) plank's constant, \\(c=\\) speed of light, \\(\\lambda=\\) wavelength of photon. Then the values of \\(a, b\\) and \\(d\\) are:<\/p>",
+                    [
+                        "<p>\\(1,1,1\\)<\/p>",
+                        "<p>\\(1,-1,1\\)<\/p>",
+                        "<p>\\(1,1,-1\\)<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>\\(\\mathrm{E} \\propto \\mathrm{h}^{\\mathrm{a}} \\mathrm{c}^{\\mathrm{b}} \\lambda^{\\mathrm{d}}\\)<\/p><p>or \\(\\mathrm{E=k h^a c^b \\lambda^d}\\cdots (1)\\)<\/p><p>Here<\/p><p>\\({[\\mathrm{E]=\\left[M^{1} L^2 T^{-2}\\right]}} \\)<\/p><p>\\({[\\mathrm{h]=\\left[M^{1} L^2 T^{-1}\\right]}} \\)<\/p><p>\\({[\\mathrm{C]=\\left[L^{1} T^{-1}\\right]} }\\)<\/p><p>\\({[\\mathrm{\\lambda]=\\left[M^0 L^{1} T^{0}\\right]}}\\)<\/p><p>From these terms and equation (1)<\/p><p>Hence<\/p><p>\\({\\left[M^1 L^2 T^{-2}\\right]= k\\left[M^1 L^2 T^{-1}\\right]^a \\times \\left[M^0 L^1 T^{-1}\\right]^ b} \\times \\left[M^0 L^1 T^0\\right]^d\\)<\/p><p>On Compairing:<\/p><p>\\( a=1, b=1,\u00a0 d=-1\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        20,
+                        80
+                    ],
+                    1,
+                    0,
+                    "d6e3d15280bd4be4b2f18194477e3944",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    22,
+                    null,
+                    "<p>Which of the following pairs does not have similar dimensions?<\/p>",
+                    [
+                        "<p>Tension and surface tension<\/p>",
+                        "<p>Stress and pressure<\/p>",
+                        "<p>Angle and strain<\/p>",
+                        "<p>Planck's constant and angular momentum<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Surface Tension \\((T)=\\frac{\\text { Force }}{\\text { Length }} \\ldots\\). (1)<\/p><p>Since, Force \\(=\\) Mass \\(\\times\\) Acceleration<\/p><p>And, Acceleration \\(=\\frac{\\text { velocity }}{\\text { time }}=\\left[\\mathrm{LT}^{-2}\\right]\\)<\/p><p>\\(\\therefore\\) The dimensional formula of force \\(=[\\mathrm{M}^1 \\mathrm{~L}^1 \\mathrm{~T}^{-2}] \\ldots\\) (2)<\/p><p>On substituting equation (2) in equation (1) we get,<\/p><p>Surface Tension \\((T)=\\frac{\\text { Force }}{\\text { Length }}\\)<\/p><p>Or, \\(\\mathrm{T}=\\frac{\\left[\\mathrm{M}^1 \\mathrm{~L}^1 \\mathrm{~T}^{-2}\\right]}{\\left[\\mathrm{L}^1\\right]}=[\\mathrm{M}^1 \\mathrm{~T}^{-2}]\\)<\/p><p>Therefore, surface tension is dimensionally represented as \\(\\left[\\mathrm{M}^1 \\mathrm{~T}^{-2}\\right]\\)<\/p><p>Tension is defined as the magnitude of force.<\/p><p>\\(\\therefore\\) Demension of Tension \\(=\\) Dimension of Force<\/p><p>So, dimension of tension \\(=[\\mathrm{M}^1 \\mathrm{~L}^1 \\mathrm{~T}^{-2}]\\)<\/p><p>So the dimension of tension and surface tension is different.<\/p>",
+                    null,
+                    null,
+                    [
+                        21,
+                        81
+                    ],
+                    1,
+                    0,
+                    "e0227d797c8b4e6aadaad8a3c9cd5d96",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    23,
+                    null,
+                    "<p>What is an international (SI) unit of electric current?<\/p>",
+                    [
+                        "<p>Ohm<\/p>",
+                        "<p>Volt<\/p>",
+                        "<p>Ohm-meter<\/p>",
+                        "<p>Ampere<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Ampere is the\u00a0international (SI) unit of electric current. It is defined as one coulomb per second, where a coulomb (symbol: C) is the unit of electric charge.<\/p>",
+                    null,
+                    null,
+                    [
+                        22,
+                        82
+                    ],
+                    1,
+                    0,
+                    "9d44d04d516d4c5c9bbdc1b5454a8b26",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    24,
+                    null,
+                    "<p>A small steel ball of radius \\(r\\) is allowed to fall under gravity through a column of a viscous liquid of coefficient of viscosity \\(\\eta\\). After some time the velocity of the ball attains a constant value known as terminal velocity \\(\\mathrm{v}_{\\mathrm{T}}\\). The terminal velocity depends on the mass of the ball \\(\\mathrm{m}\\),\\(\\eta\\), \\(\\mathrm{r}\\) and acceleration due to gravity \\(\\mathrm{g}\\). Which of the following relations is dimensionally correct?<\/p>",
+                    [
+                        "<p>\\(\\mathrm{v}_{\\mathrm{T}} \\propto \\frac{\\mathrm{mg}}{\\eta \\mathrm{r}}\\)<\/p>",
+                        "<p>\\(\\mathrm{v}_{\\mathrm{T}} \\propto \\frac{\\eta \\mathrm{r}}{\\mathrm{mg}}\\)<\/p>",
+                        "<p>\\(\\mathrm{v}_{\\mathrm{T}} \\propto \\eta \\mathrm{rmg}\\)<\/p>",
+                        "<p>\\(\\mathrm{v}_{\\mathrm{T}} \\propto \\frac{\\mathrm{mgr}}{\\eta}\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The dimension of terminal velocity \\(v_T\\) is,<\/p><p>\\(\\left[{V}_{{T}}\\right]=\\left[L T^{-1}\\right]\\cdots(1)\\)<\/p><p>From the formula of drag force,<\/p><p>\\( F_D=6 \\pi\\eta r v_T \\)<\/p><p>\\(\\Rightarrow[\\eta]=\\frac{\\left[F_D\\right]}{\\left[6 \\pi r v_T\\right]} \\)<\/p><p>\\(\\Rightarrow[\\eta]=\\frac{\\left[{MLT}^{-2}\\right]}{[L]\\left[L T^{-1}\\right]}=\\left[{ML}^{-1} {~T}^{-1}\\right]\\)<\/p><p>Taking option (A)<\/p><p>\\(\\frac{[\\mathrm{mg}]}{[\\eta r]}=\\frac{\\left[M L T^{-2}\\right]}{\\left[M L^{-1} T^{-1} \\times L\\right]}=\\left[L T^{-1}\\right]\\)<\/p><p>From (1), this option matches the dimension of \\({v}_{{T}}\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        23,
+                        83
+                    ],
+                    1,
+                    0,
+                    "2d4dc85994fa458fa6672782510fa6e2",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    25,
+                    null,
+                    "<p>Dimensional analysis can be applied to:<\/p>",
+                    [
+                        "<p>To change units from one system to another<\/p>",
+                        "<p>To check the consistency of a dimensional equation<\/p>",
+                        "<p>To derive the relation between physical quantities in physical phenomena<\/p>",
+                        "<p>All of the above<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Dimensional analysis is a fundamental aspect of measurement and is applied in real-life physics. We make use of dimensional analysis for three prominent reasons:<\/p><p><ul><li>To check the consistency of a dimensional equation<\/li><li>To derive the relation between physical quantities in physical phenomena<\/li><li>To change units from one system to another<\/li><\/ul><\/p>",
+                    null,
+                    null,
+                    [
+                        24,
+                        84
+                    ],
+                    1,
+                    0,
+                    "904fac5195c648e6b74f8e623eb85346",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    26,
+                    null,
+                    "<p>Which of the following units denotes the dimensions \\(\\mathrm{ML}^2 / \\mathrm{Q}^2\\), where \\(\\mathrm{Q}\\) denotes the electric charge?<\/p>",
+                    [
+                        "<p>Weber \\((\\mathrm{Wb})\\)<\/p>",
+                        "<p>\\(\\mathrm{Wb} / \\mathrm{m}^2\\)<\/p>",
+                        "<p>Henry \\((\\mathrm{H})\\)<\/p>",
+                        "<p>\\(\\mathrm{H} / \\mathrm{m}^2\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Weber \\(=\\mathrm{ML}^2 \\mathrm{~T}^{-2} \\mathrm{I}^{-1} =M L^2 \\mathrm{~T}^{-2} \\mathrm{Q}^{-1} \\mathrm{~T}=\\mathrm{ML}^2 \\mathrm{~T}^{-1} \\mathrm{Q}^{-1}\\left(\\mathrm{I}=\\mathrm{QT}^{-1}\\right)\\)<\/p><p>Henry \\(\\mathrm{H}\\) is \\(\\mathrm{SI}\\) unit of inductance.<\/p><p>\\( \\mathrm{H}=\\mathrm{ML}^2 \\mathrm{~T}^{-2} \\mathrm{I}^{-2}\\) and \\(\\mathrm{I}=\\mathrm{QT}^{-1} \\)<\/p><p>So \\(\\mathrm{H}=\\mathrm{ML}^2 \\mathrm{~T}^{-2} \\mathrm{Q}^{-2} \\mathrm{~T}^2=\\mathrm{ML}^2 \\mathrm{Q}^{-2}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        25,
+                        85
+                    ],
+                    1,
+                    0,
+                    "cf6c625474e243b3ab29d7edd3c4c2c8",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    27,
+                    null,
+                    "<p>In SI unit system, pascal is the unit of:<\/p>",
+                    [
+                        "<p>Pressure<\/p>",
+                        "<p>Work<\/p>",
+                        "<p>Energy<\/p>",
+                        "<p>Power<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The force per unit area is called pressure.\u00a0The SI unit of pressure is the pascal (Pa).\u00a0<\/p>",
+                    null,
+                    null,
+                    [
+                        26,
+                        86
+                    ],
+                    1,
+                    0,
+                    "f8705777cb284e4fa9cc92945bb96704",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    28,
+                    null,
+                    "<p>Which of the following is the dimension of power?<\/p>",
+                    [
+                        "<p>\\(\\frac{M L^2}{T^3}\\)<\/p>",
+                        "<p>\\(\\frac{T^2}{M L^3}\\)<\/p>",
+                        "<p>\\(\\frac{M L^2}{Q T^3}\\)<\/p>",
+                        "<p>\\(\\frac{M L^2}{Q T}\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>We know that,<\/p><p>Pressure \\(P=\\frac{W}{t}\\)<\/p><p>Where, \\(\\mathrm{P}=\\) power, \\(\\mathrm{W}=\\) work done and \\(t=\\) time.<\/p><p>Now,<\/p><p>Dimensional formula of work \\((\\mathrm{W})=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-2}\\right]\\)<\/p><p>Dimensional formula of time \\((t)=\\left[T^1\\right]\\)<\/p><p>\\(\\mathrm{P=\\frac{M L^2 T^{-2}}{T^1}=\\frac{M L^2}{T^3}}\\)<\/p><p>\\(\\therefore\\) The dimensional formula of power \\(\\mathrm{P}\\) is \\(\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-3}\\right]\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        27,
+                        87
+                    ],
+                    1,
+                    0,
+                    "19d09e29d2d049269a6ca6c6a1159bcb",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    29,
+                    null,
+                    "<p>Which of the following is not a physical quantity?<\/p>",
+                    [
+                        "<p>Length<\/p>",
+                        "<p>Time<\/p>",
+                        "<p>Electric current<\/p>",
+                        "<p>Kilogram (kg)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The Kilogram (kg)\u00a0represents the unit of a physical quantity and not the physical quantity.\u00a0<span>The kilogram is a unit of measurement for the physical quantity of mass. It represents the base unit of mass in the SI system. <\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        28,
+                        88
+                    ],
+                    1,
+                    0,
+                    "4a0efdbc65064f8b8f410c96f7861ae2",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    30,
+                    null,
+                    "<p>A force \\(F\\) is given by \\(F=a t+b t^2\\), where \\(t\\) is time. What are the dimensions of \\(a\\) and \\(b\\)?<\/p>",
+                    [
+                        "<p>\\([M L T^{-3}]\\) and \\([M L^2 T^{-4}]\\)<\/p>",
+                        "<p>\\([M L T^{-3}]\\) and \\([M L T^{-4}]\\)<\/p>",
+                        "<p>\\([M L T^{-1}]\\) and \\([M L T^0]\\)<\/p>",
+                        "<p>\\([M L T^{-4}]\\) and \\([M L T^1]\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>\\(\\mathrm{F}=\\mathrm{at}+\\mathrm{bt}^2\\) where \\(\\mathrm{t}\\) is time.<\/p><p>For this equation to be dimensionally correct, the each term in the right hand side should have the dimensions of \\(\\mathrm{F}\\).<\/p><p>Dimensional formula of \\(\\mathrm{F}=\\left[[\\mathrm{MLT}^{-2}]\\right]\\)<\/p><p>\\(\\Rightarrow \\mathrm{aT}=\\left[[\\mathrm{MLT}^{-2}]\\right] \\)<\/p><p>\\(\\Rightarrow \\text { Dimension of } \\mathrm{a} \\text { is }\\left[[\\mathrm{MLT}^{-3}]\\right]\\)<\/p><p>And \\(\\Rightarrow \\mathrm{bT}^2=\\left[[\\mathrm{MLT}^{-2}]\\right]\\)<\/p><p>\\(\\Rightarrow\\) Dimension of \\(\\mathrm{b}\\) is \\(\\left[\\mathrm{MLT}^{-4}\\right]\\)<\/p><p>So, t<span>he dimensions of \\(a\\) and \\(b\\) are\u00a0<\/span><span>\\([M L T^{-3}]\\) and \\([M L T^{-4}]\\).<\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        29,
+                        89
+                    ],
+                    1,
+                    0,
+                    "e69be03df9a44dcb8109e059ab47f6d3",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    31,
+                    null,
+                    "<p>The magnitude of the difference between the individual measurement and true value of the quantity is called:<br/><\/p>",
+                    [
+                        "<p>Absolute error<\/p>",
+                        "<p>Relative error<\/p>",
+                        "<p>Percentage error<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The magnitude of the difference between the individual measurement and true value of the quantity is called absolute error.<br/><\/p><p>The absolute error is calculated by taking the absolute value of the difference between the measured value and the true value. Mathematically, it is expressed as:<\/p><p>Absolute Error\u00a0=\u00a0Measured Value\u00a0\u2212\u00a0True Value<\/p><p>This ensures that the error is always positive (or zero), regardless of whether the measured value is greater or less than the true value.<\/p>",
+                    null,
+                    null,
+                    [
+                        30,
+                        390
+                    ],
+                    1,
+                    0,
+                    "0bb23af064374c6eac129da8b10f2600",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    32,
+                    null,
+                    "<p>The velocity of a freely falling body depends on \\(g^{p} h^{q}\\), where \\(g\\) is acceleration due to gravity and \\(h\\) is the height. The values of \\(p\\) and \\(q\\) are:<\/p>",
+                    [
+                        "<p>\\(\\frac{1}{2}, \\frac{1}{2}\\)<\/p>",
+                        "<p>\\(\\frac{1}{2},-\\frac{1}{2}\\)<\/p>",
+                        "<p>\\(\\frac{1}{2}, 1\\)<\/p>",
+                        "<p>1,1<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>\\(v \\propto g^{p} h^{q}\\)<\/p><p>We know that:<\/p><p>\\(v=\\left[\\mathrm{L} \\mathrm{T}^{-1}\\right]\\)<\/p><p>\\(g=\\left[\\mathrm{L} \\mathrm{T}^{-2}\\right]\\)<\/p><p>\\(h=[\\mathrm{L}]\\)<\/p><p>By substituting the dimension of each quantity and comparing the powers in both sides we get:<\/p><p>\\({\\left[\\mathrm{L} \\mathrm{T}^{-1}\\right]=\\left[\\mathrm{L} \\mathrm{T}^{-2}\\right]^{\\mathrm{p}}[\\mathrm{L}]^{\\mathrm{q}}} \\)<\/p><p>\\(\\Rightarrow {\\left[\\mathrm{L} \\mathrm{T}^{-1}\\right]=\\left[\\mathrm{L}^{\\mathrm{p}+\\mathrm{q}} \\mathrm{T}^{-2 \\mathrm{p}}\\right]}\\)<\/p><p>On comparing the powers<\/p><p>\\( p+q=1,-2 p=-1 \\)<\/p><p>\\(\\therefore p=\\frac{1}{2}, q=\\frac{1}{2}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        31,
+                        391
+                    ],
+                    1,
+                    0,
+                    "ea1375efe5bd4963b0fd8a9b1e661d27",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    33,
+                    null,
+                    "<p>Which of the following pairs has the same dimensions?<\/p>",
+                    [
+                        "<p>Specific heat and latent heat<\/p>",
+                        "<p>Impulse and momentum<\/p>",
+                        "<p>Surface tension and force<\/p>",
+                        "<p>Moment of Inertia and torque<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Impulse is defined as the change in momentum.<\/p><p>Impulse I \\(=\\Delta \\mathrm{p}=\\mathrm{mv}-\\mathrm{mu}\\)<\/p><p>So, both Impulse and momentum have the same units/dimensions.<\/p>",
+                    null,
+                    null,
+                    [
+                        32,
+                        392
+                    ],
+                    1,
+                    0,
+                    "9cd6ca2405914235af55c0e3d3f2cc0c",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    34,
+                    null,
+                    "<p>Which of the following physical quantity is dimensionless?<br/><\/p>",
+                    [
+                        "<p>Angle<\/p>",
+                        "<p>Strain<\/p>",
+                        "<p>Specific gravity<\/p>",
+                        "<p>All of these<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>\\(\\text { Angle }(\\theta)=\\frac{\\text { Length of arc }(l)}{\\text { radius }(r)} = \\theta=\\frac{\\left[M^{0} L T^{0}\\right]}{\\left[M^{0} L T^{0}\\right]}=1\\)<\/p><p>\\(\\therefore\\) An angle is a dimensionless quantity.<\/p><p>\\(\\text { Strain }=\\frac{\\text { change in length }(\\Delta l)}{\\text { original length }(l)} =\\frac{\\left[M^{0} L T^{0}\\right]}{\\left[M^{0} L T^{0}\\right]}=1\\)<\/p><p>\\(\\therefore\\) Strain is a dimensionless quantity.<\/p><p>\\(\\text { Specific gravity }(\\rho)=\\frac{\\text { Density of the object }\\left(\\rho_{\\text {object}}\\right)}{\\text { Density of water }\\left(\\rho_{\\text {water}}\\right)} =\\frac{\\left[M L^{3} T^{0}\\right]}{\\left[M L^{3} T^{0}\\right]}=1\\)<\/p><p>\\(\\therefore\\) Specific gravity is a dimensionless quantity.<\/p>",
+                    null,
+                    null,
+                    [
+                        33,
+                        393
+                    ],
+                    1,
+                    0,
+                    "d44638c773b143eea86051d5ab1908a1",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    35,
+                    null,
+                    "<p>Find the dimensional formula for magnetic field \\(\\vec{B}\\) from the given formula \\(\\vec{F}=q \\vec{B}|\\vec{v} \\sin \\theta|\\).<\/p>",
+                    [
+                        "<p>\\(\\left[\\mathrm{M} \\mathrm{L}^{1} \\mathrm{~T}^{-2} \\mathrm{~A}^{-1}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{M} \\mathrm{T}^{-2} \\mathrm{~A}^{-1}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{M} \\mathrm{T}^{-3} \\mathrm{~A}^{-1}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{M} \\mathrm{T}^{-2} \\mathrm{~A}^{-2}\\right]\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>\\(\\vec{F}=q \\vec{B}|\\vec{v} \\sin \\theta|\\)<\/p><p>\\([F]=\\left[M L T^{-2}\\right]\\)<\/p><p>\\([Q]=[A T]\\)<\/p><p>\\([V]=\\left[L T^{-1}\\right]\\)<\/p><p>\\(\\operatorname{Sin} \\theta\\) = Dimensionless<\/p><p>\\([B]=\\frac{\\mid F]}{\\mid q][v]}\\)<\/p><p>\\(=\\frac{\\left[M L T^{-2}\\right]}{\\mid A T]\\left[L T^{-1}\\right]}\\)<\/p><p>\\(=\\left[M L^{0} T^{-2} A^{-1}\\right]\\)<\/p><p>\\(=\\left[M T^{-2} A^{-1}\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        34,
+                        394
+                    ],
+                    1,
+                    0,
+                    "a7d3ccba717f47888157c8aaa37fb66f",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    36,
+                    null,
+                    "<p>Express the formula of gravitational constant in terms of mass, velocity, and wavelength?<\/p>",
+                    [
+                        "<p>\\(\\frac{\\mathrm{v} \\lambda }{ M^{2}}\\)<\/p>",
+                        "<p>\\(\\frac{\\mathrm{V}^{2} \\lambda }{\\mathrm{M}}\\)<\/p>",
+                        "<p>\\(\\frac{\\mathrm{V} \\lambda^{2}}{\\mathrm{M}}\\)<\/p>",
+                        "<p>\\(\\frac{V^{3} \\lambda^{3} }{ M}\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>We know that:<\/p><p>\\(\\mathrm{F}=\\mathrm{G} \\frac{M^{2}}{R^{2}}\\)<\/p><p>Dimention of \\(G=\\left[M^{-1} L^{3} T^{-2}\\right]\\).....(1)<\/p><p>\\(\\Rightarrow G=\\left[M^{-1} L^{3} T^{-2}\\right] \\)<\/p><p>Where, \\(\\text {Mass }=[\\mathrm{M}]\\),<\/p><p>\\(\\text {Velocity }=\\left[\\mathrm{LT}^{-1}\\right]\\) and<\/p><p>\\( \\text {Wavelength }(\\lambda)=[\\mathrm{L}] \\)<\/p><p>According to the question: we have to express the formula of gravitational constant in terms of mass, velocity, and wavelength.<\/p><p>So,\u00a0<\/p><p>\\( G \\propto M^{x}{V^{y}} \\lambda^{z} \\).....(2)<\/p><p>From (1).<\/p><p>\\({\\left[\\mathrm{M}^{-1}\\left. L^{3} \\mathrm{~T}^{-2}\\right] \\propto\\left[\\mathrm{M}^{1}\\right]^{\\mathrm{x}}\\left[\\mathrm{LT}^{-1}\\right]^{y}[\\mathrm{~L}]\\right.} \\)<\/p><p>\\({\\Rightarrow \\left[\\mathrm{M}^{-1} L^{3} \\mathrm{~T}^{-2}\\right] \\propto[\\mathrm{M}]^{\\mathrm{x}}[\\mathrm{L}]^{y+z}[\\mathrm{~T}]^{-y}}\\)<\/p><p>On comparing the power of \\(M, L{,} T\\)<\/p><p>\\(x=-1, y+z=3,-y=-2\\)<\/p><p>Put these values in (2).<\/p><p>\\( G \\propto M^{-1} V^{2} \\lambda^{1} \\)<\/p><p>\\(G \\propto \\frac{\\left(V^{2} \\lambda\\right)}{M}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        35,
+                        395
+                    ],
+                    1,
+                    0,
+                    "809c02725f374befa1d7035fde77302c",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    37,
+                    null,
+                    "<p>A physical quantity Q is found to depend on observables \\(\\mathrm{x}, \\mathrm{y}\\) and \\(\\mathrm{z}\\), obeying relation \\(\\mathrm{Q}=\\frac{\\mathrm{x}^{2 / 5} \\mathrm{z}^{3}}{\\mathrm{y}}\\) The percentage error in the measurements of \\(\\mathrm{x}, \\mathrm{y}\\) and \\(\\mathrm{z}\\) are \\(1 \\%, 2 \\%\\) and \\(4 \\%\\) respectively. What is percentage error in the quantity Q will be:<\/p>",
+                    [
+                        "<p>9 %<\/p>",
+                        "<p>10 %<\/p>",
+                        "<p>11 %<\/p>",
+                        "<p>12 %<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>The given quantity \\(Q=\\frac{x^{3} y^{2}}{z}\\)<\/p><p>Percentage error in \\(\\mathrm{Q} =\\frac{\\Delta \\mathrm{Q}}{\\mathrm{Q}} \\times 100=3 \\frac{\\Delta \\mathrm{x}}{\\mathrm{x}} \\times 100+2 \\frac{\\Delta \\mathrm{y}}{\\mathrm{y}} \\times 100+\\frac{\\Delta \\mathrm{z}}{\\mathrm{z}} \\times 100\\)<\/p><p>Percentage error in \\(\\mathrm{x}, \\mathrm{y}\\) and \\(\\mathrm{z}\\) are \\(1 \\%, 2 \\%\\) and \\(4 \\%\\) respectively.<\/p><p>Percentage error in \\(\\mathrm{Q}= \\frac{\\Delta \\mathrm{Q}}{\\mathrm{Q}} \\times 100=3 \\frac{1}{100} \\times 100+2 \\frac{2}{100} \\times 100+\\frac{4}{100} \\times 100\\)<\/p><p>\\(\\Rightarrow \\frac{\\Delta \\mathrm{Q}}{\\mathrm{Q}} \\times 100=3(1)+2(2)+1(4)\\)<\/p><p>\\(=11 \\%\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        36,
+                        396
+                    ],
+                    1,
+                    0,
+                    "e56910c678aa404097628cfa5d880f08",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    38,
+                    null,
+                    "<p>Random error can be eliminated by:<\/p>",
+                    [
+                        "<p>Careful observation<\/p>",
+                        "<p>Eliminating the cause<\/p>",
+                        "<p>Measuring the quantity with more than one instrument<\/p>",
+                        "<p>Taking large number of observations and then their mean<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Random errors<span>\u00a0are statistical fluctuations (in either direction) in the measured data due to the precision limitations of the measurement device. Random errors can be evaluated through statistical analysis and can be reduced by averaging over a large number of observations (see standard error).\u00a0<\/span>These errors can be eliminated by taking large number of observations and then their mean.<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        37,
+                        397
+                    ],
+                    1,
+                    0,
+                    "ae8b54fee3e444f89b6809fd9a9fb8c6",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    39,
+                    null,
+                    "<p>If the fundamental quantities are energy \\((E)\\), velocity \\((v)\\) and force \\((F)\\), then what will the dimensions of mass?<\/p>",
+                    [
+                        "<p>\\({Ev}^{2}\\)<\/p>",
+                        "<p>\\({Ev}^{-2}\\)<\/p>",
+                        "<p>\\({Fv}^{-1}\\)<\/p>",
+                        "<p>\\({Fv}^{-2}\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>We know that,<\/p><p>\\( {[\\mathrm{E}]=\\mathrm{ML}^2 \\mathrm{~T}^{-2}} \\)<\/p><p>\\( {[{v}]=\\mathrm{M}^{0} \\mathrm{L}^1 \\mathrm{~T}^{-1}} \\)<\/p><p>\\({[\\mathrm{~F}]=\\mathrm{M}^1 \\mathrm{~L}^1 \\mathrm{~T}^{-2}}\\)<\/p><p>Let dimension of mass in \\(\\mathrm{E}\\) is \\(=\\mathrm{x}\\)<\/p><p>Let dimension of mass in \\({v}\\) is \\(=\\mathrm{y}\\)<\/p><p>Let dimension of mass in \\(\\mathrm{F}\\) is \\(=\\mathrm{z}\\)<\/p><p>Then, \\(\\mathrm{M}=\\mathrm{E}^{\\mathrm{x}} {v}^{\\mathrm{y}} \\mathrm{F}^{\\mathrm{z}}\\)<\/p><p>\\(\\mathrm{M}^1 \\mathrm{~L}^{0} \\mathrm{T}^{0}=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-2}\\right]^{\\mathrm{x}}\\left[\\mathrm{M}^{0} \\mathrm{L}^1 \\mathrm{~T}^{-1}\\right]^{\\mathrm{y}}\\left[\\mathrm{M}^1 \\mathrm{~L}^1 \\mathrm{~T}^{-2}\\right]^{\\mathrm{z}}\\)<\/p><p>\\(\\mathrm{M}^1 \\mathrm{~L}^{0} \\mathrm{T}^{0}=\\mathrm{M}^{\\mathrm{x}+\\mathrm{z}} \\mathrm{L}^{2 \\mathrm{x}+\\mathrm{y}+\\mathrm{z}} \\mathrm{T}^{-2 \\mathrm{x}-\\mathrm{y}-2 \\mathrm{z}}\\)<\/p><p>\\(\\mathrm{x}+\\mathrm{z}=1\\cdots(i) \\)<\/p><p>\\(2 \\mathrm{x}+\\mathrm{y}+\\mathrm{z}=0\\cdots(ii) \\)<\/p><p>\\(2 \\mathrm{x}+\\mathrm{y}+2 \\mathrm{z}=0\\cdots(iii) \\)<\/p><p>By equation (i), (ii) &amp; (iii)<\/p><p>\\( x=1 \\),\u00a0\\( y=-2 \\),\u00a0\\(z=0\\)<\/p><p>So, \\([\\mathrm{M}]=\\mathrm{E}{v}^{-2}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        38,
+                        398
+                    ],
+                    1,
+                    0,
+                    "f048b8f24bee4737b7770ceb45eec518",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    40,
+                    null,
+                    "<p>Which of the following units denotes the dimensions \\(\\frac{\\mathrm{ML}^2 }{\\mathrm{Q}^2}\\), where \\(\\mathrm{Q}\\) denotes the electric charge?<\/p>",
+                    [
+                        "<p>\\(\\mathrm{H} / \\mathrm{m}^2\\)<\/p>",
+                        "<p>Henry (H)<\/p>",
+                        "<p>\\(\\mathrm{H} / \\mathrm{m}^2\\)<\/p>",
+                        "<p>Weber (Wb)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Henry is the unit of inductance (L).\u00a0<\/p><p>Inductance (L) \\(=\\frac{\\text {Flux}(\\phi)}{\\text {Current}(I)}=\\frac{\\phi}{I}\\)<\/p><p>Now,<\/p><p>Dimension of \\(\\phi=\\left[ML^2 T^{-2} A^{-1}\\right]\\)<\/p><p>Dimension of \\(I=[A]\\)<\/p><p>\\( L=\\frac{\\phi}{I}=\\frac{\\left[M L^2 T^{-2} A^{-1}\\right]}{[A]}=\\frac{\\left[ML^2\\right]}{\\left[A^2 T^2\\right]} \\)<\/p><p>Charge \\(=\\text {Current}\\times \\text {time }\\) or \\({[Q]=[A][T]} \\)<\/p><p>\\(\\Rightarrow L = \\frac{\\left[ML^2\\right]}{\\left[A^2 T^2\\right]} =\\frac{\\left[ML^2\\right]}{\\left[Q^2\\right]}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        39,
+                        399
+                    ],
+                    1,
+                    0,
+                    "004f12f4784946758462160c07755ca6",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    41,
+                    null,
+                    "<p>The dimensional formula of Planck's constant is:<\/p>",
+                    [
+                        "<p>\\(\\left[M L^{2} T^{-1}\\right]\\)<\/p>",
+                        "<p>\\(\\left[M L^{2} T^{-2}\\right]\\)<\/p>",
+                        "<p>\\(\\left[M L^{0} T^{2}\\right]\\)<\/p>",
+                        "<p>\\(\\left[M L T^{-2}\\right]\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Planck's constant is a physical constant that is the quantum of electromagnetic action. It relates the energy carried by a photon to its frequency by<\/p><p>\\({E}={h v}\\).<\/p><p>\\( h=\\frac{E}{v}\\)<\/p><p>Where, \\({E}=\\) energy, \\({v}=\\) frequency and \\({h}=\\) Planck's constant.<\/p><p>Now,<\/p><p>Dimensional formula of energy \\(({E})=\\left[{ML}^2 {~T}^{-2}\\right]\\)<\/p><p>Dimensional formula of frequency \\(({v})=\\left[{T}^{-1}\\right]\\)<\/p><p>\\( h=\\frac{[M L^2 T^{-2}]}{[T^{-1}]} \\)<\/p><p><span>\\( \\therefore{h}=[{ML}^2 {~T}^{-1}]\\)<\/span><br/><\/p>",
+                    null,
+                    null,
+                    [
+                        40,
+                        400
+                    ],
+                    1,
+                    0,
+                    "2bf1c4bdad5c46569d795fa13129ee4d",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    42,
+                    null,
+                    "<p>An Odometer is an instrument used to measure ________ in automobiles.<\/p>",
+                    [
+                        "<p>speed<\/p>",
+                        "<p>odour<\/p>",
+                        "<p>direction<\/p>",
+                        "<p>distance<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>An odometer or odograph is a device used to measure the distance travelled by the vehicle.<\/p><p>An odometer is a device that is used for measuring the distance travelled by a vehicle. The odometer is usually situated in the vehicle's dashboard. The word \"odometer\" is derived from two Greek words meaning path and measure.<\/p>",
+                    null,
+                    null,
+                    [
+                        41,
+                        401
+                    ],
+                    1,
+                    0,
+                    "cc734e25a5404703a43a237c55c53e35",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    43,
+                    null,
+                    "<p>In a pendulum, the time period is measured by \\(0.2 \\%\\) accuracy and length are measured by \\(0.5 \\%\\) accuracy. Find the percentage accuracy in the value of \\(\\mathrm{g}\\).<\/p>",
+                    [
+                        "<p>\\(0.3 \\%\\)<\/p>",
+                        "<p>\\(0.7 \\%\\)<\/p>",
+                        "<p>\\(0.1 \\%\\)<\/p>",
+                        "<p>\\(0.9 \\%\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Time period formula using pendulum \\(T=2 \\pi \\sqrt{\\frac{L}{g}}\\)<\/p><p>Or \\(g=L \\times\\left(\\frac{2 \\pi}{T}\\right)^2\\cdots(1)\\)<\/p><p>Putting the given values in the equation number (1) we get:<\/p><p>\\(g=0.5 L \\times\\left(\\frac{2 \\pi}{0.2 T}\\right)^2\\)<\/p><p>And we know that Relative Errors on multiplication and division get added and Relative Errors on exponential get multiplied.<\/p><p>Error in measuring length is \\(\\frac{\\Delta l}{l}=0.5\\)<\/p><p>Error in measuring time period is \\(\\frac{\\Delta T}{T}=0.2\\)<\/p><p>Then<\/p><p>\\(\\frac{\\Delta g}{g}=\\frac{\\Delta l}{l}+\\frac{2 \\Delta T}{T} \\)<\/p><p>\\(=0.5+2 \\times 0.2=0.9 \\%\\)<\/p><p>Thus the percentage error in the value of \\(g\\) is \\(0.9 \\%\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        42,
+                        402
+                    ],
+                    1,
+                    0,
+                    "223ddb802f1e4d869f539acb6beedf42",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    44,
+                    null,
+                    "<p>In SI system the fundamental units are:<\/p>",
+                    [
+                        "<p>meter, kilogram, second, ampere, Kelvin, mole and candela<\/p>",
+                        "<p>meter, kilogram, second, coulomb, Kelvin, mole and candela<\/p>",
+                        "<p>meter, Newton, second, ampere, Kelvin, mole and candela<\/p>",
+                        "<p>meter, kilogram, second, ampere, Kelvin, mole and lux<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Fundamental quantities are those which cannot be expressed or measured in terms of other physical quantities.\u00a0\u00a0<span>The SI system has seven fundamental quantities i.e. length, mass,\u00a0<\/span><span>time,\u00a0<\/span><span>electric current, thermodynamic temperature, amount of substance, and luminous intensity and their units in SI system are\u00a0<\/span><span>meter, kilogram, second, ampere, Kelvin, mole, and candela respectively.<\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        43,
+                        403
+                    ],
+                    1,
+                    0,
+                    "586dbb079f5e4f95991ae4e4add2ab14",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    45,
+                    null,
+                    "<p>The quantity that does not have mass in its dimension is:<br/><\/p>",
+                    [
+                        "<p>Electrical potential<\/p>",
+                        "<p>Electrical resistance<\/p>",
+                        "<p>Specific heat<\/p>",
+                        "<p>Magnetic flux<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Dimension of electrical potential \\(= [\\mathrm{M^1 L^2 T^{-3} A^{-1}}]\\)<\/p><p>Dimension of electrical resistance \\(= [\\mathrm{M^1 L^2 T^{-3} A^{-2}}]\\)<\/p><p>Dimension of specific heat \\(= [\\mathrm{M^0 L^2 T^{-2}K^{-1}}]\\)<\/p><p>Dimension of magnetic flux \\(= [\\mathrm{M^1 L^2 T^{-2}A^{-1}}]\\)<\/p><p>So, the specific heat does not have mass in its dimension.<\/p>",
+                    null,
+                    null,
+                    [
+                        44,
+                        404
+                    ],
+                    1,
+                    0,
+                    "0dba80115e154fdfae56c55876641195",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    46,
+                    null,
+                    "<p>If \\(\\mathrm{M}\\) denotes angular momentum and \\(\\mathrm{p}\\) denotes linear momentum, the dimensions of \\(\\frac{\\mathrm M}{\\mathrm p}\\) is:<\/p>",
+                    [
+                        "<p>\\([\\mathrm L^2]\\)<\/p>",
+                        "<p>\\([\\mathrm L^0]\\)<\/p>",
+                        "<p>\\([\\mathrm L^1]\\)<\/p>",
+                        "<p>\\([\\mathrm L^3]\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Linear momentum is the measure of impact caused due to a moving object with mass.\u00a0<\/p><p>Linear momentum \\(\\mathrm{p=m v}\\)<\/p><p>Where \\(\\mathrm m=\\) mass and \\(\\mathrm v=\\) is the velocity.<\/p><p>Angular momentum\u00a0 is the rotational equivalent of linear momentum.<\/p><p>Angular momentum, \\(\\mathrm{M}=\\mathrm{r} \\times \\mathrm{mv}\\)<\/p><p>Where \\(\\mathrm m=\\) mass, \\(\\mathrm r=\\) radius and \\(\\mathrm v=\\) velocity.<\/p><p>Ratio \\(=\\frac{\\mathrm M}{\\mathrm p}=\\frac{\\mathrm{r m v}}{\\mathrm{m v}}=\\mathrm r\\)<\/p><p>The dimension of \\(\\mathrm{r =[L^1]}\\)<\/p><p>So, the dimensions of \\(\\frac{\\mathrm M}{\\mathrm p}\\) is \\([\\mathrm L^1]\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        45,
+                        405
+                    ],
+                    1,
+                    0,
+                    "86320d09afb0404dbd1091383dd79108",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    47,
+                    null,
+                    "<p>The unit of momentum is:<\/p>",
+                    [
+                        "<p>\\(\\mathrm{Kgms}^{2}\\)<\/p>",
+                        "<p>\\(\\mathrm{Kgms}^{-2}\\)<\/p>",
+                        "<p>\\(\\mathrm{Kgms}\\)<\/p>",
+                        "<p>\\(\\mathrm{Kgms}^{-1}\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The linear momentum of a body is the quantity of motion contained in the body. It is measured in terms of the force required to stop the body in unit time. It is also measured as the product of the mass of the body and its velocity i.e.,<\/p><p>Momentum \\((p)=\\) mass \\((m) \\times\\) velocity \\((v)\\)<\/p><p>As we know that, the SI unit of mass is \\(\\mathrm{kg}\\) and the SI unit of velocity is \\(\\mathrm{m} / \\mathrm{s}\\). Therefore the unit of momentum is<\/p><p>\\(p=\\mathrm{kgms}^{-1}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        46,
+                        406
+                    ],
+                    1,
+                    0,
+                    "29918be61d7241d889af2f7bdf1f59c1",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    48,
+                    null,
+                    "<p>What is the dimensional formula of strain?<\/p>",
+                    [
+                        "<p>\\(\\mathrm{M}^{1} \\mathrm{~L}^{2} \\mathrm{~T}^{-2}\\)<\/p>",
+                        "<p>\\(\\mathrm{M}^{1} \\mathrm{~L}^{-1} \\mathrm{~T}^{-2}\\)<\/p>",
+                        "<p>\\(\\mathrm{M}^{0} \\mathrm{~L}^{0} \\mathrm{~T}^{-1}\\)<\/p>",
+                        "<p>None of the above<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The ratio of change in configuration to the original configuration is called strain.<\/p><p>Strain \\(=\\frac{\\text { Change in dimension }}{\\text { Original dimension }}\\)<\/p><p>As the strain is the ratio of two like quantities, it has no units and no dimensions.<\/p><p>Its dimension can be express as \\(\\mathrm{M}^{0} \\mathrm{L}^{0} \\mathrm{~T}^{0}\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        47,
+                        407
+                    ],
+                    1,
+                    0,
+                    "581feb080ee1480c92105d7cd7b2a46f",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    49,
+                    null,
+                    "<p>Which of following is the dimensional formula of Density?<\/p>",
+                    [
+                        "<p>\\(\\left[\\mathrm{M}^{0} \\mathrm{LT}^{-1}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{MLT}^{-2}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{ML}^{-3} \\mathrm{~T}^{0}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{MLT}^{-1}\\right]\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Density: It is defined as mass per unit volume.<\/p><p>i.e., Density \\(=\\frac{\\text { Mass }}{\\text { Volume }}\\)<\/p><p>Now,<\/p><p>Dimensional formula of mass = [M]<\/p><p>Dimensional formula of volume \\(=\\left[\\mathrm{L}^{3}\\right]\\)<\/p><p>Density \\(=\\frac{[M]}{\\left[L^{3}\\right]}\\)<\/p><p>\\(\\Rightarrow\\) Density \\(=[\\mathrm{ML}^{-3} \\mathrm{~T}^{0}]\\)<\/p><p>\\(\\therefore\\) Dimensional formula of density is \\(\\left[\\mathrm{ML}^{-3} \\mathrm{~T}^{0}\\right.\\) ].<\/p>",
+                    null,
+                    null,
+                    [
+                        48,
+                        408
+                    ],
+                    1,
+                    0,
+                    "5507c7708fcb4611b00cd11ced8c3929",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    50,
+                    null,
+                    "<p>Which of the physics quantity has the same unit in both C.G.S and M.K.S system?<\/p>",
+                    [
+                        "<p>Velocity<\/p>",
+                        "<p>Distance<\/p>",
+                        "<p>Time<\/p>",
+                        "<p>Mass<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Time period (T): The time taken to complete one full oscillation or cycle by the Wave is called the time period.<\/p><ul><li>The SI unit of the time period is second (sec).<\/li><li>The CGS unit of the time period is second (sec).<\/li><\/ul><p>From the above, it is clear that time is the physics quantity that has the same unit in both C.G.S and the M.K.S system.<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        49,
+                        409
+                    ],
+                    1,
+                    0,
+                    "3456d28830dd42b69041eeb0b5d1411b",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    51,
+                    null,
+                    "<p>If \\(x=a+b t+c t^{2}\\), where \\(x\\) is in meters and \\(t\\) is in second. What is the unit of \\(b\\) and \\(c\\) ?<\/p>",
+                    [
+                        "<p>\\(\\left[\\mathrm{M}^{-2} \\mathrm{~L}^{1} \\mathrm{~T}^{1}\\right]\\), \\(\\left[\\mathrm{M}^{1} \\mathrm{~L}^{1} \\mathrm{~T}^{-2}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{M}^{2} \\mathrm{~L}^{1} \\mathrm{~T}^{1}\\right]\\), \\(\\left[\\mathrm{M}^{1} \\mathrm{~L}^{1} \\mathrm{~T}^{2}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{M}^{1} \\mathrm{~L}^{0} \\mathrm{~T}^{-1}\\right]\\),\u00a0\\(\\left[\\mathrm{M}^{1} \\mathrm{~L}^{0} \\mathrm{~T}^{-2}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{M}^{2} \\mathrm{~L}^{0} \\mathrm{~T}^{1}\\right]\\), \\(\\left[\\mathrm{M}^{1} \\mathrm{~L}^{0} \\mathrm{~T}^{2}\\right]\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given equation \\(x=a+b t+c t^{2}\\),<\/p><p>Here, units of \\(x\\) are meters.<\/p><p>Therefore by the law of homogeneity, units of \\(x\\) are the same as units of \\(a\\).<\/p><p>Units of \\(a=\\) Meter \\((m)\\)<\/p><p>Units of \\(x=\\) units of \\(a=\\) units of \\(b t=\\) units of \\(c t^{2}\\)<\/p><p>From above:<\/p><p>\\(x=a=\\left[\\mathrm{M}^{1} \\mathrm{~L}^{0} \\mathrm{~T}^{0}\\right] \\)<\/p><p>\\(x=\\mathrm{bt} =\\frac{x}{t}=\\frac{\\left[\\mathrm{M}^{1} \\mathrm{~L}^{0} \\mathrm{~T}^{0}\\right]}{\\left[\\mathrm{M}^{0} \\mathrm{~L}^{0} \\mathrm{~T}^{1}\\right]}=\\left[\\mathrm{M}^{1} \\mathrm{~L}^{0} \\mathrm{~T}^{-1}\\right]\\)<\/p><p>Therefore units of \\(b\\) is \\(\\mathrm{ms}^{-1}\\). Similarly,<\/p><p>\\(x=\\mathrm{ct}^{2} \\)<\/p><p>\\(\\Rightarrow \\mathrm{c}=\\frac{x}{t^{2}}=\\frac{\\left[\\mathrm{M}^{1} \\mathrm{L}^{0} \\mathrm{T}^{0}\\right]}{\\left[\\mathrm{M}^{0} \\mathrm{~L}^{0} \\mathrm{~T}^{2}\\right]}=\\left[\\mathrm{M}^{1} \\mathrm{~L}^{0} \\mathrm{~T}^{-2}\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        50,
+                        410
+                    ],
+                    1,
+                    0,
+                    "a6abc519a715494481e3ea32671a5245",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    52,
+                    null,
+                    "<p>The square root of the product of inductance and capacitance has the dimension of\u00a0length:<\/p>",
+                    [
+                        "<p>Mass<\/p>",
+                        "<p>Length<\/p>",
+                        "<p>Time<\/p>",
+                        "<p>No dimension<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Frequency is the number of oscillations or the number of waves passes a given point in one sec.\u00a0<\/p><p>\\(\\Rightarrow f=\\frac{1}{T}\\)<\/p><p>We know that the frequency of oscillations generated by the LC circuit entirely depends on the values of the capacitor and inductor and their resonance condition.<\/p><p>\\(f=\\frac{1}{2 \\pi \\sqrt{L C}}\\)<\/p><p>Where \\(L=\\) Inductor and \\(C\\) = capacitor<\/p><p>From the above, it is clear that the resonant frequency can be written as<\/p><p>\\(\\Rightarrow f=\\frac{1}{2 \\pi \\sqrt{L C}}\\)<\/p><p>The above equation can be written as,<\/p><p>\\( \\Rightarrow \\sqrt{L C}=\\frac{1}{2 \\pi f} \\)<\/p><p>\\(\\Rightarrow \\sqrt{L C}=\\frac{T}{2 \\pi}\\)<\/p><p>Here, \\(2 \\pi\\) is constant, therefore the dimension of \\(\\sqrt{L C}\\) is<\/p><p>\\(\\Rightarrow \\sqrt{L C}=\\left[M^0 L^0 T^1\\right]\\)<\/p><p>So, the square root of the product of inductance and capacitance has the dimension of time.\u00a0<\/p>",
+                    null,
+                    null,
+                    [
+                        51,
+                        411
+                    ],
+                    1,
+                    0,
+                    "18989e4378dd4342930aa149a5ffd9d1",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    53,
+                    null,
+                    "<p>Which one of the following is not a derived unit?<\/p>",
+                    [
+                        "<p>Joule<\/p>",
+                        "<p>\u00a0Watt<\/p>",
+                        "<p>Newton<\/p>",
+                        "<p>Kilogram<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The work is the product of force and displacement.<\/p><p>\\(W=F \\times s\\)<\/p><p>It can also be written as\u00a0<\/p><p>\\(W=(m a) \\times s=m \\times \\frac{v}{t} \\times s=\\frac{m s^{2}}{t^{2}}=m s^{2} t^{-2}\\)<\/p><p>Substituting the fundamental units: mass, length and time.<\/p><p>\\(\\Rightarrow W=\\left[M L^{2} T^{-2}\\right]\\)<\/p><p>Now,<\/p><p>The Watt is a unit of power. The power is the work done by time.<\/p><p>\\(P=\\frac{W}{t}\\)<\/p><p>It can also be written as\u00a0<\/p><p>\\(P=\\frac{W}{t}=\\frac{F \\times s}{t}=\\frac{(m a) \\times s}{t}=\\frac{m s}{t} \\times \\frac{v}{t}=\\frac{m s^{2}}{t^{3}}=m s^{2} t^{-3}\\)<\/p><p>Substitute the fundamental units: mass, length and time.<\/p><p>\\(\\Rightarrow P=\\left[M L^{2} T^{-3}\\right]\\)<\/p><p>The Newton is a unit of force and force is the product of mass and acceleration.<\/p><p>\\(F=m a\\)<\/p><p>It can also be written as\u00a0<\/p><p>\\(F=m a=m \\times \\frac{v}{t}=m \\times \\frac{s}{t} \\times \\frac{1}{t} =\\frac{m s}{t^{2}}=m s t^{-2}\\)<\/p><p>Now, we will substitute the fundamental units: mass, length and time.<\/p><p>\\(\\Rightarrow F=[M L T^{-2}]\\)<\/p><p>Now consider, kilogram.<\/p><p>The dimensional formula of the kilogram is \\(k g=[M]\\)<\/p><p>So,\u00a0<span>Kilogram\u00a0<\/span><span>is not a derived unit.<\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        52,
+                        412
+                    ],
+                    1,
+                    0,
+                    "507cb2dc31974e46bffb62200107f823",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    54,
+                    null,
+                    "<p>Which of the following pair of physical quantities does not have the same dimensions?<\/p>",
+                    [
+                        "<p>Electric flux, Electric dipole moment<br/><\/p>",
+                        "<p>Pressure, young's modulus<\/p>",
+                        "<p>Electromotive force, Potential difference<\/p>",
+                        "<p>Heat, Potential energy<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Electric Flux \\(=\\left[\\mathrm{M} \\mathrm{L}^3 \\mathrm{T}^{-3} \\mathrm{I}^{-1}\\right]\\)<\/p><p>Electric Dipole Moment \\([=\\mathrm{A L T}]\\)<\/p><p>Pressure \\(=\\left[\\mathrm{M} \\mathrm{L}^{-1} \\mathrm{~T}^{-2}\\right]\\)<\/p><p>Young's Modulus \\(=\\left[\\mathrm{M} \\mathrm{L}^{-1} \\mathrm{~T}^{-2}\\right]\\)<\/p><p>Electromotive Force \\(=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-3} \\mathrm{~A}^{-1}\\right]\\)<\/p><p>Potential Difference \\(=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-3} \\mathrm{~A}^{-1}\\right]\\)<\/p><p>Heat \\(=\\left[\\mathrm{M} \\mathrm{L}{ }^2 \\mathrm{~T}^{-2}\\right.\\) ]<\/p><p>Potential Energy \\(=\\left[\\mathrm{M} \\mathrm{L}^2 \\mathrm{~T}^{-2}\\right]\\)<\/p><p>So only the pair of electric flux and electric dipole moment has a different dimensional formula for both quantities.<\/p>",
+                    null,
+                    null,
+                    [
+                        53,
+                        413
+                    ],
+                    1,
+                    0,
+                    "993a54d8ec994ae18a02edb26dd52305",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    55,
+                    null,
+                    "<p>A meter reads \\(125 \\mathrm{~V}\\) and the true value of the voltage is \\(125.5 \\mathrm{~V}\\). Find the absolute error of the instrument.<\/p>",
+                    [
+                        "<p>\\(\\frac{125 }{0.5 \\mathrm{~V}}\\)<\/p>",
+                        "<p>\\(125 \\mathrm{~V}\\)<\/p>",
+                        "<p>\\(0.5 \\mathrm{~V}\\)<\/p>",
+                        "<p>\\(\\frac{0.5 }{125 \\mathrm{~V}}\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>\\(A_{m}=125 \\mathrm{~V}, A_{t}=125.5 \\mathrm{~V} \\)<\/p><p>Absolute error \\((E)=A_{m}-A_{t}\\).....(1)<\/p><p>\\(\\mathrm{A}_{\\mathrm{m}}=\\) Measured value<\/p><p>\\(A_{t}=\\) True value<\/p><p>Put the given values in (1),<\/p><p>Absolute error \\((E)=125-125.5 \\)<\/p><p>\\(\\Rightarrow E=0.5 \\mathrm{~V}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        54,
+                        414
+                    ],
+                    1,
+                    0,
+                    "51e3727853f94de199198e59719500b6",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    56,
+                    null,
+                    "<p>A wattmeter reads \\(25.34 \\mathrm{~W}\\). The absolute error in measurement is \\(-0.11 \\mathrm{~W}\\). What is the true value of power:<\/p>",
+                    [
+                        "<p>\\(25.23 \\mathrm{~W}\\)<\/p>",
+                        "<p>\\(25.45 \\mathrm{~W}\\)<\/p>",
+                        "<p>\\(-25.23 \\mathrm{~W}\\)<\/p>",
+                        "<p>\\(-25.45 \\mathrm{~W}\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Measured value \\(=25.34 \\mathrm{~W}\\)<br/><\/p><p>Absolute error \\(=-0.11 \\mathrm{~W}\\)<\/p><p>As we know,<\/p><p>Absolute error = Measured value - true value<\/p><p>Put the given values in above formula.<br/><\/p><p>\\(\\Rightarrow-0.11=25.34\\) - true value<\/p><p>\\(\\Rightarrow 25.34+0.11=25.45 \\mathrm{~W}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        55,
+                        415
+                    ],
+                    1,
+                    0,
+                    "aef2ec67087c48ebaf744b2858e9ddda",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    57,
+                    null,
+                    "<p>Dimensional formula of \\(\\omega\\) in equation \\(y=a \\sin (\\omega t+k x)\\) is:<\/p>",
+                    [
+                        "<p>\\([M^0 L^0 T^{-1}]\\)<\/p>",
+                        "<p>\\([M^0 L^{-1} T^0]\\)<\/p>",
+                        "<p>\\([M L^0 T^0]\\)<\/p>",
+                        "<p>\\([M^0 L T^{-1}]\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given \\(y=a \\sin (\\omega t+k x)\\)<\/p><p>As we know that the trigonometric function is a dimensionless quantity. So, (\\(\\omega{t}+{k x})\\) is also a dimensionless quantity.<\/p><p>Here, \\(t=\\) time<\/p><p>The dimension of \\({t}\\) is given as,<\/p><p>\\(\\Rightarrow[t]=\\left[M^0 L^0 T^1\\right]\\cdots(1)\\)<\/p><p>Since the quantity \\(\\omega t\\) is dimensionless.<\/p><p>\\(\\Rightarrow[\\omega t]=\\left[M^0 L^0 T^0\\right]\\cdots(2)\\)<\/p><p>Let the dimension of \\(\\omega\\) as,<\/p><p>\\(\\Rightarrow[\\omega]=\\left[M^x L^y T^z\\right]\\cdots(3)\\)<\/p><p>By equation (1), equation (2) and equation (3),<\/p><p>\\(\\Rightarrow\\left[M^0 L^0 T^1\\right]\\left[M^x L^y T^z\\right]=\\left[M^0 L^0 T^0\\right] \\)<\/p><p>\\( \\Rightarrow\\left[M^x L^y T^{z+1}\\right]=\\left[M^0 L^0 T^0\\right] \\)<\/p><p>By comparison,<\/p><p>\\(\\Rightarrow x=0 \\)<\/p><p>\\( \\Rightarrow y=0 \\)<\/p><p>\\(\\Rightarrow z+1=0 \\Rightarrow z=-1\\)<\/p><p>So dimensional formula for \\(\\omega\\) is,<\/p><p>\\(\\Rightarrow[\\omega]=\\left[M^0 L^0 T^{-1}\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        56,
+                        416
+                    ],
+                    1,
+                    0,
+                    "cd906d8ef0b04e7d99212c51a5de928f",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    58,
+                    null,
+                    "<p>Which of the following quantity has dimensional formula as that of \\(\\frac{\\text { Energy }}{\\text { Mass } \\times \\text { Length }}\\) is:<\/p>",
+                    [
+                        "<p>Force<\/p>",
+                        "<p>Power<\/p>",
+                        "<p>Pressure<\/p>",
+                        "<p>Acceleration<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>We know that the dimension of the energy is given as,<\/p><p>Energy \\(=\\left[\\mathrm{M}^1 \\mathrm{L}^2 \\mathrm{T}^{-2}\\right]\\)<\/p><p>So the dimension of \\(\\frac{\\text { Energy }}{\\text { Mass } \\times \\text { Length }}\\) is given as,<\/p><p>\\(\\Rightarrow\\left[\\frac{\\text { Energy }}{\\text { Mass } \\times \\text { Length }}\\right]=\\frac{\\left[\\mathrm{M^1 L^2 T^{-2}}\\right]}{\\left[\\mathrm{M^1 L^1}\\right]} =\\left[\\mathrm{M^0 L^1 T^{-2}}\\right]\\)<\/p><p>The dimension of force is given as,<\/p><p>\\(\\Rightarrow[\\mathrm{F}]=\\left[\\mathrm{M}^1 \\mathrm{~L}^1 \\mathrm{~T}^{-2}\\right]\\)<\/p><p>The dimension of power is given as,<\/p><p>\\(\\Rightarrow[\\mathrm{P}]=\\left[\\mathrm{M}^1 \\mathrm{~L}^2 \\mathrm{~T}^{-3}\\right]\\)<\/p><p>The dimension of pressure is given as,<\/p><p>\\(\\Rightarrow[\\mathrm{P}]=\\left[\\mathrm{M}^1 \\mathrm{~L}^{-1} \\mathrm{~T}^{-2}\\right]\\)<\/p><p>The dimension of acceleration is given as,<\/p><p>\\(\\Rightarrow[\\mathrm{a}]=\\left[\\mathrm{M}^0 \\mathrm{~L}^1 \\mathrm{~T}^{-2}\\right]\\)<\/p><p>By the above explanation, it is clear that the dimensional formula for acceleration is the same as that of \\(\\frac{\\text { Energy }}{\\text { Mass } \\times \\text { Length }}\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        57,
+                        417
+                    ],
+                    1,
+                    0,
+                    "4e2728bd903144a8b78a151e6cfbd138",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    59,
+                    null,
+                    "<p>The dimensions of 'resistance' are same as those of __________ where \\(h\\) is the Planck's constant.<\/p>",
+                    [
+                        "<p>\\(\\frac{h}{e^2}\\)<\/p>",
+                        "<p>\\(\\frac{h}{e}\\)<\/p>",
+                        "<p>\\(\\frac{h^2}{e^2}\\)<br/><\/p>",
+                        "<p>\\(\\frac{h^2}{e}\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>In the options, \\({h}\\) is the Plank constant and \\({e}\\) is the charge of an electron. Hence<\/p><p>Dimensional formula of e or charge \\(\\mathrm{Q=[A T]}\\)<\/p><p>Dimensional formula of \\(h=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-1}\\right]\\)<\/p><p>Dimensional formula of Resistance \\(=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-3} \\mathrm{~A}^{-2}\\right]\\)<\/p><p>Dimension of \\(\\frac{h}{e^2}=\\frac{\\left[\\mathrm{M L^2 T^{-1}}\\right]}{[\\mathrm{A T}]^2}=\\left[\\mathrm{M L^2 A^{-2} T^{-3}}\\right]\\)<\/p><p>So the dimension of \\(\\frac{h}{e^2}\\) is the same as the Resistance.<\/p>",
+                    null,
+                    null,
+                    [
+                        58,
+                        418
+                    ],
+                    1,
+                    0,
+                    "a6c07ed3aae142aca47403dc62b1411d",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    60,
+                    null,
+                    "<p>If the unit of length, time and mass are increased by 10 times, then the numerical value of \"g\" (acceleration due to gravity) will:<\/p>",
+                    [
+                        "<p>Decreased by 10 times<\/p>",
+                        "<p>Increased by 10 times<\/p>",
+                        "<p>Increased by 20 times<\/p>",
+                        "<p>Remains the same<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given that: length, time, and mass are increased by 10 times.<\/p><p>Dimension formula of '\\({g}\\)' at initial condition \\(=\\left[\\mathrm{LT}^{-2}\\right]\\)\u00a0<\/p><p>But after increasing the quantity by 10 times, acceleration due to gravity is '\\(g_1\\)'<\/p><p>Dimensional formula of '\\(\\mathrm{g}_1\\)' \\(=[10 \\mathrm{L} ~100^{-1} \\mathrm{~T}^{-2}] \\Rightarrow\\left[\\frac{\\mathrm{LT}^{-2}}{10}\\right]\\)<\/p><p>\\(\\mathrm{g}_1=[\\frac{\\mathrm{L T^{-2}}}{10}] \\)<\/p><p>So, \\( \\mathrm{g}_1=\\frac{\\mathrm{g}}{10}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        59,
+                        419
+                    ],
+                    1,
+                    0,
+                    "8bf746823dc742d5a1dcfce46915a7c9",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    61,
+                    null,
+                    "<p>Which one of the following cannot be the unit of 'Pressure'?<\/p>",
+                    [
+                        "<p>\\(\\mathrm{N} / \\mathrm{m}^2\\)<\/p>",
+                        "<p>\\(\\mathrm{Kg}\\)-\\(\\mathrm{m}/\\mathrm{s}^2\\)<\/p>",
+                        "<p>\\(\\mathrm{Kg}/(\\mathrm{m}.\\mathrm{s}^2)\\)<\/p>",
+                        "<p>Pascal<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>The pressure is the perpendicular force acting per unit area. SI unit of pressure is Pascal, which is equivalent to \\(1 \\mathrm{~N}\\) force acting per sq. meter.<\/p><p>It is given by, \\(\\mathrm{P=\\frac{F}{A}}\\)<\/p><p>Its unit can also be derived from the formula as \\({\\mathrm N} / {\\mathrm m}^2\\).<\/p><p>\\(\\mathrm{Kg}\\)-\\(\\mathrm{m} / \\mathrm{s}^2\\) is the derived unit of force.<\/p><p>1 Pascal \\(=\\frac{\\mathrm F}{\\mathrm A}=\\frac{\\mathrm {m a}}{\\mathrm A}=\\frac{\\mathrm{K g m / s^2}}{\\mathrm m^2}={\\mathrm {Kg}} /({\\mathrm m}\\).\\({\\mathrm s}^2)\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        60,
+                        450
+                    ],
+                    1,
+                    0,
+                    "884ad08b96b2435abc3290f73d626686",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    62,
+                    null,
+                    "<p>Light year is a unit of:<\/p>",
+                    [
+                        "<p>Time<\/p>",
+                        "<p>Mass<\/p>",
+                        "<p>Distance<\/p>",
+                        "<p>Energy<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Light-year is the unit of length to measure large distances. The total distance travelled by light in a year is called 1 light year.<\/p><p>1 light-year \\(=9.46 \\times 10^{12} \\mathrm{~km}\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        61,
+                        451
+                    ],
+                    1,
+                    0,
+                    "792800aaede943fa8afd374ec8ca438e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    63,
+                    null,
+                    "<p>Which of the following has the unit Candela?<\/p>",
+                    [
+                        "<p>Electric intensity<\/p>",
+                        "<p>Luminous intensity<\/p>",
+                        "<p>Sound intensity<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Candela (Cd) is the SI unit of luminous intensity.\u00a0Luminous intensity is a measure of the amount of visible light emitted from a point source per unit time per unit solid angle.<\/p>",
+                    null,
+                    null,
+                    [
+                        62,
+                        452
+                    ],
+                    1,
+                    0,
+                    "e282dd41fe9d446e9949a3db93e98f83",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    64,
+                    null,
+                    "<p>Which of the following pair has\u00a0<span>same\u00a0<\/span><span>dimensions?<\/span><\/p>",
+                    [
+                        "<p>Pressure and stress<\/p>",
+                        "<p>Stress and strain<\/p>",
+                        "<p>Pressure and force<\/p>",
+                        "<p>Power and force<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Dimension of force = Dimension of mass \\(\\times\\) Dimension of acceleration \\(=[\\mathrm{M \\times LT^{-2}]=[M L T^{-2}}]\\)<\/p><p>Now,\u00a0<\/p><p>Dimension of pressure \\(=\\frac{\\text {Dimension of force }}{\\text {Dimension of area}}=\\frac{\\left[\\mathrm{MLT}^{-2}\\right]}{\\left[\\mathrm{L}^2\\right]}=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right]\\)<\/p><p>Again,<\/p><p>Stress \\(=\\frac{\\text { Force applied }}{\\text { Area }}\\)<\/p><p>Dimension of stress \\(=\\frac{\\left[\\mathrm{M L T^{-2}}\\right]}{[\\mathrm L^2]}=[\\mathrm{M L^{-1} T^{-2}}]\\).<\/p><p>Dimension of strain \\(=\\frac{\\text {Change in dimension }}{\\text {Initial dimension }}=\\frac{[\\mathrm{L}]}{[\\mathrm{L}]}=\\) A dimensionless quantity<\/p><p>Dimension of power \\(=\\frac{[\\mathrm{M L T^{-2}}] \\times[\\mathrm L]}{[\\mathrm T]}=[\\mathrm{M L^2 T^{-3}}]\\)<\/p><p>So, pressure and stress has same dimensions.<\/p>",
+                    null,
+                    null,
+                    [
+                        63,
+                        453
+                    ],
+                    1,
+                    0,
+                    "2e559398c42d4c87ba45fc510a419067",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    65,
+                    null,
+                    "<p>If \\(C\\) and \\(R\\) represent capacitance and resistance respectively, then the dimensions of \\(R C\\) are:<\/p>",
+                    [
+                        "<p>\\([\\mathrm{M}^0 \\mathrm{L}^0 \\mathrm{T}^2]\\)<\/p>",
+                        "<p>\\([\\mathrm{M}^0 \\mathrm{L}^0 \\mathrm{T}]\\)<\/p>",
+                        "<p>\\([\\mathrm{ML}^{-1}]\\)<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>\\(\\mathrm{R}\\) is resistance and \\(\\mathrm{C}\\) is capacitance.<\/p><p>We know that,<\/p><p>\\(\\mathrm{R}=\\mathrm{V} / \\mathrm{I}\\) (where \\(\\mathrm{V}\\) is the potential difference and I is current)<\/p><p>\\(\\mathrm{C}=\\mathrm{q} / \\mathrm{V}\\) (where \\(\\mathrm{q}\\) is a charge)<\/p><p>Unit of \\(\\mathrm{RC}=\\frac{\\mathrm{v}}{1} \\times \\frac{\\mathrm{q}}{\\mathrm{v}}=\\frac{\\mathrm{q}}{1}=\\frac{\\mathrm{q}}{(\\mathrm{g})}=\\mathrm{t}\\)<\/p><p>So, the dimension of RC is \\(\\left[\\mathrm{M}^{0} \\mathrm{L}^{0} \\mathrm{T}^1\\right]\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        64,
+                        454
+                    ],
+                    1,
+                    0,
+                    "bbebcf7171cd44409f915837ff54403e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    66,
+                    null,
+                    "<p>What are the dimensions of angular momentum?<\/p>",
+                    [
+                        "<p>\\(\\left[\\mathrm{M} \\mathrm{L}^2 \\mathrm{~T}^{-2}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{M} \\mathrm{L}^2 \\mathrm{~T}^{-3}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-1}\\right]\\)<\/p>",
+                        "<p>\\(\\left[\\mathrm{ML} \\mathrm{T}{ }^{-1}\\right]\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>We know that,<\/p><p>\\( \\mathrm{L}=\\mathrm{I} \\times \\omega=\\mathrm{r} \\times \\mathrm{p}\\)<\/p><p>Where, \\(\\mathrm{L}=\\) angular momentum, \\(\\mathrm{I}=\\) moment of inertia, \\({\\omega}=\\) angular momentum, \\(\\mathrm{r}=\\) distance and \\(\\mathrm{p}=\\) linear momentum \\(=(\\mathrm{m} \\times \\mathrm{v})\\).<\/p><p>Now,<\/p>\n<p>Dimensional formula of \\(({r})=[L]\\),<\/p>\n<p>Dimensional formula of \\(({p})=\\left[\\mathrm{M L T}^{-1}\\right]\\),<\/p>\n<p>- Therefore, the dimensional formula of \\(L\\) is \\(=[\\mathrm{L}] \\times\\left[\\mathrm{MLT}^{-1}\\right] \\)<\/p>\n<p>\\(\\Rightarrow \\mathrm{L}=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-1}\\right]\\)<\/p>\n<p>\\(\\therefore\\) Dimensional formula of angular momentum \\(L\\) is \\(\\left[\\mathrm{ML}^2 \\mathrm{T}^{-1}\\right]\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        65,
+                        455
+                    ],
+                    1,
+                    0,
+                    "1d25b1f59db440269be88ca153dd0a7e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    67,
+                    null,
+                    "<p>The dimensional formula for the modulus of rigidity is:<\/p>",
+                    [
+                        "<p>\\([\\mathrm{ML}^2 \\mathrm{~T}^{-2}]\\)<\/p>",
+                        "<p>\\([\\mathrm{ML} \\mathrm{~T}^{-3}]\\)<\/p>",
+                        "<p>\\([\\mathrm{ML}^{-1} \\mathrm{~T}^{-3}]\\)<\/p>",
+                        "<p>\\([\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}]\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Modulus of rigidity \\(=\\frac{\\text { Shear stress }}{\\text { Shear strain }}=\\frac{\\mathrm{\\frac{F}{ A}}}{\\mathrm{\\frac{x}{L}}}\\)<\/p><p>Dimensional formula ofm modulus of rigidity \\(=\\frac{[\\mathrm{M L T^{-2}}]}{[\\mathrm{L^2}]}=[\\mathrm{M L^{-1} T^{-2}}]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        66,
+                        456
+                    ],
+                    1,
+                    0,
+                    "2497f8b2321f4c4d9caf5b186f8c5945",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    68,
+                    null,
+                    "<p>The unit of surface tension may be expressed as:<\/p>",
+                    [
+                        "<p>\\(\\mathrm{Nm}\\)<\/p>",
+                        "<p>\\(\\mathrm{Nm}^2\\)<\/p>",
+                        "<p>\\(\\mathrm{Nm}^2\\)<\/p>",
+                        "<p>\\(\\mathrm{Nm}^{-1}\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The property of liquid surfaces to shrink into the minimum surface area possible is known as surface tension.<br/><\/p><p>T \\(= \\frac{F}{L}\\)<br/><\/p><p>SI unit of surface tension = Newton / meter = \\(\\frac{\\mathrm N}{\\mathrm m}\\) =\u00a0<span>\\(\\mathrm{Nm}^{-1}\\)<\/span><br/><\/p>",
+                    null,
+                    null,
+                    [
+                        67,
+                        457
+                    ],
+                    1,
+                    0,
+                    "fbceaea947b84ef0a3fdf27afcf10cf0",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    69,
+                    null,
+                    "<p>If \\(V\\) denotes the potential difference across the plates of a capacitor of capacitance \\(c\\), the dimensions of \\(\\mathrm{CV}^2\\) are:<\/p>",
+                    [
+                        "<p>Not expressible in [MLT]<\/p>",
+                        "<p>\u00a0\\([\\mathrm{MLT}^{-2}]\\)<\/p>",
+                        "<p>\u00a0\\([\\mathrm{M}^2 \\mathrm{LT}^{-1}]\\)<\/p>",
+                        "<p>\\([\\mathrm{ML}^2 \\mathrm{~T}^{-2}]\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>We know charge on plates \\( Q=C \\cdot V \\Rightarrow C=\\frac{Q}{V}\\)\u00a0<\/p><p>Also, work done \\(W=V \\cdot Q \\Rightarrow V=W / Q\\)<\/p><p>So, \\(C=\\frac{Q^2}{W}=\\frac{(I t)^2}{W} \\quad\\left[\\begin{array}{l}I \\rightarrow \\text { current } \\rightarrow \\text { ampere } \\\\ t \\rightarrow \\text { time } \\rightarrow \\text { seconds }\\end{array}\\right]\\)<\/p><p>\\(\\Rightarrow C=\\frac{\\left[A^2 T^2\\right]}{\\left[M L T^{-2} \\times L\\right]}=\\frac{\\left[A^2 T^4\\right]}{\\left[M L^2\\right]}=\\left[M^{-1} L^{-2} T^4 A^2\\right]\\)<\/p><p>Now,<\/p><p>\\(V\u00a0 =\\frac{\\omega}{Q}=\\frac{\\left[M L^2 T^{-2}\\right]}{[A T]} \\Rightarrow V^2=\\frac{\\left[M^2 L^4 T^{-4}\\right]}{\\left[A^2 T^2\\right]} \\)<\/p><p>\\(\\Rightarrow V^2=\\left[M^2 L^4 T^{-6} A^{-2}\\right] \\)<\/p><p>\\(C \\cdot V^2\u00a0 =\\left[M^{-1} L^{-2} T^4 A^2\\right]\\times \\left[M^2 L^4 T^{-6} A^{-2}\\right]=\\left[M L^2 T^{-2}\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        68,
+                        458
+                    ],
+                    1,
+                    0,
+                    "8e09e8922d954ada8a17eb76e6abb59d",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    70,
+                    null,
+                    "<p>If \\(\\mathrm{L}\\) denotes the inductance of an inductor through which a current \\(\\mathrm{i}\\) is flowing, the dimensions of \\(\\mathrm{Li}^2\\) are:<\/p>",
+                    [
+                        "<p>\\([{ML}^2 {~T}^{-2}]\\)<\/p>",
+                        "<p>Not expressible in \\([MLT]\\)<\/p>",
+                        "<p>\\([{MLT}^{-2}]\\)<\/p>",
+                        "<p>\\([{M}^2 {~L}^2 {~T}^{-2}]\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Let us consider the inductor \\(L\\) and current passing through the inductor is \\(I\\). Then the energy possessed by the inductor is \\(\\frac{1}{2} L I^2\\).<\/p><p>As this also same as that of energy so both have same dimensional formula<\/p><p>Now the energy is simply same as that of work and work is the product of force and displacement i.e.<\/p><p>\\(W=F \\times S\\)<\/p><p>As the dimensional formula of the force \\(=\\left[M L T^{-2}\\right]\\)<\/p><p>And the dimensional formula of length is \\(=[L]\\)<\/p><p>Then the dimensional formula of the work or energy is \\(=\\left[M L^2 T^{-2}\\right]\\)<\/p><p>So, the dimensional formula of \\(L I^2\\) is \\(\\left[M L^2 T^{-2}\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        69,
+                        459
+                    ],
+                    1,
+                    0,
+                    "409aa34e50cb49938daf6c539e36c01e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    71,
+                    null,
+                    "<p>A system of units uses force (F), acceleration (A) and time (T) as their fundamental physical quantities. The dimension of length in the system is:<\/p>",
+                    [
+                        "<p>\\([\\mathrm{FT}^2]\\)<\/p>",
+                        "<p>\\([\\mathrm{F}^{-1} \\mathrm{~T}^2]\\)<\/p>",
+                        "<p>\\([\\mathrm{F}^{-1} \\mathrm{~A}^2 \\mathrm{~T}^{-1}]\\)<\/p>",
+                        "<p>\\([\\mathrm{AT}^2]\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>We know that acceleration is defined as the rate of change of velocity.<\/p><p>\\(\\Rightarrow \\mathrm{a}=\\frac{\\Delta \\mathrm{v}}{\\Delta \\mathrm{t}}\\)<\/p><p>\\(\\Rightarrow[\\mathrm{a}]=\\frac{[\\Delta \\mathrm{v}]}{[\\Delta \\mathrm{t}]}\\)<\/p><p>\\(\\Rightarrow[\\mathrm{A}]=\\frac{\\left[\\mathrm{LT}{ }^{-1}\\right]}{[\\mathrm{T}]}\\)<\/p><p>\\(\\Rightarrow[\\mathrm{A}]=\\left[\\mathrm{L} \\mathrm{T}^{-2}\\right]\\)<\/p><p>\\(\\Rightarrow[\\mathrm{L}]=\\left[\\mathrm{AT}{ }^2\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        70,
+                        460
+                    ],
+                    1,
+                    0,
+                    "ebd59091720647d2aa723148620d9f4b",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    72,
+                    null,
+                    "<p>An athletic coach told his team that muscle times speed equals power. What dimensions does he view for muscle?<\/p>",
+                    [
+                        "<p>\\([\\mathrm{MLT ^{-2}}]\\)<\/p>",
+                        "<p>\\([\\mathrm{ML}^2 \\mathrm{~T}^{-2}]\\)<\/p>",
+                        "<p>\\([\\mathrm{MLT}^2]\\)<\/p>",
+                        "<p>\\([\\mathrm{L}]\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>According to the question,<\/p><p>Muscle \\(\\times\\) speed \\(=\\) power<\/p><p>\\(\\Rightarrow \\text {Muscle }=\\frac{\\text {Power }}{\\text {Speed }}\\)<\/p><p>So, dimension of muscle \\(=\\frac{\\left[\\mathrm{M^1 L^2 T^{-3}}\\right]}{\\left[L^1 T^{-1}\\right]}=\\left[\\mathrm{M L T^{-2}}\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        71,
+                        461
+                    ],
+                    1,
+                    0,
+                    "98d902abd6714be9998b8854f481551f",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    73,
+                    null,
+                    "<p>The pair having the same dimensions is:<\/p>",
+                    [
+                        "<p>Angular momentum, work<\/p>",
+                        "<p>Work, torque<\/p>",
+                        "<p><span>Potential energy,<\/span>\u00a0linear momentum<\/p>",
+                        "<p>Kinetic energy, velocity<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Angular momentum = \\(mvr=\\frac{kg-m^{2}}{s}=[M L^{2} T^{-1}]\\)<\/p><p>Work \\(=\\) Force \\(\\times\\) displacement = \\(ma\\times d = \\frac{kg-m^{2}}{s^2}=[M L^{2} T^{-2}]\\)<\/p><p>Torque \\(\\tau=\\) Force \\(\\times\\) perpendicular distance = \\(\\frac{kg-m^{2}}{s^2}=[M L^{2} T^{-2}]\\)<\/p><p>Potential energy \\(= mgh = kg-m^{2}/s^{2}= [M L^{2} T^{-2}]\\)<\/p><p>Linear momentum \\(p=mv=kg-m/s= [M LT^{-1}]\\)<\/p><p>Kinetic energy \\(= \\frac{1}{2} mv^{2}=\\frac{kg-m^{2}}{s^2}= [M L^{2} T^{-2}]\\)<\/p><p>Velocity \\(= \\frac{d}{t} = \\frac{m}{s} = [M L T^{-1}]\\)<\/p><p>So, the pair of Work, torque having the same dimensions.<\/p>",
+                    null,
+                    null,
+                    [
+                        72,
+                        462
+                    ],
+                    1,
+                    0,
+                    "19e3e0740c234ba7b4d7cf90d9c19d53",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    74,
+                    null,
+                    "<p>If velocity \\( v\\), acceleration \\(\\mathrm A\\) and force \\(\\mathrm F\\) are chosen as fundamental quantities, then the dimensional formula of angular momentum in terms of \\(v\\) \\(\\mathrm A\\) and \\(\\mathrm\u00a0 F\\) would be:<br/><\/p>",
+                    [
+                        "<p>\\([\\mathrm {F A^{-1}} v]\\)<\/p>",
+                        "<p>\\([\\mathrm F v^3 \\mathrm A^{-2}]\\)<\/p>",
+                        "<p>\\([\\mathrm F v^2 \\mathrm A^{-1}]\\)<\/p>",
+                        "<p>\\([\\mathrm F^2 v^2 \\mathrm A^{-1}]\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>We know that,<\/p><p>\\( [\\mathrm{F}]=\\left[\\mathrm{MLT}^{-2}\\right]\\)<\/p><p>\\([{v}]=\\left[\\mathrm{LT}^{-1}\\right] \\)<\/p><p>\\([\\mathrm{A}]=\\left[\\mathrm{LT}^{-2}\\right]\\)\u00a0<\/p><p>and \\([{\\vec{L}]=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-1}\\right]}\\)<\/p><p>Where \\(\\vec{L}\\) is the angular momentum let<\/p><p>\\([\\vec{L}]=[\\mathrm{F}]^{\\mathrm{a}}[{v}]^{\\mathrm{b}}[\\mathrm{A}]^{\\mathrm{c}}\\)<\/p><p>\\(\\Rightarrow\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-1}\\right]=\\left[\\mathrm{MLT}^{-2}\\right]^{\\mathrm{a}}\\left[\\mathrm{LT}^{-1}\\right]^{\\mathrm{b}}\\left[\\mathrm{LT}^{-2}\\right]^{\\mathrm{c}}\\)<\/p><p>\\(\\Rightarrow\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-1}\\right]=\\left[\\mathrm{M}^{(\\mathrm{a})} \\mathrm{L}^{(\\mathrm{a}+\\mathrm{b}+\\mathrm{c})} \\mathrm{T}^{(-2 \\mathrm{a}-\\mathrm{b}-2 \\mathrm{c})}\\right]\\)<\/p><p>By analysing , we get<\/p><p>\\( a=1 \\)<\/p><p>\\( a+b+c=2 \\)<\/p><p>\\( 2 a+b+2 c=1 \\)<\/p><p>By solving these equations, we get<\/p><p>\\(\\mathrm{a}=1, \\quad \\mathrm{~b}=3 \\mathrm{c}=-2\\)<\/p><p>So, \\(\\left[ \\mathrm{L}\\right]=\\left[{\\mathrm F v}^3 \\mathrm{A}^{-2}\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        73,
+                        463
+                    ],
+                    1,
+                    0,
+                    "1393c6aa0f23494f974c2e64f66c9f4e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    75,
+                    null,
+                    "<p>Dimensions of the following three quantities are the same:<\/p>",
+                    [
+                        "<p>Work, energy, force<\/p>",
+                        "<p>Velocity, momentum, impulse<\/p>",
+                        "<p>Potential energy, kinetic energy, momentum<\/p>",
+                        "<p>Pressure, stress, coefficient of elasticity<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Pressure \\(= \\frac{F}{A}=\\left[M L^{-1} T^{-2}\\right] \\)<\/p><p>Stress \\(=\\frac{F}{A}=\\left[M L^{-1} T^{-2}\\right] \\)\u00a0<\/p><p>Co. efficient of elasticity \\(=\\frac{\\text {Stress}}{\\text {stain}}\\)<\/p><p>\\(=\\frac{\\frac{{F}}{{A}}}{\\frac{\\Delta L}{L}}=[M L^{-1} T^{-2}]\\)<\/p><p>So,\u00a0Dimensions of p<span>ressure, stress, coefficient of elasticity are same.<\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        74,
+                        464
+                    ],
+                    1,
+                    0,
+                    "1293ac5de0034e1da27e3a9873d5d975",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    76,
+                    null,
+                    "<p>The dimensions of inter atomic force constant are:<\/p>",
+                    [
+                        "<p>\\([M T^{-2}]\\)<\/p>",
+                        "<p>\\([M L T^{-1}]\\)<\/p>",
+                        "<p>\\([M L T^{-2}]\\)<\/p>",
+                        "<p>\\([M L^{-1} T^{-1}]\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Interatomic force is the force between the atoms of a molecule.<\/p><p>We know that inter atomic force is given as:<\/p><p>\\(K=Y \\times r_0\\)<\/p><p>Y = Young's modulus and \\(r_0\\) = Interatomic distance<br/><\/p><p>\\(=\\left[M L^{-1} T^{-2}\\right] \\times[L]=\\left[M T^{-2}\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        75,
+                        465
+                    ],
+                    1,
+                    0,
+                    "0f684f7c67424796920d69e2e51cd9e6",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    77,
+                    null,
+                    "<p>If the speed of light (c), acceleration due to gravity ( \\(g\\) ) and pressure (p) are taken as the fundamental quantities, then the dimension of gravitational constant is:<\/p>",
+                    [
+                        "<p>\\(\\mathrm{c^2 g^0 p^{-2}}\\)<\/p>",
+                        "<p>\\(\\mathrm{c^0 g^2 p^{-1}}\\)<\/p>",
+                        "<p>\\(\\mathrm{c g^3 p^{-2}}\\)<\/p>",
+                        "<p>\\(\\mathrm{c^{-1} g^0 p^{-1}}\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Dimension of gravitational constant \\(\\mathrm{G}=\\mathrm{M}^{-1} \\mathrm{~L}^3 \\mathrm{~T}^{-2}\\)<\/p><p>Speed of light \\({[\\mathrm{c}]=\\left[\\mathrm{LT}^{-1}\\right]} \\)<\/p><p>Gravity \\({[\\mathrm{g}]=\\left[\\mathrm{LT}^{-2}\\right]} \\)<\/p><p>Pressure \\({[\\mathrm{p}]=\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right]}\\)<\/p><p>On equating dimensions<\/p><p>\\({\\left[\\mathrm{M}^{-1} \\mathrm{~L}^3 \\mathrm{~T}^{-2}\\right]=\\left[\\mathrm{LT}^{-1}\\right]^\\alpha\\left[\\mathrm{LT}^{-2}\\right]^\\beta\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-2}\\right]^\\gamma} \\)<\/p><p>By comparison\u00a0<\/p><p>\\(\\gamma=-1\\)<\/p><p>\\(3=\\alpha+\\beta-\\gamma =3 \\)<\/p><p>\\(\\alpha+\\beta=2\\cdots (1) \\)<\/p><p>And \\(-\\alpha-2 \\beta-2 \\gamma = -2\\)<\/p><p>\\(\\alpha+2 \\beta=4 \\cdots (2)\\)<\/p><p>Solving eq. (1) and (2) we get,<\/p><p>\\(\\alpha=0, \\beta=2\\)<\/p><p>\\(\\therefore\\) Dimension \\(=\\mathrm{c}^{0} \\mathrm{g}^2 \\mathrm{p}^{-1}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        76,
+                        466
+                    ],
+                    1,
+                    0,
+                    "787ecc90a2c343609f233741d0a36374",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    78,
+                    null,
+                    "<p>If the time period \\((T)\\) of vibration of a liquid drop depends on surface tension ( \\(S\\) ), radius \\((r)\\) of the drop and density ( \\(\\rho\\) ) of the liquid, then the expression of \\(T\\) is:<\/p>",
+                    [
+                        "<p>\\(T=k \\sqrt{\\rho r^3 / S}\\)<\/p>",
+                        "<p>\\(T=k \\sqrt{\\rho^{1 / 2} r^3 / S}\\)<\/p>",
+                        "<p>\\(T=k \\sqrt{\\rho r^3 / S^{1 / 2}}\\)<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Dimensional formula of, Time period \\([T]=\\left[M^0 L^0 T^1\\right]\\)<\/p><p>Surface tension\\([\\mathrm{S}]=\\left[\\mathrm{ML}^{\\circ} \\mathrm{T}^{-2}\\right]\\)<\/p><p>Radius \\([r]=\\left[M^{\\circ} L T^0\\right]\\)<\/p><p>Density \\([\\rho]=\\left[M^1 L^{-3} T^0\\right]\\)<\/p><p>Let us suppose the relation is<\/p><p>\\([T]=\\left[k \\rho^{\\mathrm{a}} \\mathrm{r}^{\\mathrm{b}} \\mathrm{S}^{\\mathrm{c}}\\right] \\)<\/p><p>\\(\\Rightarrow\\left[M^0 L^0 T^1\\right]=\\left[M^1 L^{-3} T^0\\right]^a \\times\\left[M^0 L T^0\\right]^b \\times\\left[M L^0 T^{-2}\\right]^c \\)<\/p><p>\\( \\Rightarrow\\left[M^0 L^0 T^1\\right]=\\left[M^{(a+c)} L^{(-3 a+b)} T^{(-2 c)}\\right] \\)<\/p><p>On comparing, we get,<\/p><p>\\(a+c=0 \\cdots(i)\\)<\/p><p>\\(-3 a+b=0 \\cdots(ii)\\)<\/p><p>\\(-2 c=1\\cdots(iii)\\)<\/p><p>On solving these equations, we get,<\/p><p>\\(a=\\frac{1}{2}, b=\\frac{3}{2}\\) and \\(c =\\frac{-1}{2}\\)<\/p><p>Thus,<\/p><p>\\(T=k \\rho^a r^b S^c \\Rightarrow T=k \\sqrt{\\rho r^3 / S}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        77,
+                        467
+                    ],
+                    1,
+                    0,
+                    "51ec6849099545579d5097ec079e941a",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    79,
+                    null,
+                    "<p>Dimension of electric current is:<\/p>",
+                    [
+                        "<p>\\(\\left[M^0 L^0 T^{-1} Q\\right]\\)<\/p>",
+                        "<p>\\(\\left[M L^2 T^{-1} Q\\right]\\)<\/p>",
+                        "<p>\\(\\left[M^2 L T^{-1} Q\\right]\\)<\/p>",
+                        "<p>\\(\\left[M^2 L^2 T^{-1} Q\\right]\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>We know that,<\/p><p>Electric Current \\(I=\\frac{q}{t}\\)<\/p><p>or \\(I=\\frac{[Q]}{[T]}\\)<\/p><p>Dimensional formula of electric current \\(I=\\left[M^0 L^0 T^{-1} Q\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        78,
+                        468
+                    ],
+                    1,
+                    0,
+                    "58b114c4d7b64059a0f33af74777d831",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    80,
+                    null,
+                    "<p>The fundamental physical quantities that have same dimensions in the dimensional formulae of torque and angular momentum are:<\/p>",
+                    [
+                        "<p>Mass, time<\/p>",
+                        "<p>Time, length<\/p>",
+                        "<p>Mass, length<\/p>",
+                        "<p>Time, mole<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Angular momentum \\(=m v r=\\frac{k g-m^2}{s}=[M L^2 T^{-1}]\\)<\/p><p>Torque \\(\\tau=\\) Force \\(\\times\\) perpendicular distance \\(=\\frac{k g-m^2}{s^2}=[M L^2 T^{-2}]\\)<br/><\/p><p>Both have the same dimensional unit of mass \\(M\\) and length \\(L\\). So,\u00a0The fundamental physical quantities that have same dimensions in the dimensional formulae of torque and angular momentum are mass and length.<\/p>",
+                    null,
+                    null,
+                    [
+                        79,
+                        469
+                    ],
+                    1,
+                    0,
+                    "debd9f21ac644601aa51ad81678f23a8",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    81,
+                    null,
+                    "<p>If pressure \\(P\\), velocity \\(v\\) and time \\(T\\) are taken as fundamental physical quantities, the dimensional formula of force is:<\/p>",
+                    [
+                        "<p>\\(P v^2 T^2\\)<\/p>",
+                        "<p>\\(P^{-1} v^2 T^{-2}\\)<\/p>",
+                        "<p>\\(P v T^2\\)<\/p>",
+                        "<p>\\(P^{-1} v T^2\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>\\( F=P^\\alpha v^\\beta T^\\gamma \\)<\/p><p>or \\(\\left[M^1 L^1 T^{-2}\\right]=\\left[M^\\alpha L^{-\\alpha+\\beta} T^{-2 \\alpha-\\beta+\\gamma}\\right] \\)<\/p><p>i.e. \\(\\left[M^1 L^1 T^{-2}\\right]=\\left[M^\\alpha L^{-\\alpha+\\beta} T^{-2 \\alpha-\\beta+\\gamma}\\right]\\)<\/p><p>Hence we have,<\/p><p>\\(\\alpha=1,-\\alpha+\\beta=1 \\text { and }-2 \\alpha-\\beta+\\gamma=-2\\)<\/p><p>Solving these we get,<\/p><p>\\(\\alpha=1, \\beta=2, \\gamma=2 \\)<\/p><p>\\(\\Rightarrow F=Pv ^2 T^2\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        80,
+                        470
+                    ],
+                    1,
+                    0,
+                    "5c9a6a1c63884669ab42ff78aec3323a",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    82,
+                    null,
+                    "<p>Dimensions of luminous flux are:<\/p>",
+                    [
+                        "<p>\\([M L^2 T^{-2}]\\)<\/p>",
+                        "<p>\\([M L^2 T^{-3}]\\)<\/p>",
+                        "<p>\\([M L^2 T^{-1}]\\)<\/p>",
+                        "<p>\\([M L T^{-2}]\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Luminous flux or Luminous power is an index of the perceived power of light.<\/p><p>\\(J=\\frac{\\text { energy }}{\\text { time }}\\)<\/p><p>\\(J=\\frac{\\left[M L^2 T^{-2}\\right]}{[T]}\\)<\/p><p>\\(J=\\left[M L^2 T^{-3}\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        81,
+                        471
+                    ],
+                    1,
+                    0,
+                    "b5df5794968e42fa9bc7879af60b184f",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    83,
+                    null,
+                    "<p>Which of the following represents the dimensions of Farad?<\/p>",
+                    [
+                        "<p>\\([M^{-1} L^{-2} T^4 A^2]\\)<\/p>",
+                        "<p>\\([M L^2 T^2 A^{-2}]\\)<\/p>",
+                        "<p>\\([M L^2 T^2 A^{-1}]\\)<\/p>",
+                        "<p>\\([M T^{-2} A^{-1}]\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Farad is the unit of capacitance.<\/p><p>We know that<\/p><p>Capacitance \\(=\\frac{\\text {Charge }}{\\text { Voltage }}=\\frac{I \\times t}{\\frac{\\omega}{ q}} \\)\u00a0<\/p><p>\\(C=\\frac{(I \\times t) \\times q}{\\omega}=\\frac{(I \\times t)^2}{\\omega} \\)<\/p><p>\\( C=\\frac{[A T]^2}{\\left[M L^2 T^{-2}\\right]}=\\left[M^{-1} L^{-2} T^4 A^2\\right]\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        82,
+                        472
+                    ],
+                    1,
+                    0,
+                    "cff52ef805a642df9bd386c489a09847",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    84,
+                    null,
+                    "<p>The dimensions of \\(\\mathrm{B}^2 \\mathrm{~L}^2 \\mathrm{C}\\)\u00a0<span>(where \\(\\mathrm{B}\\) is magnetic field, \\(\\mathrm{L}\\) is length and \\(\\mathrm{C}\\) is capacitance)<\/span><span>\u00a0is same as that of:<\/span><\/p>",
+                    [
+                        "<p>Mass<\/p>",
+                        "<p>Length<\/p>",
+                        "<p>Time<\/p>",
+                        "<p>Force<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The dimension \\(\\mathrm{B}=\\mathrm{MT}^{-2} \\mathrm{~A}^{-1}\\)<\/p><p>Dimension of \\(\\mathrm{C}=\\mathrm{M}^{-1} \\mathrm{~L}^{-2} \\mathrm{~T}^4 \\mathrm{A}^2\\)<\/p><p>Dimension of \\(\\mathrm{L}=\\mathrm{L}\\)<\/p><p>\\(\\therefore \\mathrm{B}^2 \\mathrm{~L}^2 \\mathrm{C}=[\\mathrm{M}^2 \\mathrm{~T}^{-4} \\mathrm{~A}^{-2}] \\times [\\mathrm{~L}^2] \\times [\\mathrm{M}^{-1} \\mathrm{~L}^{-2} \\mathrm{~T}^4 \\mathrm{~A}^2]\u00a0 \\)<\/p><p>\\(=[\\mathrm M \\mathrm L^{0} \\mathrm{T}^0 \\mathrm{A}^0]=M =\\) Dimension of Mass<\/p>",
+                    null,
+                    null,
+                    [
+                        83,
+                        473
+                    ],
+                    1,
+                    0,
+                    "f50306b8746a49b3b03755f3da9e4e10",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    85,
+                    null,
+                    "<p>The dimensional formula for strain is same as that for:<\/p>",
+                    [
+                        "<p>Stress<\/p>",
+                        "<p>Modulus of elasticity<\/p>",
+                        "<p>Thrust<\/p>",
+                        "<p>Angle<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The strain is a dimensionless quantity because it is a ratio of two similar quantities, namely lengths, area or volume.\u00a0<\/p><p><span>The angle is considered to be a dimensionless physical quantity as it is measured in radians and thus is the ratio of two lengths.\u00a0<\/span>So, the a<span>ngle has the same dimensional formula as strain because both of them are dimensionless.<\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        84,
+                        474
+                    ],
+                    1,
+                    0,
+                    "afa6bc9d54c64e3e945345f9a0e63304",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    86,
+                    null,
+                    "<p>Dimensions of velocity gradient are same as that of:<br/><\/p>",
+                    [
+                        "<p>Time period<\/p>",
+                        "<p>Frequency<\/p>",
+                        "<p>Angular acceleration<\/p>",
+                        "<p>Acceleration<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>The dimension of velocity gradient is given by<\/p><p>\\(\\frac{\\text { Dimension of Velocity }}{\\text { Dimension of Distance }}=\\frac{\\left[L T^{-1}\\right]}{[L]}=\\left[T^{-1}\\right]\\)<\/p><p>The time period is the time taken to complete one cycle of operations so the dimension of the time period is [T].<\/p><p>Frequency is the number of cycles per second, frequency is measured in Hertz and the dimension is given by<\/p><p>\\(\\Rightarrow \\nu=\\frac{1}{\\text { Dimension of time }}=\\frac{1}{[T]}=[T]^{-1}\\)<\/p><p>The dimension of the velocity gradient is the same as that of frequency.<\/p>",
+                    null,
+                    null,
+                    [
+                        85,
+                        475
+                    ],
+                    1,
+                    0,
+                    "142388363733441b9886579f5bf1896e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    87,
+                    null,
+                    "<p>Which one of the following pairs of quantities and their units is a proper match?<\/p>",
+                    [
+                        "<p>Magnetic flux - Weber<\/p>",
+                        "<p>Capacitance - Henry<\/p>",
+                        "<p>Impulse - N/sec<\/p>",
+                        "<p>Power - Farad<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The unit of the magnetic flux is Weber.<\/p><p>The unit of the Electric field is \\(N / C\\) or \\(V / m\\).<\/p><p><span>The unit of power is Watt.<\/span><br/><\/p><p>The unit of the Capacitance is Farad.<\/p>",
+                    null,
+                    null,
+                    [
+                        86,
+                        476
+                    ],
+                    1,
+                    0,
+                    "293266f6a2dc48e899dd3d79705dda2f",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    88,
+                    null,
+                    "<p>Temperature can be expressed as derived quantity in terms of:<\/p>",
+                    [
+                        "<p>Mass and time<\/p>",
+                        "<p>Length and mass<\/p>",
+                        "<p>L<span>ength, mass and time<\/span><\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Since, temperature is the fundamental quantity, so, it can not be derived from any other physical quantity.<\/p>",
+                    null,
+                    null,
+                    [
+                        87,
+                        477
+                    ],
+                    1,
+                    0,
+                    "6baf54f3bb3a4b2f9f87c0d374ba1c8b",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    89,
+                    null,
+                    "<p>Which of the following is a dimensionless\u00a0<span>quantity<\/span><span>?<\/span><\/p>",
+                    [
+                        "<p>\\(\\frac{\\text {Force}}{\\text {Acceleration}}\\)<\/p>",
+                        "<p>\\(\\frac{\\text {Velocity}}{\\text {Acceleration}}\\)<br/><\/p>",
+                        "<p>\\(\\frac{\\text { Volume}}{\\text {Area}}\\)<\/p>",
+                        "<p>\\(\\frac{\\text { Energy }}{\\text { Work }}\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>A dimensionless quantity is the one for which no physical dimension is assigned. It is also known as a bare, pure, or scalar quantity or also as a quantity of dimension one.<\/p><p>Work and energy both are having the same dimensions as \\(\\left[\\mathrm{ML}^2 \\mathrm{~T}^2\\right]\\).\u00a0<\/p><p>The ratio \\(\\frac{\\text { Energy }}{\\text { Work }}\\) will be a dimensionless quantity.<\/p>",
+                    null,
+                    null,
+                    [
+                        88,
+                        478
+                    ],
+                    1,
+                    0,
+                    "98dd6912486944e5a0e6a7f078e3dae1",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    90,
+                    null,
+                    "<p>Which of the following is a dimensional constant?<\/p>",
+                    [
+                        "<p>Gravitational constant<\/p>",
+                        "<p>Dielectric constant<\/p>",
+                        "<p>Refractive index<\/p>",
+                        "<p>Relative density<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Refractive Index is defined as the relative speed at which light moves through a material with respect to its speed in vacuum. As both the values belong to the same quantity (speed), units get nullified.So the Refractive Index is a dimensionless quantity.<\/p><p>If \\(C\\) is the value of the capacitance of a capacitor filled with a given dielectric and \\(C_0\\) is the capacitance of an identical capacitor in a vacuum, the dielectric constant, symbolized by the Greek letter kappa, \\(\\kappa\\), is simply expressed as :<\/p><p>\\(\\kappa=C / C_0\\)<\/p><p>The dielectric constant is a number without dimensions.<\/p><p>Relative density of a substance is defined as the density of a substance divided by the density of water. So, it is a pure ratio and has no dimensions. Therefore, relative density is dimensionless.<\/p><p>A gravitational coupling constant is a constant characterizing the gravitational attraction between a given pair of elementary particles. Therefore, the dimension of the gravitational constant is \\([M^{-1} L^3 T^{-2}]\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        89,
+                        479
+                    ],
+                    1,
+                    0,
+                    "0324ed1da32644dab2d0cfacd83db4f4",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ]
+            ],
+            "sol_passage": null,
+            "qp_ids": {},
+            "qc_ids": {}
+        },
+        "user": {
+            "level": 4,
+            "name": "Admin"
+        }
+    },
+    "status": true,
+    "msg": "",
+    "code": 200
+}

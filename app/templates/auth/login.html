@@ -1,0 +1,247 @@
+{% extends "base.html" %}
+
+{% block title %}Login - KODEMAPA{% endblock %}
+
+{% block styles %}
+<style>
+.auth-form .form-control:focus,
+.auth-form .form-select:focus {
+    border-color: #6366f1 !important;
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2) !important;
+    background: #ffffff !important;
+    outline: none;
+}
+
+.auth-form .form-control:hover,
+.auth-form .form-select:hover {
+    border-color: #6366f1;
+    background: #ffffff;
+}
+
+.auth-form .form-control,
+.auth-form .form-select {
+    color: #1e293b !important;
+    background: #ffffff !important;
+    border: 2px solid #e2e8f0;
+}
+
+.auth-form .form-control::placeholder {
+    color: #64748b !important;
+}
+
+.auth-card {
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    background: rgba(255, 255, 255, 0.98) !important;
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 30px rgba(99, 102, 241, 0.12);
+}
+
+.auth-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+.btn-auth {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    color: white !important;
+    border: none !important;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-auth::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+    transition: left 0.6s;
+}
+
+.btn-auth:hover::before {
+    left: 100%;
+}
+
+.btn-auth:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 8px 25px rgba(99, 102, 241, 0.6);
+    background: linear-gradient(135deg, #667eea 0%, #ff006e 100%) !important;
+}
+
+.auth-bg {
+    background: linear-gradient(135deg, #fafbff 0%, #f8fafc 50%, #f1f5f9 100%);
+    min-height: 100vh;
+    position: relative;
+}
+
+.auth-bg::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: 
+        radial-gradient(circle at 20% 50%, rgba(99, 102, 241, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 80% 20%, rgba(255, 0, 110, 0.08) 0%, transparent 50%),
+        radial-gradient(circle at 40% 80%, rgba(6, 214, 160, 0.08) 0%, transparent 50%);
+    pointer-events: none;
+    z-index: -1;
+}
+
+.form-label {
+    color: #334155 !important;
+    font-weight: 600;
+}
+
+.auth-header {
+    color: #0f172a !important;
+}
+
+.auth-icon {
+    color: #6366f1;
+}
+
+.auth-link {
+    color: #6366f1 !important;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.auth-link:hover {
+    color: #4f46e5 !important;
+    text-decoration: underline;
+}
+
+/* Mobile optimizations */
+@media (max-width: 576px) {
+    .auth-card {
+        margin: 10px;
+        border-radius: 15px !important;
+    }
+    
+    .card-body {
+        padding: 2rem 1.5rem !important;
+    }
+    
+    .auth-icon {
+        font-size: 2.5rem !important;
+    }
+    
+    .auth-header {
+        font-size: 1.5rem !important;
+    }
+    
+    .form-control,
+    .form-select {
+        font-size: 16px !important; /* Prevents zoom on iOS */
+    }
+    
+    .btn-auth {
+        padding: 0.75rem 1rem !important;
+    }
+}
+
+@media (max-width: 400px) {
+    .card-body {
+        padding: 1.5rem 1rem !important;
+    }
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="auth-bg d-flex align-items-center justify-content-center min-vh-100 py-3">
+    <div class="container-fluid px-3">
+        <div class="row justify-content-center">
+            <div class="col-12 col-sm-8 col-md-6 col-lg-5 col-xl-4">
+                <div class="card shadow-lg border-0 auth-card" style="border-radius: 20px; max-width: 450px; margin: 0 auto;">
+                    <div class="card-body p-4 p-md-5">
+                        <!-- Header -->
+                        <div class="text-center mb-4">
+                            <div class="mb-3">
+                                <i class="bi bi-mortarboard-fill auth-icon" style="font-size: 2.8rem;"></i>
+                            </div>
+                            <h2 class="fw-bold mb-2 auth-header">Welcome to</h2>
+                            <h2 class="fw-bold mb-3 auth-header">ExamPad</h2>
+                            <p class="text-muted small">Sign in to continue your learning journey</p>
+                        </div>
+
+                        <!-- Flash Messages -->
+                        {% with messages = get_flashed_messages(with_categories=true) %}
+                            {% if messages %}
+                                {% for category, message in messages %}
+                                    <div class="alert alert-{{ 'danger' if category == 'error' else category }} alert-dismissible fade show" role="alert">
+                                        {{ message }}
+                                        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                                    </div>
+                                {% endfor %}
+                            {% endif %}
+                        {% endwith %}
+
+                        <!-- Login Form -->
+                        <form method="POST" action="{{ url_for('auth.login') }}" class="auth-form">
+                            <input type="hidden" name="csrf_token" value="{{ csrf_token() }}"/>
+                            <!-- Username -->
+                            <div class="mb-3">
+                                <label for="username" class="form-label">Username</label>
+                                <input type="text" class="form-control form-control-lg" id="username" name="username" 
+                                       placeholder="Enter your username" required 
+                                       style="border-radius: 12px; padding: 0.75rem 1rem;">
+                            </div>
+
+                            <!-- Password -->
+                            <div class="mb-3">
+                                <label for="password" class="form-label">Password</label>
+                                <input type="password" class="form-control form-control-lg" id="password" name="password" 
+                                       placeholder="Enter your password" required
+                                       style="border-radius: 12px; padding: 0.75rem 1rem;">
+                            </div>
+
+                            <!-- Role Selection -->
+                            <div class="mb-4">
+                                <label for="role" class="form-label">Role</label>
+                                <select class="form-select form-select-lg" id="role" name="role" 
+                                        style="border-radius: 12px; padding: 0.75rem 1rem;">
+                                    <option value="student">Student</option>
+                                    <option value="teacher">Teacher</option>
+                                </select>
+                            </div>
+
+                            <!-- Remember Me -->
+                            <div class="mb-4">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="remember" name="remember">
+                                    <label class="form-check-label text-muted" for="remember">
+                                        Remember me
+                                    </label>
+                                </div>
+                            </div>
+
+                            <!-- Sign In Button -->
+                            <button type="submit" class="btn btn-lg w-100 mb-4 btn-auth" 
+                                    style="border-radius: 12px; padding: 0.75rem 1.5rem; font-weight: 600;">
+                                Sign In
+                            </button>
+                        </form>
+
+                        <!-- Register Link -->
+                        <div class="text-center">
+                            <p class="text-muted mb-0">
+                                Don't have an account? 
+                                <a href="{{ url_for('auth.register') }}" class="auth-link fw-semibold">
+                                    Sign up here
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

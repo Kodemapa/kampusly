@@ -1,0 +1,2900 @@
+{
+    "status": true,
+    "msg": "",
+    "result": {
+        "data": {
+            "sol_passage": null,
+            "sec_questions": [
+                [
+                    1,
+                    null,
+                    "The first\u00a0law of thermodynamics is nothing but the law of conservation of ________.",
+                    [
+                        "temperature",
+                        "pressure",
+                        "volume",
+                        "energy"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The first law of thermodynamics is based on the law of conservation of energy, which states that energy cannot be created or destroyed, but can be transferred from one form to another.<\/p>",
+                    "6f2fdb0f3259c090704234f1d9bd11ac",
+                    null,
+                    [
+                        0,
+                        0
+                    ],
+                    1,
+                    3.009999990463257,
+                    "b6f9e2b45ae0468baa742ce5b3b2c329",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    2,
+                    null,
+                    "<p>Which of the following statements is correct, in case of adiabatic expansion?<\/p>",
+                    [
+                        "<p>\\(\\Delta \\mathrm{U}=0\\)<\/p>",
+                        "<p>\\(\\Delta \\mathrm{U}=\\) negative<\/p>",
+                        "<p>\\(\\Delta U=\\) positive<\/p>",
+                        "<p>\\(\\Delta \\mathrm{W}=0\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>In the case of adiabatic expansion, the volume of the system increases \\&amp; hence work done is taken as positive but there is no heat exchange between the system \\&amp; the surroundings which means that \\(\\Delta Q=0\\).<\/p><p>Therefore, From the first law of thermodynamics, we have<br/><\/p><p>\\(\\begin{aligned} &amp; 0=\\Delta U+W \\\\ &amp; \\Delta U=-W \\\\ &amp; \\Delta U=\\text { Negative }\\end{aligned}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        1,
+                        31
+                    ],
+                    1,
+                    0,
+                    "af06033e142545abb1756fa0a70c9308",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    3,
+                    null,
+                    "<p>\\(\\Delta \\mathrm{W}=0\\) for the process____________<\/p>",
+                    [
+                        "<p>Isobaric<\/p>",
+                        "<p>Isochoric<\/p>",
+                        "<p>Isothermal<\/p>",
+                        "<p>Adiabatic<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>An isochoric process in the context of thermodynamics is a term used to describe a situation where the volume of a system remains constant.<\/p><p>According to the question, the work done by the system equals zero.<\/p><p>Work done is given by, \\({\\Delta W}={P} {\\Delta V}\\)<\/p><p>If the volume of the system remains constant then \\(\\Delta \\mathrm{V}=0 \\Rightarrow \\Delta \\mathrm{W}=\\) 0<\/p><p>The process will be Isochoric.<\/p>",
+                    null,
+                    null,
+                    [
+                        2,
+                        32
+                    ],
+                    1,
+                    0,
+                    "593c131c18f2472d93117e216c0906bd",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    4,
+                    null,
+                    "<p>In a thermodynamic process, when the pressure of a fixed mass of gas is changed, \\(30 \\mathrm{~J}\\) heat is evolved and \\(10 \\mathrm{~J}\\) work is done on it. If internal energy is \\(100 \\mathrm{~J}\\), then the final internal energy is:<\/p>",
+                    [
+                        "<p>zero<\/p>",
+                        "<p>\\(80 \\mathrm{~J}\\)<\/p>",
+                        "<p>\\(20 \\mathrm{~J}\\)<\/p>",
+                        "<p>\\(60 \\mathrm{~J}\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given,\u00a0<\/p><p>Heat released by gas \\((Q)=-30 \\mathrm{~J}\\), Work done on gas, \\((\\Delta \\mathrm{W})\\) \\(=-10 \\mathrm{~J}\\), internal energy \\(U_i=100 \\mathrm{~J}\\)<\/p><p>From the first law of thermodynamics, the final internal energy is<br/><\/p><p>\\(\\begin{aligned} &amp; \\Delta U=Q-\\Delta W \\\\ &amp; \\Rightarrow U_f-100=-30-(-10) \\\\ &amp; \\Rightarrow U_f=80 \\mathrm{~J}\\end{aligned}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        3,
+                        33
+                    ],
+                    1,
+                    0,
+                    "d672d7c7b4e3498c9db5ef194f122043",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    5,
+                    null,
+                    "<p>A solid \\(X\\) is in thermal equilibrium with a solid \\(Y\\). Solid \\(Y\\) has the same temperature as solid \\(Z\\). If the three solids have different masses and compositions, which one of the following statements is correct?<\/p>",
+                    [
+                        "<p>\\(X\\) and \\(Z\\) have the same latent heat capacity<\/p>",
+                        "<p>\\(X\\) and \\(Y\\) have the same heat capacity<\/p>",
+                        "<p>Y may not necessarily be in thermal equilibrium with \\(Z\\)<\/p>",
+                        "<p>There will be no net transfer of energy if \\(X\\) is placed in thermal contact with Z<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>\\(X\\) and \\(Y\\) are in thermal equilibrium. So, they both have the same temperature.<\/p><p>Given that \\(Y\\) has the same temperature as \\(Z\\). So \\(Y\\) and \\(Z\\) are in thermal equilibrium.<\/p><p>Therefore, \\(X, Y\\), and \\(Z\\) are in thermal equilibrium with each other. So, if \\({X}\\) is placed in thermal contact with \\({Z}\\), there will be no net transfer of energy.<\/p>",
+                    null,
+                    null,
+                    [
+                        4,
+                        34
+                    ],
+                    1,
+                    0,
+                    "0326f20a0a5947ceb45a208ee2d07757",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    6,
+                    null,
+                    "<p>Zeroth law of thermodynamics gives the concept of:<\/p>",
+                    [
+                        "<p>Pressure<\/p>",
+                        "<p>Volume<\/p>",
+                        "<p>Heat<\/p>",
+                        "<p>Temperature<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>According to the Zeroth Law of Thermodynamics, when the thermodynamic systems A and \\(B\\) are separately in a thermal equilibrium with a third thermodynamic system \\(C\\), then the systems \\(\\mathrm{A}\\) and \\(\\mathrm{B}\\) are in thermal equilibrium with each other also.<\/p>",
+                    null,
+                    null,
+                    [
+                        5,
+                        35
+                    ],
+                    1,
+                    0,
+                    "88122b91a1384cc7aebb183448902b7e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    7,
+                    null,
+                    "<p>If \\(d Q\\) is the heat given to thermodynamic system and \\(d U\\) is its change in internal energy and \\(\\mathrm{dW}\\) is the work done on the system, then the first law of thermodynamics concludes that:<\/p>",
+                    [
+                        "<p>\\(d Q=d W\\)<\/p>",
+                        "<p>\\(d Q=d U-d W\\)<\/p>",
+                        "<p>\\(d Q=d W+d U\\)<\/p>",
+                        "<p>\\(d Q=d U\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>\\(Q \\rightarrow+v e\\) (when the heat is transferred to the system)<\/p><p>\\(Q \\rightarrow\\)-ve (when the heat is taken out of the system)<br/><\/p><p>\\(\\mathrm{W} \\rightarrow+\\mathrm{ve}\\) (when the work is done by the system)<br/><\/p><p>\\(\\mathrm{W} \\rightarrow\\)-ve (when the work is done on the system)<br/><\/p><p>From the first law of thermodynamics, \\(\\Rightarrow d Q=d U+d W\\)<br/><\/p><p>Since work is done on the system, therefore it will be negative<\/p><p>\\(\\Rightarrow d Q=d U=d W\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        6,
+                        36
+                    ],
+                    1,
+                    0,
+                    "de3c52ec9f6344229da79245bc4c6d02",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    8,
+                    null,
+                    "<p>In the isothermal process if the heat given to the system is \\(100 \\mathrm{~J}\\), the change in internal energy and the work done of the system will be:<\/p>",
+                    [
+                        "<p>\\(\\mathrm{W}=100 \\mathrm{~J} \\text { and } \\Delta \\mathrm{U}=0 \\mathrm{~J}\\)<\/p>",
+                        "<p>\\(\\mathrm{W}=0 \\mathrm{~J} \\text { and } \\Delta \\mathrm{U}=100 \\mathrm{~J}\\)<\/p>",
+                        "<p>\\(W=50 \\mathrm{~J} \\text { and } \\Delta U=50 \\mathrm{~J}\\)<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>\\(Q=100 \\mathrm{~J}\\)<\/p><p>In the isothermal process, the temperature remains constant during the process,<br/><\/p><p>\\(\\Rightarrow \\Delta T=0\\)....(1)<br/><\/p><p>The change in internal energy is given as,<br/><\/p><p>\\(\\begin{aligned} &amp; \\Rightarrow \\Delta U=n C_v \\Delta T \\\\ &amp; \\Rightarrow \\Delta U=n C_v \\times 0 \\\\ &amp; \\Rightarrow \\Delta \\mathrm{U}=0 \\mathrm{~J}\\end{aligned}\\)<br/><\/p><p>By the first law of thermodynamics,<br/><\/p><p>\\(\\begin{aligned} &amp; \\Rightarrow \\mathrm{Q}=\\mathrm{W}+\\Delta \\mathrm{U} \\\\ &amp; \\Rightarrow 100=\\mathrm{W}+0 \\\\ &amp; \\Rightarrow 100=\\mathrm{W} \\\\ &amp; \\Rightarrow \\mathrm{W}=100 \\mathrm{~J}\\end{aligned}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        7,
+                        37
+                    ],
+                    1,
+                    0,
+                    "d501b1ab1e44416aba25f78968a18a64",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    9,
+                    null,
+                    "<p>Which of the following is an intensive variable?<\/p>",
+                    [
+                        "<p>Internal energy<\/p>",
+                        "<p>Temperature<\/p>",
+                        "<p>Mass<\/p>",
+                        "<p>None of the above<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Intensive Property: These are the properties of the system which are independent of mass under consideration.\u00a0For example: Pressure, Temperature, density, composition<\/p><p>Extensive Properties: The properties which depend on the mass of the system under consideration.\u00a0For example: Internal Energy, Enthalpy, Mass, Volume, Entropy, weight.<\/p><p>From above it is clear that, the temperature is an intensive variable.<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        8,
+                        38
+                    ],
+                    1,
+                    0,
+                    "76441ecc0a3c4a5da1df2bb215cb95b0",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    10,
+                    null,
+                    "<p>Melting Point of pure ice is-<\/p>",
+                    [
+                        "<p>273 K<\/p>",
+                        "<p>0K<\/p>",
+                        "<p>-273 K<\/p>",
+                        "<p>300K<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The melting point is the temperature at which a solid turns to a liquid<\/p><p>The melting point at which ice turns into liquid is \\(0^{\\circ} {C}\\) or \\(273 {~K}\\).<\/p><p>Regelation is the phenomenon of ice melting under pressure and refreezing when the pressure is reduced.<\/p>",
+                    null,
+                    null,
+                    [
+                        9,
+                        39
+                    ],
+                    1,
+                    0,
+                    "d1b7388c274c44fab937dea62551d289",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    11,
+                    null,
+                    "<p>The efficiency of a heat engine can never be:<\/p>",
+                    [
+                        "<p>10%<\/p>",
+                        "<p>80%<\/p>",
+                        "<p>100%<\/p>",
+                        "<p>50%<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p><span>A heat engine is a device which converts continuously heat energy to mechanical energy in a cyclic Process.\u00a0<\/span><span>The main parts of a heat engine are:<\/span><br/><\/p><ul><li>Source: It is a heat reservoir at a higher temperature\u00a0 T<sub>1<\/sub>.<\/li><li>Sink: It is a reservoir at a lower temperature T<sub>2<\/sub>.\u00a0<\/li><li>Working Substance: Working substance is any gaseous or liquid substance that performs a mechanical work when heat supplied to it.<\/li><li>The diagram below shows the essential components of a heat engine.<\/li><\/ul><p><img alt=\"\" data-book_with_3_col=\"[60,110]\" src=\"https://kodemapa.com/static/media/wl_client/1/qdump/76db3f2436b3cb69cbd19f81a461e010/e3f5263a27c1678d90cdbec99d155482.png\" style=\"\"/><br/><\/p><p>Where,<\/p><p>HE\u00a0= Heat Engine<br/><\/p><p>T<sub>H<\/sub> = Temperature of Source / Hot reservoir<br/><\/p><p>T<sub>L<\/sub> = Temperature of Sink / Cold Reservoir<br/><\/p><p>Q<sub>1<\/sub> = Heat absorbed from Source<\/p><p>Q<sub>2<\/sub> = Heat rejected to Sink<\/p><p>The efficiency(\u03b7) of a heat engine is defined as:<\/p><p>\\(\\therefore \\eta=\\frac{W}{Q_{1}}=\\frac{Q_{1}-Q_{2}}{Q_{1}}=1-\\frac{Q_{2}}{Q_{1}}\\)<br/><\/p><p>Now, W = Q<sub>1<\/sub>\u00a0 - Q<sub>2<\/sub><br/><\/p><p><span>The efficiency of the heat engine is always less than 1.\u00a0\u00a0<\/span>This is because in reality none of the engines can convert absorbed heat completely into work, as some of the heat will always be dissipated during the process.\u00a0Also stated, according to the second Law no heat engine can have 100% efficiency<\/p>",
+                    null,
+                    null,
+                    [
+                        10,
+                        40
+                    ],
+                    1,
+                    0,
+                    "845aa89d584f4fa6a538bcd82e1e0f63",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    12,
+                    null,
+                    "<p>If the temperature of the source is increased, the efficiency of the Carnot engine:<\/p>",
+                    [
+                        "<p>Increases<\/p>",
+                        "<p>Decreases<\/p>",
+                        "<p>Remains Constant<\/p>",
+                        "<p>First increases and then becomes constant<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The efficiency \\((\\eta)\\) of the Carnot engine is given by:<\/p><p>\\(n=1-\\frac{T_C}{T_H}\\)<\/p><p>Here if \\(T_H\\) increases, the value of \\(T_C / T_H\\) decreases, and hence the value of \\(\\left(1-T_d / T_H\\right)\\) increases. If the temperature of the source \\(\\left(T_H\\right)\\) is increased then the efficiency of the Carnot engine increases.<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        11,
+                        41
+                    ],
+                    1,
+                    0,
+                    "2dda1a7e1e2a4c78ade3437a56b460bc",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    13,
+                    null,
+                    "<p>In which Thermodynamic process is there no flow of heat between the system and the surroundings?<\/p>",
+                    [
+                        "<p>Isobaric<\/p>",
+                        "<p>Isochoric<\/p>",
+                        "<p>Adiabatic<\/p>",
+                        "<p>Isothermal<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>In an adiabatic process, no heat flows between the system and surroundings.<\/p>",
+                    null,
+                    null,
+                    [
+                        12,
+                        42
+                    ],
+                    1,
+                    0,
+                    "d615b46483e14709bef34e50a338d1a2",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    14,
+                    null,
+                    "<p>An ideal gas heat engine operates in Carnot's cycle between \\(227^{\\circ} \\mathrm{C}\\) and \\(127^{\\circ} \\mathrm{C} \\mathrm{It} \\mathrm{absorbs}\\) \\(6 \\times 10^4 \\mathrm{~J}\\) at high temperature. The amount of heat converted into work is:<\/p>",
+                    [
+                        "<p>\\(4.8 \\times 10^4 \\times J\\)<\/p>",
+                        "<p>\\(3.5 \\times 10^4 \\times J\\)<\/p>",
+                        "<p>\\(1.6 \\times 10^4 \\times J\\)<\/p>",
+                        "<p>\\(1.2 \\times 10^4 \\times J\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Given - \\(T_1=227+273=500 \\mathrm{~K}, T_2=127+273=400 \\mathrm{~K}\\), Heat absorbed by the engine is \\(Q_1=6 \\times 10^4 \\mathrm{~J}\\)<\/p><p>The efficiency of heat engine is given by-<\/p><p>\\(\\begin{aligned} &amp; \\Rightarrow \\eta=\\frac{W}{Q_1}=1-\\frac{T_2}{T_1} \\\\ &amp; \\Rightarrow \\frac{W}{6 \\times 10^4}=1-\\frac{400}{500} \\\\ &amp; \\Rightarrow \\frac{W}{6 \\times 10^4}=1-\\frac{4}{5} \\\\ &amp; \\Rightarrow \\frac{W}{6 \\times 10^4}=\\frac{1}{5} \\\\ &amp; \\Rightarrow W=\\frac{6 \\times 10^4}{5}=1.2 \\times 10^4 \\mathrm{~J}\\end{aligned}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        13,
+                        43
+                    ],
+                    1,
+                    0,
+                    "3d1ef53dbd434366bbd58ab4e1babefc",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    15,
+                    null,
+                    "<p>In thermodynamics_____________ is not a state variable.<\/p>",
+                    [
+                        "<p>density<\/p>",
+                        "<p>internal energy<\/p>",
+                        "<p>enthalpy<\/p>",
+                        "<p>heat<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Internal energy, pressure, density, and enthalpy are examples of state variables. Since they depend only on the final and initial states of the thermodynamical system.<\/p><p>Heat is a measure of the amount of energy present in a thermodynamical system. As the amount of energy changes the heat present in the system changes. Hence heat is the path variable.<\/p>",
+                    null,
+                    null,
+                    [
+                        14,
+                        44
+                    ],
+                    1,
+                    0,
+                    "1530135134a04b1f810f1f735426b6ff",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    16,
+                    null,
+                    "<p>What is the source temperature of the Carnot engine in K required to get \\(70 \\%\\) efficiency?<\/p><p>Given sink temperature \\(=27^{\\circ} \\mathrm{C}\\)<\/p>",
+                    [
+                        "<p>1000 K<\/p>",
+                        "<p>90 K<\/p>",
+                        "<p>270 K<\/p>",
+                        "<p>727 K<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given that sink temperature \\(T_C=27^{\\circ} \\mathrm{C}=300 \\mathrm{~K}\\)<\/p><p>\\(\\eta=70 \\%=0.7\\)<\/p><p>\\(\\eta=1-\\frac{T_c}{T_h}\\)<\/p><p>\\(0.7=1-\\frac{300}{T_h}\\)<\/p><p>\\(\\mathrm{~T}_{\\mathrm{h}}=\\frac{300}{0.3}=1000 \\mathrm{~K}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        15,
+                        45
+                    ],
+                    1,
+                    0,
+                    "eee5ea98637b4e00b7f120782e1d38f9",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    17,
+                    null,
+                    "<p>The heat given to an ideal gas in isothermal conditions is used to:<\/p>",
+                    [
+                        "<p>increase temperature<\/p>",
+                        "<p>do external work<\/p>",
+                        "<p>increase temperature and in doing external work<\/p>",
+                        "<p>increase internal energy<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>When a thermodynamic system undergoes a physical change in such a way that its temperature remains constant, then the change is known as an isothermal process.<\/p><p>As we know that the internal energy of the system is a function of temperature alone, so in the isothermal process, the change in internal energy is zero.<\/p><p>\\(\\Rightarrow \\Delta \\mathrm{Q}=0+\\Delta \\mathrm{W}=\\Delta \\mathrm{W}\\)<\/p><p>Therefore, the heat given to an ideal gas in isothermal conditions is used to do external work.<\/p>",
+                    null,
+                    null,
+                    [
+                        16,
+                        46
+                    ],
+                    1,
+                    0,
+                    "1ee1b4c6817c4031abd0c0b669cce872",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    18,
+                    null,
+                    "<p>110 joule of heat is added to a gaseous system whose internal energy is \\(40 \\mathrm{~J}\\). Then the amount of external work done is:<\/p>",
+                    [
+                        "<p>150 J<\/p>",
+                        "<p>70 J<\/p>",
+                        "<p>110 J<\/p>",
+                        "<p>40 J<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given that, \\(\\Delta Q=110 \\mathrm{~J}, \\Delta U=40 \\mathrm{~J}\\)<\/p><p>According to the first law of thermodynamics:<\/p><p>\\(\\Delta \\mathrm{Q}=\\Delta \\mathrm{W}+\\Delta \\mathrm{U}\\)<\/p><p>\\(\\Delta \\mathrm{U}=\\Delta \\mathrm{Q}-\\Delta \\mathrm{W}\\)<\/p><p>\\(40 \\mathrm{~J}=110 \\mathrm{~J}-\\Delta \\mathrm{W}\\)<\/p><p>\\(\\Delta \\mathrm{W}=110-40=70 \\mathrm{~J}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        17,
+                        47
+                    ],
+                    1,
+                    0,
+                    "53f7822277cb455aaf29dfabdf78fe34",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    19,
+                    null,
+                    "<p>A Carnot engine whose sink is at 300 K has an efficiency of 40%. By how much\r\nshould the temperature of the source be increased so as to increase its efficiency\r\nby 50% of original efficiency?<br/><\/p>",
+                    [
+                        "<p>380 K<\/p>",
+                        "<p>275 K<\/p>",
+                        "<p>325 K<\/p>",
+                        "<p>250 K<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Temperature of \\(\\operatorname{sink} T_L=300 \\mathrm{~K}\\)<\/p><p>Original efficiency \\(\\eta=40 \\%=0.4\\)<br/><\/p><p>Let the Initial temperature of the source be \\(T_H\\)<br/><\/p><p>Using \\(\\eta=1-\\frac{T_L}{T_H}\\)<br/><\/p><p>\\(\\therefore 0.4=1-\\frac{300}{\\mathrm{~T}_{\\mathrm{H}}} \\Longrightarrow \\mathrm{T}_{\\mathrm{H}}=500 \\mathrm{~K}\\)<br/><\/p><p>Now the efficiency of the engine is increased by \\(50 \\%\\) of original efficiency,<\/p><p>\\(\\therefore\\) New efficiency \\(\\eta^{\\prime}=40 \\%+20 \\%=60 \\%\\)<\/p><p>\\(\\therefore \\eta^{\\prime}=1-\\frac{\\mathrm{T}_{\\mathrm{L}}}{\\mathrm{T}_{\\mathrm{H}}^{\\prime}}\\)<br/><\/p><p>OR \\(0.6=1-\\frac{300}{T_H^{\\prime}}\\)<br/><\/p><p>\\(\\mathrm{OR} \\frac{3 \\mathrm{OO}}{\\mathrm{T}_{\\mathrm{H}}^{\\prime}}=0.4 \\Rightarrow \\mathrm{T}_{\\mathrm{H}}^{\\prime}=750 \\mathrm{~K}\\)<\/p><p>Increase in source temperature \\(\\Delta \\mathrm{T}_{\\mathrm{H}}=\\mathrm{T}_{\\mathrm{H}}^{\\prime}-\\mathrm{T}_{\\mathrm{H}}=750-500=250 \\mathrm{~K}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        18,
+                        48
+                    ],
+                    1,
+                    0,
+                    "2c6961cf9bd84334bd6dc4856fa70f9e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    20,
+                    null,
+                    "<p>If Q, E and W denote respectively the heat added, change in internal energy\r\nand the work done in a closed cycle process, then:<\/p>",
+                    [
+                        "<p>Q = 0<\/p>",
+                        "<p>W = 0<\/p>",
+                        "<p>Q = W = 0<\/p>",
+                        "<p>\u00a0E = 0\u00a0<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Internal energy depends only on the initial and final states of temperature and not on the path.<\/p><p>In a cyclic process, as initial and final states are the same, change in internal energy is zero \\((\\Delta E=0)\\).<\/p><p>Hence \\({E}\\) is \\(\\Delta {U}\\), the change in internal energy.<\/p>",
+                    null,
+                    null,
+                    [
+                        19,
+                        49
+                    ],
+                    1,
+                    0,
+                    "510e44c8a97e4abc831efd9364250a3d",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    21,
+                    null,
+                    "<p>In thermodynamic processes which of the following statements is not true?<\/p>",
+                    [
+                        "<p>In an adiabatic process \\(\\mathrm{PV}^\\gamma=\\) constant<\/p>",
+                        "<p>In an adiabatic process the system is insulated from the surroundings<\/p>",
+                        "<p>In an isochoric process pressure remains constant<\/p>",
+                        "<p>In an isothermal process the temperature remains constant.<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>\u00a0An\u00a0isochoric\u00a0process is a thermodynamic process that occurs when\u00a0the\u00a0change in volume is zero.<\/p><p>Hence\u00a0the statement 'In an\u00a0isochoric process pressure remains constant is not true.<\/p>",
+                    null,
+                    null,
+                    [
+                        20,
+                        50
+                    ],
+                    1,
+                    0,
+                    "abaef9454f6a48889c4e7f4ed9f696f9",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    22,
+                    null,
+                    "<p>The internal energy change in a system that has absorbed 2 Kcal of heat and done 500 J of work is:<\/p>",
+                    [
+                        "<p>7900 J<\/p>",
+                        "<p>8900 J<\/p>",
+                        "<p>3400 J<\/p>",
+                        "<p>5400 J<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The First Law of Thermodynamics states that energy can be converted from one form to another with the interaction of heat, work and internal energy, but it cannot be created nor destroyed, under any circumstances. Mathematically, this is represented as<\/p><p>\u0394H=\u0394U+\u0394nRT<\/p><p>where,<\/p><p>\u0394H is the heat exchanged between a system and its surroundings,<\/p><p>\u0394U is the total change in internal energy of a system,<\/p><p>\u0394nRT is the work done by or on the system.<\/p><p>\u0394H=2Kcal=8400J<\/p><p>W=500J<\/p><p>So,\u0394U=8400\u2212500=7900J<\/p>",
+                    null,
+                    null,
+                    [
+                        21,
+                        51
+                    ],
+                    1,
+                    0,
+                    "0deb39f6e96249ed9012c7e539c4f2d7",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    23,
+                    null,
+                    "<p>A thermodynamic system is taken through the cycle ABCD as shown in\r\nfigure. Heat rejected by the gas during the cycle is:\u00a0<\/p><p><img src=\"https://kodemapa.com/static/media/wl_client/1/qdump/e55a342d057a52acc35b29ffdedd2ff4/20e791d66f85df6ddd75f1f1e494e041.png\" style=\"width: 100%; max-width: 149px; height: auto; max-height: 143px;\"/><br/><\/p>",
+                    [
+                        "<p>PV<\/p>",
+                        "<p>2PV<\/p>",
+                        "<p>4PV<\/p>",
+                        "<p>\\(\\frac{1}{2}\\) PV<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given: Cyclic process ABCDA<\/p><img src=\"https://kodemapa.com/static/media/wl_client/1/qdump/e55a342d057a52acc35b29ffdedd2ff4/20e791d66f85df6ddd75f1f1e494e041.png\"/><br/><br/><p>We know that,<\/p><p>In cyclic process<\/p><p>\u0394U=0<\/p><p>So, from the first law of the thermodynamics,<\/p><p>\u0394Q=\u0394W= area under the PV curve.<\/p><p>\u0394W=(2P\u2212P)(3V\u2212V)=2PV<\/p><p>\u2234 Heat rejected=2 PV<\/p>",
+                    null,
+                    null,
+                    [
+                        22,
+                        52
+                    ],
+                    1,
+                    0,
+                    "7421aca942a74d4a91451e5a7cb80315",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    24,
+                    null,
+                    "<p>An ideal gas is taken through a cycle \\(\\mathrm{A} \\rightarrow \\mathrm{B} \\rightarrow \\mathrm{C} \\rightarrow \\mathrm{A}\\) as shown in the figure. If the net heat supplied in the cycle is \\(5 \\mathrm{~J}\\), then work done by the gas in the process \\(\\mathrm{C} \\rightarrow \\mathrm{A}\\) is:<\/p><h1><img alt=\"139590_822f16e2e22e4d83bd86403ebdfce787.png\" data-book_with_2_col=\"[124,106]\" preload=\"true\" src=\"https://search-static.byjusweb.com/question-images/toppr_ext/questions/139590_822f16e2e22e4d83bd86403ebdfce787.png\" style=\"width: 124px; max-width: 124px; height: 106px; max-height: 106px;\"/><\/h1>",
+                    [
+                        "<p>-5 J<\/p>",
+                        "<p>- 10 J<\/p>",
+                        "<p>- 15 J<\/p>",
+                        "<p>-20 J<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>In the cyclic process :\u00a0<span class=\"mjx-chtml\" id=\"MathJax-Element-2-Frame\"><span class=\"mjx-math\" id=\"MJXc-Node-117166\"><span class=\"mjx-mrow\" id=\"MJXc-Node-117167\"><span class=\"mjx-mi\" id=\"MJXc-Node-117168\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-117169\"><span class=\"mjx-char MJXc-TeX-main-R\">=<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-117170\"><span class=\"mjx-char MJXc-TeX-main-R\">0<\/span><\/span><\/span><\/span><\/span><\/p><p><span class=\"mjx-mi\" id=\"MJXc-Node-117173\" style=\"\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-117174\" style=\"\"><span class=\"mjx-char MJXc-TeX-math-I\">Q<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-117175\" style=\"\"><span class=\"mjx-char MJXc-TeX-main-R\">=<\/span><\/span><span class=\"mjx-mi MJXc-space3\" id=\"MJXc-Node-117176\" style=\"\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" style=\"\"><span class=\"mjx-char MJXc-TeX-math-I\">W<\/span><\/span><\/p><p><span class=\"mjx-chtml\"><span class=\"mjx-math\"><span class=\"mjx-mrow\"><span class=\"mjx-mn MJXc-space3\"><span class=\"mjx-char MJXc-TeX-main-R\"><div><span class=\"mjx-chtml\"><span class=\"mjx-math\"><span class=\"mjx-mrow\"><span class=\"mjx-mi\"><span class=\"mjx-char MJXc-TeX-math-I\"><span class=\"mjx-mi\" id=\"MJXc-Node-117180\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-117181\"><span class=\"mjx-char MJXc-TeX-math-I\">W<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-117182\"><span class=\"mjx-char MJXc-TeX-main-R\">=<\/span><\/span><span class=\"mjx-msubsup MJXc-space3\" id=\"MJXc-Node-117183\"><span class=\"mjx-base\"><span class=\"mjx-mi\" id=\"MJXc-Node-117184\"><span class=\"mjx-char MJXc-TeX-math-I\">W<\/span><\/span><\/span><span class=\"mjx-sub\"><span class=\"mjx-texatom\" id=\"MJXc-Node-117185\"><span class=\"mjx-mrow\" id=\"MJXc-Node-117186\"><span class=\"mjx-mi\" id=\"MJXc-Node-117187\"><span class=\"mjx-char MJXc-TeX-math-I\">A<\/span><\/span><span class=\"mjx-mo\" id=\"MJXc-Node-117188\"><span class=\"mjx-char MJXc-TeX-main-R\">\u2192<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-117189\"><span class=\"mjx-char MJXc-TeX-math-I\">B<\/span><\/span><\/span><\/span><\/span><\/span><span class=\"mjx-mo MJXc-space2\" id=\"MJXc-Node-117190\"><span class=\"mjx-char MJXc-TeX-main-R\">+<\/span><\/span><span class=\"mjx-msubsup MJXc-space2\" id=\"MJXc-Node-117191\"><span class=\"mjx-base\"><span class=\"mjx-mi\" id=\"MJXc-Node-117192\"><span class=\"mjx-char MJXc-TeX-math-I\">W<\/span><\/span><\/span><span class=\"mjx-sub\"><span class=\"mjx-texatom\" id=\"MJXc-Node-117193\"><span class=\"mjx-mrow\" id=\"MJXc-Node-117194\"><span class=\"mjx-mi\" id=\"MJXc-Node-117195\"><span class=\"mjx-char MJXc-TeX-math-I\">B<\/span><\/span><span class=\"mjx-mo\" id=\"MJXc-Node-117196\"><span class=\"mjx-char MJXc-TeX-main-R\">\u2192<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-117197\"><span class=\"mjx-char MJXc-TeX-math-I\">C<\/span><\/span><\/span><\/span><\/span><\/span><span class=\"mjx-mo MJXc-space2\" id=\"MJXc-Node-117198\"><span class=\"mjx-char MJXc-TeX-main-R\">+<\/span><\/span><span class=\"mjx-msubsup MJXc-space2\" id=\"MJXc-Node-117199\"><span class=\"mjx-base\"><span class=\"mjx-mi\" id=\"MJXc-Node-117200\"><span class=\"mjx-char MJXc-TeX-math-I\">W<\/span><\/span><\/span><span class=\"mjx-sub\"><span class=\"mjx-texatom\" id=\"MJXc-Node-117201\"><span class=\"mjx-mrow\" id=\"MJXc-Node-117202\"><span class=\"mjx-mi\" id=\"MJXc-Node-117203\"><span class=\"mjx-char MJXc-TeX-math-I\">C<\/span><\/span><span class=\"mjx-mo\" id=\"MJXc-Node-117204\"><span class=\"mjx-char MJXc-TeX-main-R\">\u2192<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-117205\"><span class=\"mjx-char MJXc-TeX-math-I\">A<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/div><div><span class=\"mjx-chtml\" id=\"MathJax-Element-5-Frame\" style=\"\"><span class=\"mjx-math\" id=\"MJXc-Node-117206\"><span class=\"mjx-mrow\" id=\"MJXc-Node-117207\"><span class=\"mjx-msubsup\" id=\"MJXc-Node-117208\"><span class=\"mjx-base\"><span class=\"mjx-mi\" id=\"MJXc-Node-117209\"><span class=\"mjx-char MJXc-TeX-math-I\">W<\/span><\/span><\/span><span class=\"mjx-sub\"><span class=\"mjx-texatom\" id=\"MJXc-Node-117210\"><span class=\"mjx-mrow\" id=\"MJXc-Node-117211\"><span class=\"mjx-mi\" id=\"MJXc-Node-117212\"><span class=\"mjx-char MJXc-TeX-math-I\">B<\/span><\/span><span class=\"mjx-mo\" id=\"MJXc-Node-117213\"><span class=\"mjx-char MJXc-TeX-main-R\">\u2192<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-117214\"><span class=\"mjx-char MJXc-TeX-math-I\">C<\/span><\/span><\/span><\/span><\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-117215\"><span class=\"mjx-char MJXc-TeX-main-R\">=<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-117216\"><span class=\"mjx-char MJXc-TeX-main-R\">0<\/span><\/span><\/span><\/span><\/span>\u00a0(volume remains constant)<\/div><div><span class=\"mjx-chtml\" id=\"MathJax-Element-6-Frame\" style=\"\"><span class=\"mjx-math\" id=\"MJXc-Node-117217\"><span class=\"mjx-mrow\" id=\"MJXc-Node-117218\"><span class=\"mjx-msubsup\" id=\"MJXc-Node-117219\"><span class=\"mjx-base\"><span class=\"mjx-mi\" id=\"MJXc-Node-117220\"><span class=\"mjx-char MJXc-TeX-math-I\">W<\/span><\/span><\/span><span class=\"mjx-sub\"><span class=\"mjx-texatom\" id=\"MJXc-Node-117221\"><span class=\"mjx-mrow\" id=\"MJXc-Node-117222\"><span class=\"mjx-mi\" id=\"MJXc-Node-117223\"><span class=\"mjx-char MJXc-TeX-math-I\">A<\/span><\/span><span class=\"mjx-mo\" id=\"MJXc-Node-117224\"><span class=\"mjx-char MJXc-TeX-main-R\">\u2192<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-117225\"><span class=\"mjx-char MJXc-TeX-math-I\">B<\/span><\/span><\/span><\/span><\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-117226\"><span class=\"mjx-char MJXc-TeX-main-R\">=<\/span><\/span><span class=\"mjx-mi MJXc-space3\" id=\"MJXc-Node-117227\"><span class=\"mjx-char MJXc-TeX-math-I\">P<\/span><\/span><span class=\"mjx-mo\" id=\"MJXc-Node-117228\"><span class=\"mjx-char MJXc-TeX-main-R\">(<\/span><\/span><span class=\"mjx-msubsup\" id=\"MJXc-Node-117229\"><span class=\"mjx-base\"><span class=\"mjx-mi\" id=\"MJXc-Node-117230\"><span class=\"mjx-char MJXc-TeX-math-I\">V<\/span><\/span><\/span><span class=\"mjx-sub\"><span class=\"mjx-mn\" id=\"MJXc-Node-117231\"><span class=\"mjx-char MJXc-TeX-main-R\">2<\/span><\/span><\/span><\/span><span class=\"mjx-mo MJXc-space2\" id=\"MJXc-Node-117232\"><span class=\"mjx-char MJXc-TeX-main-R\">\u2212<\/span><\/span><span class=\"mjx-msubsup MJXc-space2\" id=\"MJXc-Node-117233\"><span class=\"mjx-base\"><span class=\"mjx-mi\" id=\"MJXc-Node-117234\"><span class=\"mjx-char MJXc-TeX-math-I\">V<\/span><\/span><\/span><span class=\"mjx-sub\"><span class=\"mjx-mn\" id=\"MJXc-Node-117235\"><span class=\"mjx-char MJXc-TeX-main-R\">1<\/span><\/span><\/span><\/span><span class=\"mjx-mo\" id=\"MJXc-Node-117236\"><span class=\"mjx-char MJXc-TeX-main-R\">)<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-117237\"><span class=\"mjx-char MJXc-TeX-main-R\">=<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-117238\"><span class=\"mjx-char MJXc-TeX-main-R\">10<\/span><\/span><span class=\"mjx-mo\" id=\"MJXc-Node-117239\"><span class=\"mjx-char MJXc-TeX-main-R\">(<\/span><\/span><span class=\"mjx-mn\" id=\"MJXc-Node-117240\"><span class=\"mjx-char MJXc-TeX-main-R\">2<\/span><\/span><span class=\"mjx-mo MJXc-space2\" id=\"MJXc-Node-117241\"><span class=\"mjx-char MJXc-TeX-main-R\">\u2212<\/span><\/span><span class=\"mjx-mn MJXc-space2\" id=\"MJXc-Node-117242\"><span class=\"mjx-char MJXc-TeX-main-R\">1<\/span><\/span><span class=\"mjx-mo\" id=\"MJXc-Node-117243\"><span class=\"mjx-char MJXc-TeX-main-R\">)<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-117244\"><span class=\"mjx-char MJXc-TeX-main-R\">=<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-117245\"><span class=\"mjx-char MJXc-TeX-main-R\">10<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-117246\"><span class=\"mjx-char MJXc-TeX-math-I\">J<\/span><\/span><\/span><\/span><\/span>\u00a0(pressure remains constant)<\/div><div>Therefore,\u00a0<span class=\"mjx-chtml\" id=\"MathJax-Element-7-Frame\" style=\"\"><span class=\"mjx-math\" id=\"MJXc-Node-117247\"><span class=\"mjx-mrow\" id=\"MJXc-Node-117248\"><span class=\"mjx-mn\" id=\"MJXc-Node-117249\"><span class=\"mjx-char MJXc-TeX-main-R\">5<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-117250\"><span class=\"mjx-char MJXc-TeX-main-R\">=<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-117251\"><span class=\"mjx-char MJXc-TeX-main-R\">10<\/span><\/span><span class=\"mjx-mo MJXc-space2\" id=\"MJXc-Node-117252\"><span class=\"mjx-char MJXc-TeX-main-R\">+<\/span><\/span><span class=\"mjx-msubsup MJXc-space2\" id=\"MJXc-Node-117253\"><span class=\"mjx-base\"><span class=\"mjx-mi\" id=\"MJXc-Node-117254\"><span class=\"mjx-char MJXc-TeX-math-I\">W<\/span><\/span><\/span><span class=\"mjx-sub\"><span class=\"mjx-texatom\" id=\"MJXc-Node-117255\"><span class=\"mjx-mrow\" id=\"MJXc-Node-117256\"><span class=\"mjx-mi\" id=\"MJXc-Node-117257\"><span class=\"mjx-char MJXc-TeX-math-I\">C<\/span><\/span><span class=\"mjx-mo\" id=\"MJXc-Node-117258\"><span class=\"mjx-char MJXc-TeX-main-R\">\u2192<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-117259\"><span class=\"mjx-char MJXc-TeX-math-I\">A<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/div><div><span class=\"mjx-mo\" id=\"MJXc-Node-117263\" style=\"\"><span class=\"mjx-char MJXc-TeX-main-R\">\u27f9<\/span><\/span><span class=\"mjx-mspace\" id=\"MJXc-Node-117264\" style=\"\"><\/span><span class=\"mjx-msubsup MJXc-space3\" id=\"MJXc-Node-117265\" style=\"\"><span class=\"mjx-base\"><span class=\"mjx-mi\" id=\"MJXc-Node-117266\"><span class=\"mjx-char MJXc-TeX-math-I\">W<\/span><\/span><\/span><span class=\"mjx-sub\"><span class=\"mjx-texatom\" id=\"MJXc-Node-117267\"><span class=\"mjx-mrow\" id=\"MJXc-Node-117268\"><span class=\"mjx-mi\" id=\"MJXc-Node-117269\"><span class=\"mjx-char MJXc-TeX-math-I\">C<\/span><\/span><span class=\"mjx-mo\" id=\"MJXc-Node-117270\"><span class=\"mjx-char MJXc-TeX-main-R\">\u2192<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-117271\"><span class=\"mjx-char MJXc-TeX-math-I\">A<\/span><\/span><\/span><\/span><\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-117272\" style=\"\"><span class=\"mjx-char MJXc-TeX-main-R\">=<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-117273\" style=\"\"><span class=\"mjx-char MJXc-TeX-main-R\">\u2212<\/span><\/span><span class=\"mjx-mn\" id=\"MJXc-Node-117274\" style=\"\"><span class=\"mjx-char MJXc-TeX-main-R\">5<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-117275\" style=\"\"><span class=\"mjx-char MJXc-TeX-math-I\" style=\"\">J<\/span><\/span><\/div><\/span><\/span><\/span><\/span><\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        23,
+                        53
+                    ],
+                    1,
+                    0,
+                    "4cf53e1a24c542eaadcd5923d772859a",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    25,
+                    null,
+                    "<p>Pick the one that is not a state variable of a thermodynamic system:<\/p>",
+                    [
+                        "<p>Temperature<br/><\/p>",
+                        "<p>Heat<br/><\/p>",
+                        "<p>Volume<br/><\/p>",
+                        "<p>Internal energy<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Heat is not a thermodynamic state variable as it is just a mode of energy transfer to the system.<\/p><p>Thermodynamic state variables are parameters which describe a system's equilibrium states. Example: temperature, pressure, volume, and internal energy.<\/p>",
+                    null,
+                    null,
+                    [
+                        24,
+                        54
+                    ],
+                    1,
+                    0,
+                    "6bb086291ca64f87ad502e19c92c2f09",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    26,
+                    null,
+                    "<p>A Carnot engine has an efficiency of \\(\\frac{1}{6}\\). When the temperature of the sink is reduced by \\(62^{\\circ} \\mathrm{C}\\), its efficiency is doubled. The temperatures of the source and the sink are, respectively:<\/p>",
+                    [
+                        "<p>\\(37^{\\circ} \\mathrm{C}, 99^{\\circ} \\mathrm{C}\\)<\/p>",
+                        "<p>\\(62^{\\circ} \\mathrm{C}, 124^{\\circ} \\mathrm{C}\\)<\/p>",
+                        "<p>\\(99^{\\circ} \\mathrm{C}, 37^{\\circ} \\mathrm{C}\\)<\/p>",
+                        "<p>\\(124^{\\circ} \\mathrm{C}, 62^{\\circ} \\mathrm{C}\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>\\(\\frac{1}{6}=1-\\frac{\\mathrm{T}_{\\text {sink }}}{\\mathrm{T}_{\\text {source }}} \\Rightarrow \\frac{\\mathrm{T}_{\\text {sink }}}{\\mathrm{T}_{\\text {source }}}=\\frac{5}{6} \\ldots1\\)<br/><\/p><p>Also,<br/><\/p><p>\\(\\frac{2}{6}=1-\\frac{\\mathrm{T}_{\\text {sink }}-62}{\\mathrm{~T}_{\\text {source }}} \\Rightarrow \\frac{62}{\\mathrm{~T}_{\\text {source }}}=\\frac{1}{6} \\ldots2\\)<br/><\/p><p>\\(\\therefore \\mathrm{T}_{\\text {source }}=372 \\mathrm{~K}=99^{\\circ} \\mathrm{C}\\)<br/><\/p><p>Also, \\(\\mathrm{T}_{\\text {sink }}=\\frac{5}{6} \\times 372=310 \\mathrm{~K}=37^{\\circ} \\mathrm{C}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        25,
+                        55
+                    ],
+                    1,
+                    0,
+                    "2abe32fbe89e44558d55e2ef4e4e3beb",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    27,
+                    null,
+                    "<p>An ideal gas heat engine operates in carnot cycle between \\(227^{\\circ} \\mathrm{C}\\) and \\(127^{\\circ} \\mathrm{C}\\). It absorbs \\(6 \\times 10^4 \\mathrm{cal}\\) of heat at higher temperature. Amount of heat converted into work, is:<\/p>",
+                    [
+                        "<p>\\(2.4 \\times 10^4 \\mathrm{cal}\\)<\/p>",
+                        "<p>\\(6.0 \\times 10^4 \\mathrm{cal}\\)<\/p>",
+                        "<p>\\(4.8 \\times 10^4 \\mathrm{cal}\\)<\/p>",
+                        "<p>\\(1.2 \\times 10^4 \\mathrm{cal}\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>For a Carnot engine, efficiency e \\(=1-\\frac{\\mathrm{T}_2}{\\mathrm{~T}_1}\\)<\/p><p>\\(=1-\\frac{127+273}{227+273}\\)<\/p><p>\\(=1-\\frac{400}{500}=\\frac{1}{5}\\)<\/p><p>Now, \\(\\mathrm{e}=\\frac{\\text { Work output }}{\\text { Heat input }}=\\frac{\\mathrm{W}}{6 \\times 10^4}\\)<br/><\/p><p>\\(\\mathrm{W}=\\mathrm{e} \\times 6 \\times 10^4=\\frac{1}{5} \\times 6 \\times 10^4\\)<\/p><p>\\(=1.2 \\times 10^4 \\mathrm{cal}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        26,
+                        56
+                    ],
+                    1,
+                    0,
+                    "3789d925eb8e4771a908802aecab527d",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    28,
+                    null,
+                    "<p>The second law of thermodynamics is concerned with the:<\/p>",
+                    [
+                        "<p>Amount of energy transferred<\/p>",
+                        "<p>Direction of energy transfer<\/p>",
+                        "<p>Non-cyclic processes only<\/p>",
+                        "<p>Irreversible processes only<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>The second law of thermodynamics states that the total entropy of an isolated system can only increase over time. It can remain constant in ideal cases where the system is in a steady state (equilibrium) or undergoing a reversible process.<\/p><p>The second law of thermodynamics says that when energy changes from one form to another form, or matter moves freely, entropy (disorder) increases. Hence, it is concerned with the direction of flow of energy.<\/p>",
+                    null,
+                    null,
+                    [
+                        27,
+                        57
+                    ],
+                    1,
+                    0,
+                    "90da307f690c48cba0f8ba0f7811aeef",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    29,
+                    null,
+                    "<p>In gases of diatomic molecules, find the ratio of the two specific heat of gases\u00a0\\(\\frac{C_p}{C_v}\\) is :<\/p>",
+                    [
+                        "<p>1.33<\/p>",
+                        "<p>1.66<\/p>",
+                        "<p>1.00<\/p>",
+                        "<p>1.40<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>For diatomic molecules<\/p><p>\\(\\begin{aligned} &amp; \\frac{C_p}{C_v}=1+\\frac{2}{f} \\\\ &amp; =1+\\frac{2}{5} \\\\ &amp; \\frac{C_p}{C_v}=\\frac{7}{5} \\approx 1.4\\end{aligned}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        28,
+                        58
+                    ],
+                    1,
+                    0,
+                    "80a28f1bf21041c7aac4c98710cbc577",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    30,
+                    null,
+                    "<p>A spherical black body with a radius of \\(12 \\mathrm{~cm}\\) radiates 450 watt power at \\(500 \\mathrm{~K}\\). If the radius were halved and the temperature doubled, the power radiated in watt would be:<\/p>",
+                    [
+                        "<p>1800<\/p>",
+                        "<p>225<\/p>",
+                        "<p>450<\/p>",
+                        "<p>1000<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Radius of the spherical black body, \\(R_1=12 \\mathrm{~cm}\\)<\/p><p>Power radiated, \\(\\mathrm{P}_1=450\\) watt<\/p><p>Temperature, \\(t_1=500 \\mathrm{~K}\\).<\/p><p>New radius, \\(R_2=6 \\mathrm{~cm}\\)<\/p><p>New temperature, \\(t_2=2 t_1\\)<\/p><p>New power \\(=\\mathrm{P}_2\\)<\/p><p>Rate of power loss<\/p><p>\\(P \\propto R^2 T^4\\)<\/p><p>\\(\\frac{P_1}{P_2}=\\frac{R_1^2 T_1^4}{R_2^2 T_2^4}\\)<\/p><p>\\( =4 \\times \\frac{1}{16}\\)<\/p><p>\\(\\frac{450}{r_2}=\\frac{1}{4}\\)<\/p><p>\\(P_2=1800\\) watt<\/p>",
+                    null,
+                    null,
+                    [
+                        29,
+                        59
+                    ],
+                    1,
+                    0,
+                    "7bfcb1474adc4036af9091cf5f37c150",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    31,
+                    null,
+                    "<p>The internal energy change for a system is \\(+20 \\mathrm{Cal}\\) and the work done is \\(-200 \\mathrm{Cal}\\). Find the heat exchanged between the system and the surrounding.<\/p>",
+                    [
+                        "<p>220 cal<\/p>",
+                        "<p>-220 cal<\/p>",
+                        "<p>-180 cal<\/p>",
+                        "<p>+180 cal<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given that:<\/p><p>\\(\\Delta \\mathrm{W}=-200 \\mathrm{Cal}\\) and \\(\\Delta \\mathrm{U}=+20 \\mathrm{Cal}\\)<\/p><p>According to the first law of Thermodynamics:<\/p><p>Heat exchanged \\((\\Delta Q)=\\Delta W+\\Delta U=-200+20=-180 \\mathrm{Cal}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        30,
+                        120
+                    ],
+                    1,
+                    0,
+                    "0c5619de75c84ddab3bb388715e37dd1",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    32,
+                    null,
+                    "<p>When the amount of work done is \\(333 \\mathrm{cal}\\) and change in internal energy is \\(167 \\mathrm{cal}\\), then the heat supplied is:<\/p>",
+                    [
+                        "<p>166 cal<\/p>",
+                        "<p>333 cal<\/p>",
+                        "<p>500 cal<\/p>",
+                        "<p>400 cal<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given \\(-\\Delta W=333 \\mathrm{cal}\\) and \\(\\Delta U=167 \\mathrm{cal}\\)<\/p><p>From the first law of thermodynamics, we have<br/><\/p><p>\\(\\begin{aligned} &amp; \\Rightarrow \\Delta Q=\\Delta U+\\Delta W \\\\ &amp; \\Rightarrow \\Delta Q=167+333=500 \\mathrm{cal}\\end{aligned}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        31,
+                        121
+                    ],
+                    1,
+                    0,
+                    "cfd9adc307f544e388a2997f0c1241a5",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    33,
+                    null,
+                    "<p>If heat is supplied to an ideal gas in an isothermal process:<\/p>",
+                    [
+                        "<p>The internal energy of the gas will increase<\/p>",
+                        "<p>The gas will do negative work<\/p>",
+                        "<p>The gas will do positive work<\/p>",
+                        "<p>The given process is not possible<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>For an ideal gas, Internal energy \\(U=f(T)\\) only<\/p><p>As the process is isothermal, so \\(T\\) will remain constant or \\(\\Delta T=0\\)<\/p><p>\\(\\therefore \\Delta U=0\\)<br/><\/p><p>From First Law of Thermodynamics<\/p><p>\\(\\Delta \\mathrm{Q}=\\Delta \\mathrm{U}+\\Delta \\mathrm{W}\\)<\/p><p>\\(\\Delta \\mathrm{Q}=0+\\Delta \\mathrm{W}\\)<\/p><p>As Heat is Supplied to the system is +ve so, work will also be +ve. \\((\\Delta W=+v e)\\)<\/p><p>So, we can say that the work is done by the gas.<\/p>",
+                    null,
+                    null,
+                    [
+                        32,
+                        122
+                    ],
+                    1,
+                    0,
+                    "9b582a6cb14c42fd9d4a2394d85c35ed",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    34,
+                    null,
+                    "<p>The correct thermodynamic conditions for the spontaneous reaction at all temperatures is:<\/p>",
+                    [
+                        "<p><span class=\"mjx-mi\" id=\"MJXc-Node-63665\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-63666\"><span class=\"mjx-char MJXc-TeX-math-I\">H<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-63667\"><span class=\"mjx-char MJXc-TeX-main-R\">&gt;<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-63668\"><span class=\"mjx-char MJXc-TeX-main-R\">0<\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-63669\"><span class=\"mjx-char MJXc-TeX-main-R\"> <\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-63670\"><span class=\"mjx-char MJXc-TeX-main-R\">and<\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-63671\"><span class=\"mjx-char MJXc-TeX-main-R\"> <\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-63672\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-63673\"><span class=\"mjx-char MJXc-TeX-math-I\">S<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-63674\"><span class=\"mjx-char MJXc-TeX-main-R\">&lt;<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-63675\"><span class=\"mjx-char MJXc-TeX-main-R\">0<\/span><\/span><\/p>",
+                        "<p><span class=\"mjx-mi\" id=\"MJXc-Node-41074\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41075\"><span class=\"mjx-char MJXc-TeX-math-I\">H<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-41076\"><span class=\"mjx-char MJXc-TeX-main-R\">&lt;<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-41077\"><span class=\"mjx-char MJXc-TeX-main-R\">0<\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-41078\"><span class=\"mjx-char MJXc-TeX-main-R\"> <\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-41079\"><span class=\"mjx-char MJXc-TeX-main-R\">and<\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-41080\"><span class=\"mjx-char MJXc-TeX-main-R\"> <\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41081\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41082\"><span class=\"mjx-char MJXc-TeX-math-I\">S<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-41083\"><span class=\"mjx-char MJXc-TeX-main-R\">&gt;<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-41084\"><span class=\"mjx-char MJXc-TeX-main-R\">0<\/span><\/span><\/p>",
+                        "<p><span class=\"mjx-mi\" id=\"MJXc-Node-41087\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41088\"><span class=\"mjx-char MJXc-TeX-math-I\">H<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-41089\"><span class=\"mjx-char MJXc-TeX-main-R\">&lt;<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-41090\"><span class=\"mjx-char MJXc-TeX-main-R\">0<\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-41091\"><span class=\"mjx-char MJXc-TeX-main-R\"> <\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41092\"><span class=\"mjx-char MJXc-TeX-math-I\">a<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41093\"><span class=\"mjx-char MJXc-TeX-math-I\">n<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41094\"><span class=\"mjx-char MJXc-TeX-math-I\">d<\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-41095\"><span class=\"mjx-char MJXc-TeX-main-R\"> <\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41096\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41097\"><span class=\"mjx-char MJXc-TeX-math-I\">S<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-41098\"><span class=\"mjx-char MJXc-TeX-main-R\">&lt;<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-41099\"><span class=\"mjx-char MJXc-TeX-main-R\">0<\/span><\/span><\/p>",
+                        "<p>None<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p><span class=\"mjx-chtml\" id=\"MathJax-Element-1-Frame\"><span class=\"mjx-math\" id=\"MJXc-Node-41072\"><span class=\"mjx-mrow\" id=\"MJXc-Node-41073\"><span class=\"mjx-mi\" id=\"MJXc-Node-41074\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41075\"><span class=\"mjx-char MJXc-TeX-math-I\">H<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-41076\"><span class=\"mjx-char MJXc-TeX-main-R\">&lt;<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-41077\"><span class=\"mjx-char MJXc-TeX-main-R\">0<\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-41078\"><span class=\"mjx-char MJXc-TeX-main-R\"> <\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-41079\"><span class=\"mjx-char MJXc-TeX-main-R\">and<\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-41080\"><span class=\"mjx-char MJXc-TeX-main-R\"> <\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41081\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-41082\"><span class=\"mjx-char MJXc-TeX-math-I\">S<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-41083\"><span class=\"mjx-char MJXc-TeX-main-R\">&gt;<\/span><\/span><span class=\"mjx-mn MJXc-space3\" id=\"MJXc-Node-41084\"><span class=\"mjx-char MJXc-TeX-main-R\">0<\/span><\/span><\/span><\/span><\/span><\/p><p><span class=\"mjx-chtml\" id=\"MathJax-Element-2-Frame\"><span class=\"mjx-math\" id=\"MJXc-Node-341280\"><span class=\"mjx-mrow\" id=\"MJXc-Node-341281\"><span class=\"mjx-mo\" id=\"MJXc-Node-341282\"><span class=\"mjx-char MJXc-TeX-ams-R\">\u2235<\/span><\/span><span class=\"mjx-mtext MJXc-space3\" id=\"MJXc-Node-341283\"><span class=\"mjx-char MJXc-TeX-main-R\"> <\/span><\/span><span class=\"mjx-mtext\" id=\"MJXc-Node-341284\"><span class=\"mjx-char MJXc-TeX-main-R\"> <\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-341285\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-341286\"><span class=\"mjx-char MJXc-TeX-math-I\">G<\/span><\/span><span class=\"mjx-mo MJXc-space3\" id=\"MJXc-Node-341287\"><span class=\"mjx-char MJXc-TeX-main-R\">=<\/span><\/span><span class=\"mjx-mi MJXc-space3\" id=\"MJXc-Node-341288\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-341289\"><span class=\"mjx-char MJXc-TeX-math-I\">H<\/span><\/span><span class=\"mjx-mo MJXc-space2\" id=\"MJXc-Node-341290\"><span class=\"mjx-char MJXc-TeX-main-R\">\u2212<\/span><\/span><span class=\"mjx-mi MJXc-space2\" id=\"MJXc-Node-341291\"><span class=\"mjx-char MJXc-TeX-math-I\">T<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-341292\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-341293\"><span class=\"mjx-char MJXc-TeX-math-I\">S<\/span><\/span><\/span><\/span><\/span><\/p><p>For reaction to be spontaneous,\u00a0<span class=\"mjx-chtml\" id=\"MathJax-Element-3-Frame\"><span class=\"mjx-math\" id=\"MJXc-Node-341294\"><span class=\"mjx-mrow\" id=\"MJXc-Node-341295\"><span class=\"mjx-mi\" id=\"MJXc-Node-341296\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-341297\"><span class=\"mjx-char MJXc-TeX-math-I\">G<\/span><\/span><\/span><\/span><\/span>\u00a0should be negative, this works if\u00a0<span class=\"mjx-chtml\" id=\"MathJax-Element-4-Frame\"><span class=\"mjx-math\" id=\"MJXc-Node-341298\"><span class=\"mjx-mrow\" id=\"MJXc-Node-341299\"><span class=\"mjx-mi\" id=\"MJXc-Node-341300\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-341301\"><span class=\"mjx-char MJXc-TeX-math-I\">H<\/span><\/span><\/span><\/span><\/span>\u00a0is negative and\u00a0<span class=\"mjx-chtml\" id=\"MathJax-Element-5-Frame\"><span class=\"mjx-math\" id=\"MJXc-Node-341302\"><span class=\"mjx-mrow\" id=\"MJXc-Node-341303\"><span class=\"mjx-mi\" id=\"MJXc-Node-341304\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-341305\"><span class=\"mjx-char MJXc-TeX-math-I\">S<\/span><\/span><\/span><\/span><\/span>\u00a0is positive.<\/p>",
+                    null,
+                    null,
+                    [
+                        33,
+                        123
+                    ],
+                    1,
+                    0,
+                    "ebba2c7ab70d4a0f8ad6baaee3f9841e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    35,
+                    null,
+                    "<p>\\(400 \\mathrm{~J}\\) of work is done on a gas to reduce its volume by compression adiabatically. What is the change in internal energy of the gas?<\/p>",
+                    [
+                        "<p>\\(-400 \\mathrm{~J}\\)<\/p>",
+                        "<p>\\(+400 \\mathrm{~J}\\)<\/p>",
+                        "<p>\\(-500 \\mathrm{~J}\\)<br/><\/p>",
+                        "<p>\\(500 \\mathrm{~J}\\)<br/><\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given \\(-\\Delta W=400 \\mathrm{~J}\\)<\/p><p>For the adiabatic process,<\/p><p>\\(\\Delta \\mathrm{Q}=0\\)<\/p><p>As work is done on the gas, so<\/p><p>\\(\\Delta \\mathrm{W}=-400 \\mathrm{~J}\\)<\/p><p>Change in internal energy,<\/p><p>\\(\\Delta U=\\Delta Q-\\Delta W=0-(-400)\\)<\/p><p>\\(\\Delta U=-400 \\mathrm{~J}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        34,
+                        124
+                    ],
+                    1,
+                    0,
+                    "d71d369eb363430bbbac99a4241bee30",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    36,
+                    null,
+                    "<p>The change in internal energy of a 2 moles of a gas is \\(-10 \\mathrm{~J}\\).\u00a0Find the work done on the gas if the process is adiabatic.<\/p>",
+                    [
+                        "<p>20 J<\/p>",
+                        "<p>15 J<\/p>",
+                        "<p>10 J<\/p>",
+                        "<p>5 J<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given - \\(\\Delta U=-10 \\mathrm{~J}\\)<br/><\/p><p>When a thermodynamic system undergoes a physical change in such a way that its change in heat remains constant, then the change is known as an adiabatic.<\/p><p>In adiabatic process, \\(\\Delta {Q}=0\\)<\/p><p>From the first law of thermodynamics:<\/p><p>\\(\\Rightarrow \\Delta \\mathrm{Q}=\\Delta \\mathrm{U}+\\Delta \\mathrm{W}\\)<\/p><p>\\(\\Rightarrow 0=\\Delta \\mathrm{U}+\\Delta \\mathrm{W}\\)<\/p><p>\\(\\Rightarrow \\Delta \\mathrm{W}=-(-10)=10 \\mathrm{~J}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        35,
+                        125
+                    ],
+                    1,
+                    0,
+                    "08325a6e7d5a4c978882c3d81ad858da",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    37,
+                    null,
+                    "<p>A device that converts heat energy into work in a cyclic process is:<\/p>",
+                    [
+                        "<p>Refrigerator<\/p>",
+                        "<p>Turbine<\/p>",
+                        "<p>Heat engine<\/p>",
+                        "<p>Electric motor<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>A heat engine is a closed-cycle device that takes heat from a hot reservoir, does useful work and rejects the remaining heat to a cold reservoir.\u00a0A device that converts heat energy into work in a cyclic process is a heat engine.<\/p>",
+                    null,
+                    null,
+                    [
+                        36,
+                        126
+                    ],
+                    1,
+                    0,
+                    "48c84f9f7e7541efb39ba44a452d2b18",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    38,
+                    null,
+                    "<p>For the thermodynamic heat pump, heat flows from:<\/p>",
+                    [
+                        "<p>Higher temperature to lower temperature<\/p>",
+                        "<p>Lower temperature to higher temperature<\/p>",
+                        "<p>Heat does not flow<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>A heat pump is a device that maintains a system or a body at a temperature higher than the surrounding temperature.<\/p><p>In the heat pump, the heat is removed from the low-temperature body and is added to the high-temperature body.<\/p>",
+                    null,
+                    null,
+                    [
+                        37,
+                        127
+                    ],
+                    1,
+                    0,
+                    "57d606e247b044c0815399f35a2462b3",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    39,
+                    null,
+                    "<p>A gas expands adiabatically at constant pressure such that its temperature \\(T \\propto \\frac{1}{\\sqrt{V}}\\), the value of \\(C_p / C_r\\) of gas is:<\/p>",
+                    [
+                        "<p>1.30<\/p>",
+                        "<p>1.50<\/p>",
+                        "<p>1.67<\/p>",
+                        "<p>2.00<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given,\u00a0<\/p><p>\\(T \\propto V^{\\frac{-1}{2}}=T=k V^{\\frac{-1}{2}}=k=T V^{\\frac{1}{2}} \\ldots\\) (1)<br/><\/p><p>For adiabatic process, \\(\\mathrm{PV}^{\\mathrm{Y}}=\\) constant or \\(k=T^{Y-1} \\ldots\\) (2)<br/><\/p><p>equating both the equations we get,<\/p><p>\\(\\mathrm{TV}^{\\frac{1}{2}}=\\mathrm{TV}^{\\mathrm{Y}-1}\\)<\/p><p>\\(\\mathrm{Y}-1=\\frac{1}{2}\\)<\/p><p>\\(\\mathrm{Y}=\\frac{3}{2}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        38,
+                        128
+                    ],
+                    1,
+                    0,
+                    "8a89c365483e4e7a8d2f872ed7964b26",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    40,
+                    null,
+                    "<p>A black body is heated from \\(27^{\\circ} \\mathrm{C}\\) to \\(127^{\\circ} \\mathrm{C}\\). The ratio of their energies of radiations emitted will be:<\/p>",
+                    [
+                        "<p>\u00a0\\(3: 4\\)<\/p>",
+                        "<p>\\(9: 16\\)<\/p>",
+                        "<p>\\(27: 64\\)<\/p>",
+                        "<p>\\(81: 256\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>We know that<\/p><p>\\(\\mathrm{E}=\\sigma \\mathrm{T}^4\\)<\/p><p>Where \\(\\mathrm{E}\\) is rate of emission of radiation of a body at temperature \\(\\mathrm{T}\\).<\/p><p>\\(\\mathrm{E}_1=\\sigma(27+273)^2\\)<\/p><p>\\(\\mathrm{E}_2=\\sigma(127+273)^2\\)<\/p><p>\\(\\frac{\\mathrm{E}_1}{\\mathrm{E}_2}=\\frac{(300)^4}{(400)^4}=\\frac{81}{256}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        39,
+                        129
+                    ],
+                    1,
+                    0,
+                    "60a0e391b7ef4501b119b1947041c962",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    41,
+                    null,
+                    "<p>The ratio of the relative rise in pressure for adiabatic compression to that for isothermal compression is :<\/p>",
+                    [
+                        "<p>\\(1-\\gamma\\)<\/p>",
+                        "<p>\\(\\frac{1}{1-\\gamma}\\)<\/p>",
+                        "<p>\\(\\frac{1}{\\gamma}\\)<\/p>",
+                        "<p>\\(\\gamma\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>For adiabatic case slope of \\(\\mathrm{PV}\\) graph is given by \\(\\gamma \\times(\\frac{\\mathrm{P}}{ \\mathrm{V}})\\) and for isothermal case it is given by \\((\\frac{\\mathrm{P}}{\\mathrm{V}})\\).<\/p><p>Ratio of them will be \\(\\gamma\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        40,
+                        130
+                    ],
+                    1,
+                    0,
+                    "8b569a8da9a3431482f60eb7e80b4a3f",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    42,
+                    null,
+                    "<p>One gram of water on evaporation at atmospheric pressure forms \\(1671 \\mathrm{~cm}^3\\) of steam. The heat of vaporisation at this pressure is \\(540 \\mathrm{cal} / \\mathrm{gm}\\). The increase in internal energy is:<\/p>",
+                    [
+                        "<p>\\(250 \\mathrm{cal}\\)<\/p>",
+                        "<p>\\(500 \\mathrm{cal}\\)<\/p>",
+                        "<p>\\(1000 \\mathrm{cal}\\)<\/p>",
+                        "<p>\\(1500 \\mathrm{cal}\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>\\(\\begin{gathered}\\Delta Q=\\Delta U+P \\Delta V \\\\ m L=\\Delta U+P \\Delta V \\\\ \\Delta U=m L-P \\Delta V \\\\ m L=1 \\times 540=540 \\mathrm{cal}\\end{gathered}\\)<\/p><p>\\(P \\Delta V=1 \\times 10^5(1671-1) \\times 10^{-6}=167 \\mathrm{~J}\\)<br/><\/p><p>\\(=\\frac{167}{4.2}=40 \\mathrm{~cal}\\).<\/p><p>\\(\\therefore \\Delta U=540-40=500 \\mathrm{cal}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        41,
+                        131
+                    ],
+                    1,
+                    0,
+                    "13ba7d4fb43047838f2a794e5036651c",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    43,
+                    null,
+                    "<p>3 moles of gas requires \\(60 \\mathrm{cal}\\) of heat for \\(5^{\\circ} \\mathrm{C}\\) rise in temperature at constant volume. Then heat required for 5 moles of the same gas under constant pressure for \\(100^{\\circ} \\mathrm{C}\\) raise in temperature is:<\/p>",
+                    [
+                        "<p>\\(2000 \\mathrm{cal}\\)<\/p>",
+                        "<p>\\(4000 \\mathrm{cal}\\)<\/p>",
+                        "<p>\\(1000 \\mathrm{cal}\\)<\/p>",
+                        "<p>\\(3000 \\mathrm{cal}\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>At constant volume, \\(\\mathrm{W}={0}\\)<\/p><p>So, \\(\\mathrm{Q}=\\mathrm{U}=\\mathrm{nC}_{\\mathrm{v}} \\Delta \\mathrm{T}\\)<br/><\/p><p>\\(60=3 C_v \\times 5\\)<br/><\/p><p>\\(C_V=4\\)<br/><\/p><p>\\(C_p=C_v+R\\)<br/><\/p><p>\\(C_p=4+2=6\\)<br/><\/p><p>At constant pressure,<\/p><p>Q =\u00a0<span class=\"mjx-chtml\" id=\"MathJax-Element-7-Frame\"><span class=\"mjx-math\" id=\"MJXc-Node-272587\"><span class=\"mjx-mrow\" id=\"MJXc-Node-272588\"><span class=\"mjx-mi\" id=\"MJXc-Node-272589\"><span class=\"mjx-char MJXc-TeX-math-I\">n<\/span><\/span><span class=\"mjx-msubsup\" id=\"MJXc-Node-272590\"><span class=\"mjx-base\"><span class=\"mjx-texatom\" id=\"MJXc-Node-272591\"><span class=\"mjx-mrow\" id=\"MJXc-Node-272592\"><span class=\"mjx-mi\" id=\"MJXc-Node-272593\"><span class=\"mjx-char MJXc-TeX-math-I\">C<\/span><\/span><\/span><\/span><\/span><span class=\"mjx-sub\"><span class=\"mjx-texatom\" id=\"MJXc-Node-272594\"><span class=\"mjx-mrow\" id=\"MJXc-Node-272595\"><span class=\"mjx-mi\" id=\"MJXc-Node-272596\"><span class=\"mjx-char MJXc-TeX-math-I\">p<\/span><\/span><\/span><\/span><\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-272597\"><span class=\"mjx-char MJXc-TeX-main-R\">\u0394<\/span><\/span><span class=\"mjx-mi\" id=\"MJXc-Node-272598\"><span class=\"mjx-char MJXc-TeX-math-I\">T<\/span><\/span><\/span><\/span><\/span><\/p><p><span class=\"mjx-chtml\"><span class=\"mjx-math\"><span class=\"mjx-mrow\"><span class=\"mjx-mi\"><span class=\"mjx-char MJXc-TeX-math-I\"><div>Q =\u00a0<span class=\"mjx-chtml\" id=\"MathJax-Element-8-Frame\"><span class=\"mjx-math\" id=\"MJXc-Node-272599\"><span class=\"mjx-mrow\" id=\"MJXc-Node-272600\"><span class=\"mjx-mn\" id=\"MJXc-Node-272601\"><span class=\"mjx-char MJXc-TeX-main-R\">5<\/span><\/span><span class=\"mjx-mo MJXc-space2\" id=\"MJXc-Node-272602\"><span class=\"mjx-char MJXc-TeX-main-R\">\u00d7<\/span><\/span><span class=\"mjx-mn MJXc-space2\" id=\"MJXc-Node-272603\"><span class=\"mjx-char MJXc-TeX-main-R\">6<\/span><\/span><span class=\"mjx-mo MJXc-space2\" id=\"MJXc-Node-272604\"><span class=\"mjx-char MJXc-TeX-main-R\">\u00d7<\/span><\/span><span class=\"mjx-mn MJXc-space2\" id=\"MJXc-Node-272605\"><span class=\"mjx-char MJXc-TeX-main-R\">100<\/span><\/span><\/span><\/span><\/span><\/div><div><br/>Q = 3000 cal<\/div><\/span><\/span><\/span><\/span><\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        42,
+                        132
+                    ],
+                    1,
+                    0,
+                    "6529b0e4e8d44e2ea3fd570d0850f87e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    44,
+                    null,
+                    "<p>In an adiabatic change, the pressure P and temperature \\(T\\) of a monoatomic gas are related as \\(P \\propto T^c\\) where c equals-<\/p>",
+                    [
+                        "<p>\\(\\frac{5}{3}\\)<\/p>",
+                        "<p>\\(\\frac{2}{3}\\)<\/p>",
+                        "<p>\\(\\frac{3}{5}\\)<\/p>",
+                        "<p>\\(\\frac{5}{2}\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>In adiabatic process, relation between P and T :<\/p><p>\\(\\mathrm{P}^{1-\\gamma} \\mathrm{T}^\\gamma=\\) constant<br/><\/p><p>so P \\(\\alpha T ^\\frac{\\gamma}{\\gamma-1}\\)<br/><\/p><p>\\(\\gamma=\\frac{5}{3}\\) for monatomic gas<br/><\/p><p>and \\(c=\\frac{\\gamma}{\\gamma-1}\\)<br/><\/p><p>\\(\\begin{aligned} &amp; \\text { so } \\mathrm{c}=\\frac{\\frac{5}{3}}{\\frac{5}{3}-1} \\\\ &amp; \\mathrm{C}=\\frac{5}{2}\\end{aligned}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        43,
+                        133
+                    ],
+                    1,
+                    0,
+                    "0b91fddd65bc4c069670e5ba87d717db",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    45,
+                    null,
+                    "<p>A fixed amount of dry air at temperature of \\(27^{\\circ} \\mathrm{C}\\) is compressed to \\((\\frac{1}{ 9})^{\\text {th }}\\) of original volume. Its final temperature is \\((\\gamma=1.5)\\)<\/p>",
+                    [
+                        "<p>\\(627^{\\circ} \\mathrm{C}\\)<\/p>",
+                        "<p>\\(600^{\\circ} \\mathrm{C}\\)<\/p>",
+                        "<p>\\(158^{\\circ} \\mathrm{C}\\)<\/p>",
+                        "<p>\\(527^{\\circ} \\mathrm{C}\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>In an adiabatic process,<\/p><p>\\(\\mathrm{TV}^{\\gamma-1}=\\) constant<br/><\/p><p>\\(\\mathrm{T}_1 \\mathrm{~V}_1^{\\mathrm{\\gamma}-1}=\\mathrm{T}_2 \\mathrm{~V}_2^{\\gamma-1}\\)<br/><\/p><p>\\(\\mathrm{T}_2=\\mathrm{T}_1 \\times \\frac{\\mathrm{V}_1^{\\gamma-1}}{\\mathrm{~V}_2^{\\gamma-1}}=300 \\times\\left(\\frac{1}{\\frac{1}{9}}\\right)^{1.5-1}\\)<br/><\/p><p>\\(=300(3)=900 \\mathrm{~K}=627^{\\circ} \\mathrm{C}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        44,
+                        134
+                    ],
+                    1,
+                    0,
+                    "c2d8dacb1d284bfb9562b09b6e12d949",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    46,
+                    null,
+                    "<p>In a thermodynamic process, pressure of a fixed mass of a gas is changed in such a manner that the gas releases \\(20 \\mathrm{~J}\\) of heat and \\(8 \\mathrm{~J}\\) of work is done on the gas. If initial internal energy of the gas was \\(30 \\mathrm{~J}\\), what will be the final internal energy?<\/p>",
+                    [
+                        "<p>42 J<\/p>",
+                        "<p>12 J<\/p>",
+                        "<p>10 J<\/p>",
+                        "<p>18 J<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>\\(\\mathrm{dQ}=-20, \\mathrm{dW}=-8 \\mathrm{~J}, \\mathrm{U}_1=30 \\mathrm{J}\\)<\/p><p>By 1st law of thermodynamics,<br/><\/p><p>\\(\\mathrm{dQ}=\\mathrm{dU}+\\mathrm{dW}\\)<br/><\/p><p>\\(\\Rightarrow \\mathrm{dU}=\\mathrm{dQ}-\\mathrm{dW}\\)<br/><\/p><p>\\(=-20+8=-12 \\mathrm{~J}\\)<br/><\/p><p>Final internal energy, \\(\\mathrm{U}_2=\\mathrm{U}_1+\\mathrm{dU}\\)<br/><\/p><p>\\(=30-12=18 \\mathrm{~J}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        45,
+                        135
+                    ],
+                    1,
+                    0,
+                    "ce1cac0b6cf04f46a29808bd8c9a7777",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    47,
+                    null,
+                    "<p>A quantity of heat ' \\(Q\\) ' is supplied to a mono-atomic ideal gas which expands at constant pressure. The fraction of heat that goes into work done by the gas is:<\/p>",
+                    [
+                        "<p>\\(\\frac{2}{5}\\)<\/p>",
+                        "<p>\\(\\frac{3}{5}\\)<\/p>",
+                        "<p>\\(\\frac{2}{3}\\)<\/p>",
+                        "<p>1<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The heat \\(\\mathrm{Q}\\) is converted into the internal energy and work. According to the first law of thermodynamics,<\/p><p>\\(\\mathrm{Q}=\\mathrm{U}+\\mathrm{W}\\)<\/p><p>\\(\\mathrm{nC}_{\\mathrm{p}} \\Delta \\mathrm{T}=\\mathrm{nC}_{\\mathrm{v}} \\Delta \\mathrm{T}+\\mathrm{W}\\)<br/><\/p><p>The dfraction of heat converted to work is given as<br/><\/p><p>\\(\\frac{\\mathrm{W}}{\\mathrm{Q}}=\\frac{\\mathrm{nC}_{\\mathrm{p}} \\Delta \\mathrm{T}-\\mathrm{nC}_{\\mathrm{v}} \\Delta \\mathrm{T}}{\\mathrm{nC}_{\\mathrm{p}} \\Delta \\mathrm{T}}=\\frac{\\mathrm{C}_{\\mathrm{p}}-\\mathrm{C}_{\\mathrm{v}}}{\\mathrm{C}_{\\mathrm{p}}}=\\frac{\\frac{5}{2} \\mathrm{R}-\\frac{3}{2} \\mathrm{R}}{\\frac{5}{2} \\mathrm{R}}=\\frac{2}{5}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        46,
+                        136
+                    ],
+                    1,
+                    0,
+                    "33139c6b1d86461d9d66bcf88c2e8a17",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    48,
+                    null,
+                    "<p>A given mass of a gas is compressed isothermally until its pressure is doubled. It is then allowed to expand adiabatically until its original volume is restored and its pressure is then found to be 0.75 of its initial pressure. The ratio of the specific heats of the gas is approximately:<\/p>",
+                    [
+                        "<p>1.20<\/p>",
+                        "<p>1.41<\/p>",
+                        "<p>1.67<\/p>",
+                        "<p>1.83<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>let Initial value of volume,pressure and temperature of gas be \\(V_0, P_0, T_0\\)<\/p><p>In step one, gas is compressed isothermally, so temperature will be constant<\/p><p>After first step :<\/p><p>Pressure \\(=2 \\mathrm{P}_0 ;\\) Temperature \\(=\\mathrm{T}_0\\)<\/p><p>from \\(P V=n R T\\) Volume \\(=\\frac{V_0}{2}\\);<\/p><p>In 2nd step, gas is allowd to expand adiabatically to restore its original volume<\/p><p>After 2nd step:<\/p><p>Pressure \\(=0.75 \\mathrm{P}_0\\), Volume \\(=\\mathrm{V}_0\\),<\/p><p>from the adiabatic process relation between \\(\\mathrm{P}\\) and \\(\\mathrm{V}-\\mathrm{PV}^\\gamma=\\) constant<\/p><p>\\(P_1 V_1^\\gamma=P_2 V_2^\\gamma\\)<\/p><p>\\(\\left(\\frac{V_1}{V_2}\\right)^\\gamma=\\frac{P_2}{P_1}\\)<\/p><p>\\(\\begin{aligned} &amp; \\mathrm{V}_1=\\frac{\\mathrm{V}_0}{2}, \\mathrm{P}_1=2 \\mathrm{P}_0 \\\\ &amp; \\mathrm{~V}_2=\\mathrm{V}_0 \\text { and } \\mathrm{P}_2=0.75 \\mathrm{P}_0\\end{aligned}\\)<br/><\/p><p>so \\(\\left(\\frac{\\frac{\\mathrm{V}_0}{2}}{\\mathrm{~V}_0}\\right)^{\\gamma}=\\frac{0.75 \\mathrm{P}_0}{2 \\mathrm{P}_0}\\)<br/><\/p><p>\\(\\left(\\frac{1}{2}\\right)^\\gamma=\\frac{3}{8}\\)<br/><\/p><p>on solving this:<\/p><p>\\(\\gamma=1.41\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        47,
+                        137
+                    ],
+                    1,
+                    0,
+                    "3b57fb2544d24e9d80d9f9336eb5b682",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    49,
+                    null,
+                    "<p>A heat engine operates between 2100 K and 700K. Its actual efficiency is 40%. What percentage of its maximum possible efficiency is this ?<\/p>",
+                    [
+                        "<p>66.67%<\/p>",
+                        "<p>40%<\/p>",
+                        "<p>33.33%<\/p>",
+                        "<p>60%<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Maximum possible efficiency of a heat engine \\((\\eta)=1-\\frac{\\mathrm{T}_{\\mathrm{c}}}{\\mathrm{T}_{\\mathrm{h}}}=1-\\frac{700}{2100}=\\frac{2}{3}\\)<\/p><p>Given that the actual efficiency is 0.4.<br/><\/p><p>Percentage of the maximum possible efficiency \\(=\\frac{0.4}{\\frac{2}{3}} \\times 100=\\frac{6}{10} \\times 100=60\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        48,
+                        138
+                    ],
+                    1,
+                    0,
+                    "c2e1e3b9732d48b4b1fe3186b13091a7",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    50,
+                    null,
+                    "<p>A man of \\(60 \\mathrm{~kg}\\) gains \\(1000 \\mathrm{Cal}\\) of heat by eating 5 mangoes. His efficiency is \\(56 \\%\\). To what weight he can jump by using this energy?<br/><\/p>",
+                    [
+                        "<p>2 m<\/p>",
+                        "<p>20 m<br/><\/p>",
+                        "<p>4 m<\/p>",
+                        "<p>0.2 m<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>After eating 5 mangoes energy gain \\(=1000 \\mathrm{Cal}\\)<\/p><p>Efficiency \\(=5.6 \\%\\)<\/p><p>Energy can be utilized \\(=\\) Efficiency \\(\\times 5\\)<\/p><p>\\(=560\\) Cal<\/p><p>\\(=2352\\) J<\/p><p>Now, \\(\\mathrm{mgh}=2352\\)<\/p><p>\\(\\mathrm{h}=\\frac{2352}{60 \\times 9.8}=4\\) m<\/p>",
+                    null,
+                    null,
+                    [
+                        49,
+                        139
+                    ],
+                    1,
+                    0,
+                    "fa12384314af400f91b06df30090145f",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    51,
+                    null,
+                    "<p>The rate at which is energy is radiated by a black body at an absolute temperature is given by:<\/p>",
+                    [
+                        "<p>Grashof law<\/p>",
+                        "<p>Prandtl law<\/p>",
+                        "<p>Nusselt law<\/p>",
+                        "<p>Stefan-Boltzmann law<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The Stefan-Boltzmann law for the emissive power gives the total energy emitted by a blackbody.<\/p><p>\\(E_b=\\sigma T^4\\)<\/p><p>where \\(E_b\\) is the emissive power of a blackbody, \\(T\\) is absolute temperature, and ( \\(\\sigma=\\) \\(5.67 \\times 10^{-8} \\mathrm{~W} / \\mathrm{m}^2 / \\mathrm{K}^4\\) ) is the Stefan-Boltzmann constant.<\/p>",
+                    null,
+                    null,
+                    [
+                        50,
+                        140
+                    ],
+                    1,
+                    0,
+                    "76e4e279ee0640b893e203fb40c2ba52",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    52,
+                    null,
+                    "<p>Newton's Law of cooling is an approximate form of:<\/p>",
+                    [
+                        "<p>Wien displacement law<\/p>",
+                        "<p>Stefan's law<\/p>",
+                        "<p>Kirchoff's law<\/p>",
+                        "<p>Jean's law<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Newton's law cooling is a special case of Stefan-Boltzmann's law where the temperature difference of the body and the surrounding is very small.<\/p>",
+                    null,
+                    null,
+                    [
+                        51,
+                        141
+                    ],
+                    1,
+                    0,
+                    "eb42482b24b5495aa42b4751531510bc",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    53,
+                    null,
+                    "<p>The law of thermodynamics that hints at the fact that no heat engine can have efficiency equal to \\(100 \\%\\) is the:<\/p>",
+                    [
+                        "<p>third law<\/p>",
+                        "<p>first law<\/p>",
+                        "<p>second law<\/p>",
+                        "<p>zeroth law<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>The second law suggests that no heat engine can convert 100% of its input heat energy (QH) into work (W).<\/p>",
+                    null,
+                    null,
+                    [
+                        52,
+                        142
+                    ],
+                    1,
+                    0,
+                    "4d49641331d447c28add274c5af6e92a",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    54,
+                    null,
+                    "<p>Which of the following law of thermodynamics is responsible for heat transfer?<\/p>",
+                    [
+                        "<p>Zeroth law of thermodynamics<\/p>",
+                        "<p>First law of thermodynamics<\/p>",
+                        "<p>Second law of thermodynamics<\/p>",
+                        "<p>Third law of thermodynamics<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>The transfer of heat is primarily governed by the laws of thermodynamics, and specifically, the second law of thermodynamics is most directly related to heat transfer. The second law of thermodynamics states that the total entropy of an isolated system will never decrease over time; it tends to increase or, at best, remain constant. In the context of heat transfer, it implies that heat will naturally flow from regions of higher temperature to regions of lower temperature, and not the other way around.<\/p>",
+                    null,
+                    null,
+                    [
+                        53,
+                        143
+                    ],
+                    1,
+                    0,
+                    "ec0ab6d33126415eb9dc36448b98ab8b",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    55,
+                    null,
+                    "<p>Heat does not spontaneously flow from a colder body to a hotter one. Which of the following thermodynamics law states this?<br/><\/p>",
+                    [
+                        "<p>Zeroth law of thermodynamics<\/p>",
+                        "<p>First law of thermodynamics<\/p>",
+                        "<p>Second law of thermodynamics<\/p>",
+                        "<p>Third law of thermodynamics<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>The concept of entropy as a physical attribute of a thermodynamic system is established by the second law of thermodynamics. Despite following the necessity of energy conservation as specified in the first law of thermodynamics, entropy predicts the direction of spontaneous processes and determines whether they are irreversible or impossible.<\/p>",
+                    null,
+                    null,
+                    [
+                        54,
+                        144
+                    ],
+                    1,
+                    0,
+                    "cbe3b13491c14698bedfaa424902e5e3",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    56,
+                    null,
+                    "<p>What is the value of the absolute thermodynamic temperature scale?<\/p>",
+                    [
+                        "<p>3K<\/p>",
+                        "<p>0K<\/p>",
+                        "<p>1K<\/p>",
+                        "<p>4K<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>The temperature of an object on a scale with 0 as absolute zero is known as absolute temperature, also known as thermodynamic temperature. Kelvin and Rankine are absolute temperature scales.<\/p>",
+                    null,
+                    null,
+                    [
+                        55,
+                        145
+                    ],
+                    1,
+                    0,
+                    "1224705ee88e45038ddad8658f992d34",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    57,
+                    null,
+                    "<p>Which of the following is chosen as the standard thermometric substance?<\/p>",
+                    [
+                        "<p>Liquid<\/p>",
+                        "<p>Solid<\/p>",
+                        "<p>Gas<\/p>",
+                        "<p>None of the above<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Smallest variation is observed among different gas thermometers.<\/p>",
+                    null,
+                    null,
+                    [
+                        56,
+                        146
+                    ],
+                    1,
+                    0,
+                    "73a96a2074304a7f9a5043488654338d",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    58,
+                    null,
+                    "<p>The entropy of an isolated system can never ____.<\/p>",
+                    [
+                        "<p>decrease<\/p>",
+                        "<p>be zero<\/p>",
+                        "<p>increase<\/p>",
+                        "<p>none of the above<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The entropy of an isolated system always increases and remains constant only when the process is reversible.<\/p>",
+                    null,
+                    null,
+                    [
+                        57,
+                        147
+                    ],
+                    1,
+                    0,
+                    "d8ce2864ab9549b5aef73694a96d6c70",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    59,
+                    null,
+                    "<p>Which of the following processes is reversible?<\/p>",
+                    [
+                        "<p>Transfer of heat by conduction<\/p>",
+                        "<p>Transfer of heat by radiation<\/p>",
+                        "<p>Isothermal compression<\/p>",
+                        "<p>Electrical heating of a nichrome wire.<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>One type of reversible air compression and expansion is described by the isothermal process, where the heat of compression and expansion is removed or added to the system at the same rate as it is produced.<\/p>",
+                    null,
+                    null,
+                    [
+                        58,
+                        148
+                    ],
+                    1,
+                    0,
+                    "b7c5b1d6629e472e8a248013c8073fe1",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    60,
+                    null,
+                    "<p>A Carnot engine having an efficiency of \\(1 / 10\\) as heat engine, is used as a refrigerator. If the work done on the system is \\(10 \\mathrm{~J}\\), the amount of energy absorbed from the reservoir at lower temperature is:<\/p>",
+                    [
+                        "<p>\\(100 \\mathrm{~J}\\)<\/p>",
+                        "<p>\\(1 \\mathrm{~J}\\)<\/p>",
+                        "<p>\\(90 \\mathrm{~J}\\)<\/p>",
+                        "<p>\\(99 \\mathrm{~J}\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>Efficiency \\(\\eta=\\frac{1}{10}\\)<\/p><p>\\(\\beta=\\frac{1-\\eta}{\\eta}\\)<\/p><p>\\(=\\frac{1-\\frac{1}{10}}{\\frac{1}{10}}=\\frac{\\frac{9}{10}}{\\frac{1}{10}}\\)<br/><\/p><p>\\(\\begin{aligned} &amp; \\beta=9 \\\\ &amp; \\beta=\\frac{Q_2}{W} \\\\ &amp; Q_2=9 \\times 10=90 \\mathrm{~J}\\end{aligned}\\)<br/><\/p>",
+                    null,
+                    null,
+                    [
+                        59,
+                        149
+                    ],
+                    1,
+                    0,
+                    "e944decbf56445289087d8be89ef6cbf",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    61,
+                    null,
+                    "<p>When a system is taken from state '\\(x\\)' to state '\\(y\\)' then \\(30 \\mathrm{~kJ}\\) of heat flows into the system and the system does \\(10 \\mathrm{~kJ}\\) of work. When the system is returned from state '\\(\\mathrm{y}\\)' to state '\\(\\mathrm{x}\\)' along another path, then work done on the system is \\(8 \\mathrm{~kJ}\\). What is the amount of heat liberated?<\/p>",
+                    [
+                        "<p>\\(12 \\mathrm{~kJ}\\) of heat liberated<\/p>",
+                        "<p>\\(28 \\mathrm{~kJ}\\) of heat absorbed<\/p>",
+                        "<p>\\(28 \\mathrm{~kJ}\\) of heat liberated<\/p>",
+                        "<p>\\(12 \\mathrm{~kJ}\\) of heat absorbed<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>We know that:<\/p><p>First law of thermodynamics for a process is given by<\/p><p>\\(\\delta Q=d U+\\delta W\\)<\/p><p>When the system is taken from state \\({x}\\) to state \\({y}\\) then:<\/p><p>\\(\\mathrm{Q}_{x-y}=+30 \\mathrm{k} J, W_{x-y}=+10 \\mathrm{k} \\mathrm{J}\\)<\/p><p>Then from first law of thermodynamics,<\/p><p>\\(\\delta Q=d U+\\delta W \\)<\/p><p>\\(+30 k J=d u_{x-y}+10 \\mathrm{~kJ} \\)<\/p><p>\\( d u_{x-y}=30-10 \\)<\/p><p>\\( d u_{x-y}=20 \\mathrm{k} J\\)<\/p><p>Now,<\/p><p>When the system is taken from state \\({y}\\) to state \\({x}\\) then:<\/p><p>\\(W_{y-x}=-8 \\mathrm{~kJ} \\text { and }\\)<\/p><p>\\(\\mathrm{d} U_{y-\\mathrm{x}}=-20 \\mathrm{~kJ} [\\because\\left(U_{y}-U_{x}\\right)=-\\left(U_{x}-U_{y}\\right)]\\)<\/p><p>Then from first law of thermodynamics<\/p><p>\\(\\delta Q=d U+\\delta W \\)<\/p><p>\\(Q_{y-x}=-20-8 \\)<\/p><p>\\(\\therefore Q_{y \\cdot x}=-28 \\mathrm{~kJ}\\)<\/p><p>Here negative sign indicates that heat is being liberated.<\/p>",
+                    null,
+                    null,
+                    [
+                        60,
+                        210
+                    ],
+                    1,
+                    0,
+                    "42a047c52e1e4884b1aebc2ae2bf31d9",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    62,
+                    null,
+                    "<p>A reversible Carnot engine works between the temperature of \\(1000 \\mathrm{~K}\\) and \\(300 \\mathrm{~K}\\). Heat supplied to the engine by \\(1000 \\mathrm{~K}\\) reservoir is \\(250 \\mathrm{~kJ}\\). Now the work obtained by this engine is supplied to the refrigerator which works between the temperature limits of \\(270 \\mathrm{~K}\\) and \\(300 \\mathrm{~K}\\). The COP of the refrigerator is \\(50 \\%\\) of the COP of the reversible refrigerator then find out the heat rejected by the refrigerator (in \\(\\mathrm{kJ}\\) ) at the reservoir which is at \\(300 \\mathrm{~K}\\).<\/p>",
+                    [
+                        "<p>587.6 kJ<\/p>",
+                        "<p>687.6 kJ<\/p>",
+                        "<p>787.6 kJ<\/p>",
+                        "<p>7876&nbsp;<span>kJ<\/span><\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>For engine<\/p><p>\\(\\mathrm{T}_{\\mathrm{L}}=300 \\mathrm{~K} \\text { and } \\mathrm{T}_{\\mathrm{H}}=1000 \\mathrm{~K} \\text { and } \\mathrm{Q}_{\\mathrm{s}}=250 \\mathrm{~kJ}\\)<\/p><p><img src=\"https://testseries.edugorilla.com/static/media/wl_client/1/qdump/e55a342d057a52acc35b29ffdedd2ff4/31915b21783d2fd9a8d2a9371c446b81.jpg\" class=\"img-responsive\" style=\"display: inline;\"><\/span><\/p><p>Now, The efficiency of the Carnot engine is given by:<\/p><p>\\(\\eta=1-\\frac{T_{L}}{T_{H}}\\)<\/p><p>Where \\(\\boldsymbol{T}_{\\mathrm{L}}=\\) temperature of the low-temperature reservoir and \\(\\boldsymbol{T}_{\\mathrm{H}}=\\) temperature of the high-temperature reservoir.<\/p><p>\\(=1-\\frac{300}{1000}=0.7\\)<\/p><p>Again, The efficiency of an engine is given by:<\/p><p>\\(\\eta=\\frac{W_{n e t}}{Q_{\\text {supplied }}} \\)<\/p><p>Where \\(\\mathrm{W}_{\\text {net }}=\\) Net work done by the engine and \\(\\mathrm{Q}_{\\text {supplied }}=\\) Heat supplied to the engine.<\/p><p>\\(\\therefore \\mathrm{W}_{\\text {net }}=\\eta \\times \\mathrm{Q}_{\\text {supplied }}\\)<\/p><p>\\(=0.7 \\times 250 \\)<\/p><p>\\(\\therefore \\mathrm{W}_{\\text {net }}=176 \\mathrm{k} \\mathrm{J}\\)<\/p><p>Now this work is supplied to the refrigerator,<\/p><p>For refrigerator,<\/p><p>\\(\\mathrm{T}_{\\mathrm{L}}=270 \\mathrm{~K} \\text { and } \\mathrm{T}_{\\mathrm{H}}=300 \\mathrm{~K}\\)<\/p><p>COP of a reversible refrigerator is given by:<\/p><p>\\(C O P=\\frac{T_{L}}{T_{L}-T_{H}}\\)<\/p><p>Where, \\(T_{L}=\\) Temperature of the evaporator and \\(T_{H}=\\) Temperature at which heat is rejected.<\/p><p>\\(\\therefore C O P=\\frac{270}{300-270}=9\\)<\/p><p>Now,<\/p><p>The actual COP is \\(60 \\%\\) of the ideal COP<\/p><p>\\(\\therefore \\text { COP }_{\\text {actual }}=9 \\times 0.5=4.5\\)<\/p><p>Again,<\/p><p>\\(C O P=\\frac{\\text { Desired Effect }}{\\text { Work Input }} \\)<\/p><p>\\(\\Rightarrow 4.5=\\frac{\\text { Desired } E f \\text { fect }}{175 \\mathrm{~kJ}} \\)<\/p><p>\\( \\text { Desired effect }=4.5 \\times 175 \\)<\/p><p>\\(=787.6 \\mathrm{~kJ}\\)<\/p><p>\\(\\) The heat rejected to the \\(300 \\mathrm{~K}\\) reservoir by the refrigerator \\(=787.6+176=962.6 \\mathrm{~kJ}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        61,
+                        211
+                    ],
+                    1,
+                    0,
+                    "b36d00f7b43543caa56ebc625359f4a6",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    63,
+                    null,
+                    "<p>In an adiabatic chamber, two blocks of the same mass and heat capacity comes in contact with each other. One is at a temperature of \\(500 \\mathrm{~K}\\) and the other one is at \\(1000 \\mathrm{~K}\\). Find the value of entropy change if the system attains thermodynamic equilibrium. Take (mass \\(\\left.=2 \\mathrm{~kg}, \\mathrm{C}_{\\mathrm{p}}=1 \\mathrm{~kJ} / \\mathrm{kg} \\mathrm{K}\\right)\\)<\/p>",
+                    [
+                        "<p>\\(0.2355 \\mathrm{~kJ} / \\mathrm{K}\\)<\/p>",
+                        "<p>\\(0.2255 \\mathrm{~kJ} / \\mathrm{K}\\)<\/p>",
+                        "<p>\\(1.225 \\mathrm{~kJ} / \\mathrm{K}\\)<\/p>",
+                        "<p>\\(0.1255 \\mathrm{~kJ} / \\mathrm{K}\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>\\(T_1=500k,~T_2=1000k,~T_f=750k\\)<\/p><p>\\(m=2,~C_p=1\\)<\/p><p>According to the question:<\/p><p>Heat lost by block \\(1=\\) Heat gained by block 2<\/p><p>\\(\\therefore m C_{p}\\left(T_{1}-T_{f}\\right)=m C_{p}\\left(T_{f}-T_{2}\\right) \\)<\/p><p>\\(\\therefore T_{f}=\\frac{T_{1}+T_{2}}{2}=750 K\\)<\/p><p>Now,<\/p><p>\\((\\Delta s)_{\\text {total }}=(\\Delta s)_{\\text {block } 1}+(\\Delta s)_{\\text {block } 2} \\)<\/p><p>\\(=m C_{p} \\ln \\left(\\frac{T_{f}}{T_{1}}\\right)+m C_{p} \\ln \\left(\\frac{T_{f}}{T_{2}}\\right) \\)<\/p><p>\\(=m C_{p}\\left(\\ln \\left(\\frac{T_{f}}{T_{1}}\\right)+\\ln \\left(\\frac{T_{f}}{T_{2}}\\right)\\right) \\)<\/p><p>Put all given values in above equation:<\/p><p>\\((\\Delta s)_{\\text {total }}=2 \\times 1 \\times\\left[\\ln \\left(\\frac{750^{2}}{500 \\times 1000}\\right)\\right] \\)<\/p><p>\\((\\Delta s)_{\\text {total }}=0.2355 ~{k J}/{K}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        62,
+                        212
+                    ],
+                    1,
+                    0,
+                    "4828b491b33246e1a689d82ccb564a64",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    64,
+                    null,
+                    "<p>A gas is compressed at constant pressure from \\(0.3 \\mathrm{~m}^{3}\\) and \\(0.1 \\mathrm{MPa}\\) to \\(0.15 \\mathrm{~m}^{3}\\). There is a transfer of heat of \\(35 \\mathrm{~kJ}\\) from gas during the process. Find the change in internal energy during the process.<\/p>",
+                    [
+                        "<p>-20kJ<\/p>",
+                        "<p>20kJ<\/p>",
+                        "<p>-40kJ<\/p>",
+                        "<p>40kJ<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>\\(\\mathrm{P}=0.1 \\mathrm{MPa}=0.1 \\times 10^{6} \\mathrm{~Pa}\\)<\/p><p>\\(\\mathrm{~V}_{1}=0.3 \\mathrm{~m}^{3}\\)<\/p><p>\\(\\mathrm{~V}_{2}=0.15 \\mathrm{~m}^{3}\\)<\/p><p>\\(\\mathrm{dQ}=-35 \\mathrm{~kJ}\\)<\/p><p>Work done in constant pressure process is given by:<\/p><p>\\(\\mathrm{dW}=\\mathrm{P}\\left(\\mathrm{V}_{2}-\\mathrm{V}_{1}\\right)\\) [where \\(P\\) is pressure, \\(V_{2}\\) is final volume and \\(V_{1}\\) is initial volume]<\/p><p>Put given values in above formula:<\/p><p>\\(\\mathrm{dW}=0.1 \\times 10^{6}(0.15-0.3) \\)<\/p><p>\\(=-0.015 \\times 10^{6} \\mathrm{~J}\\)<\/p><p>\\(=-15 \\mathrm{~kJ}\\)<\/p><p>Now, According to first law of thermodynamics:<\/p><p>\\(\\mathrm{dQ}=\\mathrm{dU}+\\mathrm{dW} \\)<\/p><p>\\(-35=\\mathrm{d} \\mathrm{U}-15\\)<\/p><p>\\(\\mathrm{d} \\mathrm{U}=-20kJ\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        63,
+                        213
+                    ],
+                    1,
+                    0,
+                    "3dea4342233643cd8f0936dc3d4d35a4",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    65,
+                    null,
+                    "<p>Figure shows the \\(P-V\\) diagram of an ideal gas. The work done by the gas in the process ABCDA is:<\/p><p><img src=\"https://testseries.edugorilla.com/static/media/wl_client/1/qdump/e55a342d057a52acc35b29ffdedd2ff4/32c98df337c79b3188376102f3d9c90a.jpg\" class=\"img-responsive\" style=\"display: inline;\"><\/span><\/p>",
+                    [
+                        "<p>\\(0.5 \\mathrm{PV}\\)<\/p>",
+                        "<p>\\(2 \\mathrm{PV}\\)<\/p>",
+                        "<p>\\(1.5 \\mathrm{PV}\\)<\/p>",
+                        "<p>\\(4 \\mathrm{PV}\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given:<\/p><p><img src=\"https://testseries.edugorilla.com/static/media/wl_client/1/qdump/e55a342d057a52acc35b29ffdedd2ff4/32c98df337c79b3188376102f3d9c90a.jpg\" class=\"img-responsive\" style=\"display: inline;\"><\/p><p>Work done = Area of Parallelogram ABCDA<\/p><p>Area of parallelogram \\(=\\frac{1 }{ 2} \\times(\\) Sum of parallel sides \\() \\times\\) height<\/p><p>Work done \\(=\\) Area of Parallelogram \\(A B C D A=\\frac{1 }{ 2} \\times(A B+C D) \\times B C\\)<\/p><p>\\(\\frac{ 1 }{ 2} \\times(V+2 V) \\times P\\)<\/p><p>\\(=1.5 P V\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        64,
+                        214
+                    ],
+                    1,
+                    0,
+                    "f817607aaeb743c39d102887257cd17e",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    66,
+                    null,
+                    "<p>Two blocks that are at different temperatures are brought into contact with each other and allowed to reach a final state of thermal equilibrium. The final temperature attained is specified by:<\/p>",
+                    [
+                        "<p>First law of thermodynamics<\/p>",
+                        "<p>Zeroth law of thermodynamics<\/p>",
+                        "<p>Second law of thermodynamics<\/p>",
+                        "<p>Third law of thermodynamics<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Two blocks that are at different temperatures are brought into contact with each other and allowed to reach a final state of thermal equilibrium. The final temperature attained is specified by 'Zeroth law of thermodynamics'.<\/p><p>There are 4 laws to thermodynamics:<\/p><p>1. Zeroth law of thermodynamics:<\/p><p>2. First law of thermodynamics<\/p><p>3. Second law of thermodynamics<\/p><p>4. Third law of Thermodynamics<\/p><p><b>Zeroth law of thermodynamics:<\/b><\/p><p>If two thermodynamic systems are each in thermal equilibrium with a third, then they are in thermal equilibrium with each other.<\/p><p><img class=\"img-responsive\" src=\"https://kodemapa.com/static/media/wl_client/1/qdump/e15a7351bd3aa55f4a06d4d7dd6f96fc/d5bf72c4a737dd0c868ac7852bf40650.jpeg\" style=\"\"/><\/p>",
+                    null,
+                    null,
+                    [
+                        65,
+                        215
+                    ],
+                    1,
+                    0,
+                    "441b98e5e9aa403fa1821a5d5c57f443",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    67,
+                    null,
+                    "<p>Since no heat interaction takes place in a adiabatic process, hence temperature of a ideal gas will going to be:<\/p>",
+                    [
+                        "<p>Increase<\/p>",
+                        "<p>Decrease<\/p>",
+                        "<p>Can increase or decrease<\/p>",
+                        "<p>Can't say.<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Since no heat interaction takes place in a adiabatic process, hence temperature of a ideal gas will going to be 'Can increase or decrease'.<\/p><p><b>Adiabatic process:<\/b><\/p><ul><li>When a thermodynamic system undergoes a change in such a way that no exchange of heat takes place between Systems and surroundings, the process is known as an adiabatic process.<\/li><li>In adiabatic process system goes to a change is state by work interaction only.<\/li><\/ul><p>From first law of thermodynamics,<\/p><p>\\(\\delta{ Q}=\\Delta U+\\delta W\\)<\/p><p>For an adiabatic process \\(\\delta Q=0\\)<\/p><p>i.e., \\(0=\\Delta U+\\delta \\mathrm{W}\\)<\/p><p>\\(\\Rightarrow \\delta W=-\\Delta U \\)<\/p><p>\\(\\Delta U=m C_{\\mathrm{v}}(\\Delta T) \\)<\/p><p>\\(\\Rightarrow \\delta{ W}=-m C_{v}(\\Delta T)\\)<\/p><p>So if work is added to the system i.e., \\({\\delta} \\mathrm{W}=-\\mathrm{ve}\\), then \\((\\Delta \\mathrm{T})=+\\) ve, temperature of the gas will increase.<\/p><p>and work is done by the system i.e. \\(\\delta W=-\\)ve then \\((\\Delta T)=-\\) ve, temperature of the gas will decrease.<\/p>",
+                    null,
+                    null,
+                    [
+                        66,
+                        216
+                    ],
+                    1,
+                    0,
+                    "5a81689d7e2e4163a23dbc772de0928f",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    68,
+                    null,
+                    "<p>A reversible heat engine operates using three thermal reservoirs with temperatures as shown in following figure. If \\(Q_{1}=Q_{2}\\), the efficiency of engine is:<\/p><p><img src=\"https://testseries.edugorilla.com/static/media/wl_client/1/qdump/e55a342d057a52acc35b29ffdedd2ff4/a4196baf55caccb81615e3286c994a52.jpg\" class=\"img-responsive\" style=\"display: inline;\"><\/p>",
+                    [
+                        "0.125",
+                        "0.25",
+                        "0.625",
+                        "0.75"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>\\(T_1=1200K\\)<\/p><p>\\(T_{2}=600K\\)<\/p><p>\\(T_3=300K\\)<\/p><p>For reversible engine,<\/p><p>\\(\\oint \\frac{d Q}{T}=0\\)<\/p><p>\\(\\frac{Q_{1}}{T_{1}}+\\frac{Q_{2}}{T_{2}}-\\frac{Q_{3}}{T_{3}}=0\\)<\/p><p>Put the given values in above equation:<\/p><p>\\(\\frac{Q_{1}}{1200}+\\frac{Q_{2}}{600}-\\frac{Q_{3}}{300}=0\\)<\/p><p>As \\(Q_{1}=Q_{2}\\)<\/p><p>\\(Q_{1}+2 Q_{1}-4 Q_{3}=0\\)<\/p><p>\\(4 Q_{3}-3 Q_{1}=0\\)<\/p><p>\\(\\therefore Q_{3}=\\frac{3}{4} Q_{1}\\)<\/p><p>\\(\\eta_{H . E}=\\frac{\\text { Net-Work Done }}{\\text { Heat Supplied }}\\)<\/p><p>\\(\\eta=\\frac{2 Q_{1}-Q_{3}}{2 Q_{1}}\\)<\/p><p>\\(\\eta=\\frac{2 Q_{1}-\\left(\\frac{3}{4}\\right) Q_{1}}{2 Q_{1}}\\)<\/p><p>\\(\\eta=\\frac{5}{8}=0.625\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        67,
+                        217
+                    ],
+                    1,
+                    0,
+                    "fc94a37350cb43db92e8da4abcbc2d11",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    69,
+                    null,
+                    "<p>For a heat engine operating on a Carnot cycle, the work output is \\(\\frac{1}{ 4}{\\text {th }}\\) of the heat rejected to the sink. The thermal efficiency of the engine would be:<\/p>",
+                    [
+                        "10",
+                        "20",
+                        "30",
+                        "40"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>\\(\\mathrm{W}_{\\text {net }}=\\frac{Q_{2}}{4}\\)<\/p><p>The fraction of heat input \\(\\left(Q_{1}\\right)\\) that is converted to net-work output \\(\\left(W_{n e t}\\right)\\) is a measure of performance of a heat engine and is called thermal efficiency.<br><\/p><p><img src=\"https://testseries.edugorilla.com/static/media/wl_client/1/qdump/e55a342d057a52acc35b29ffdedd2ff4/3386585b9f4b202a53cda0c54fe395a8.jpg\" class=\"img-responsive\" style=\"display: inline;\"><\/span><\/p><p>\\(\\mathrm{Q}_{1}\\) is the heat taken from the source \\(\\left(T_{H}\\right)\\) and \\(Q_{2}\\) is the heat transferred to the sink \\(\\left(T_{L}\\right)\\) ). Net-work done by the engine, \\(\\mathrm{W}_{\\text {net }}=\\mathrm{Q}_{1}-\\mathrm{Q}_{2}\\).<\/p><p>\\(\\frac{Q_{2}}{4}=Q_{1}-Q_{2}\\)<\/p><p>\\(\\frac{Q_{2}}{Q_{1}}=\\frac{4}{5}\\)<\/p><p>\\(\\eta_{\\text {thermal }}=\\frac{\\text { Work output }}{\\text { Heat input }}=\\frac{W}{Q_{1}}\\)<\/p><p>\\(\\Rightarrow \\frac{Q_{1}-Q_{2}}{Q_{1}}=1-\\frac{Q_{2}}{Q_{1}}\\)<\/p><p>\\(\\eta_{\\text {thermal }}=1-\\frac{4}{5}\\)<\/p><p>\\(\\Rightarrow 20 \\%\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        68,
+                        218
+                    ],
+                    1,
+                    0,
+                    "6e94c9a3715d4b8f826f89398827dd02",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    70,
+                    null,
+                    "<p>Change in entropy (in \\(\\mathrm{kJ} / \\mathrm{kg} . \\mathrm{K})\\) in a reversible adiabatic process is:<\/p>",
+                    [
+                        "0",
+                        "1",
+                        "1.5",
+                        "2"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Change in entropy (in \\(\\mathrm{kJ} / \\mathrm{kg} . \\mathrm{K})\\) in a reversible adiabatic process is 0.<\/p><p><b>Adiabatic process:<\/b><\/p><p>When a thermodynamic system undergoes a change in such a way that no exchange of heat takes place between the system and surrounding, the process is known as an adiabatic process.<\/p><p>\\(\\Delta \\mathrm{Q}=0\\)<\/p><p><b>The change in entropy is,<\/b><\/p><p>\\(\\Delta S=\\frac{\\Delta Q}{T}\\)<\/p><p>Where, \\(\\Delta \\mathrm{Q}=\\) Heat exchange, \\(\\mathrm{T}=\\) temperature of the system<\/p><p><b>For a reversible adiabatic process<\/b><\/p><p>\\(d S=\\frac{d Q}{T}=0\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        69,
+                        219
+                    ],
+                    1,
+                    0,
+                    "68bc97a0bf894a768bfba844dc9b29b8",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    71,
+                    null,
+                    "<p>For which of the following situations, zeroth law of thermodynamics will not be applicable?<\/p>",
+                    [
+                        "<p>\\(50 \\mathrm{cc}\\) of water at \\(25^{\\circ} \\mathrm{C}\\) is mixed with \\(150 \\mathrm{cc}\\) of water at \\(25^{\\circ} \\mathrm{C}\\)<\/p>",
+                        "<p>\\(500 \\mathrm{cc}\\) of milk at \\(15^{\\circ} \\mathrm{C}\\) is mixed with \\(100 \\mathrm{cc}\\) of water at \\(15^{\\circ} \\mathrm{C}\\)<\/p>",
+                        "<p>\\(5 \\mathrm{~kg}\\) of wet stream at \\(100^{\\circ} \\mathrm{C}\\) is mixed with \\(50 \\mathrm{~kg}\\) of dry and saturated steam at \\(100^{\\circ} \\mathrm{C}\\)<\/p>",
+                        "<p>\\(10 \\mathrm{cc}\\) of water at \\(20^{\\circ} \\mathrm{C}\\) is mixed with \\(10 \\mathrm{cc}\\) of sulphuric acid at \\(20^{\\circ} \\mathrm{C}\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Zeroth law of thermodynamics will not be applicable for&nbsp;\\(10 \\mathrm{cc}\\) of water at \\(20^{\\circ} \\mathrm{C}\\) is mixed with \\(10 \\mathrm{cc}\\) of sulphuric acid at \\(20^{\\circ} \\mathrm{C}\\).<\/p><p>In \\(10 \\mathrm{cc}\\) of water at \\(20^{\\circ} \\mathrm{C}\\) is mixed with \\(10 \\mathrm{cc}\\) of sulphuric acid at \\(20^{\\circ} \\mathrm{C}\\) there is no thermal equilibrium between the components of the mixture because there will be a spontaneous ionic reaction which highly exothermic in nature.<br><\/p>",
+                    null,
+                    null,
+                    [
+                        70,
+                        220
+                    ],
+                    1,
+                    0,
+                    "c1a88f4f3c51485495bad9898a5cc441",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    72,
+                    null,
+                    "<p>The direction of a natural process is dictated by the __________ law of thermodynamics.<\/p>",
+                    [
+                        "<p>zeroth<\/p>",
+                        "<p>third<\/p>",
+                        "<p>first<\/p>",
+                        "<p>second<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The direction of a natural process is dictated by the second law of thermodynamics.<\/p><p><b>Second law of thermodynamics<\/b> - The entropy of an isolated system not in equilibrium will tend to increase over time, approaching a maximum value at equilibrium.<\/p><p>\\(\\Delta \\mathrm{S}=\\frac{\\Delta \\mathrm{Q} }{ \\mathrm{T}} \\)<\/p><p>\\(\\Delta \\mathrm{S}_{\\text {Total }}=\\Delta \\mathrm{S}_{\\text {system }}+\\Delta \\mathrm{S}_{\\text {surrounding }}\\)<\/p><p>The second law of thermodynamics introduces the concept of entropy. The second law of thermodynamics deals with the direction taken by natural or spontaneous processes.<\/p>",
+                    null,
+                    null,
+                    [
+                        71,
+                        221
+                    ],
+                    1,
+                    0,
+                    "b5eff13fc9ca4ce1a77dfa2b6f396507",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    73,
+                    null,
+                    "<p>If hot water and cold water are mixed, then the entropy of the system will:<\/p>",
+                    [
+                        "<p>Increase<\/p>",
+                        "<p>Decrease<\/p>",
+                        "<p>Remains same<\/p>",
+                        "<p>May increase/Decrease depending on initial temperature of hot water and cold water<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>If hot water and cold water are mixed, then the entropy of the system will\u00a0Increase.<\/p><p>Entropy<\/p><p>It can be defined as a measure of the degree of molecular disorder/randomness existing in the system.<\/p><p>We know that,<\/p><p>\\(\\rho=\\frac{P}{R T}\\)<\/p><p>Density and Temperature are inversely related at constant Pressure.<\/p><p>Initially, hot water has a lower density and cold water has a higher density. Due to the density differences, hot water floats above cold water. Due to temperature differences heat transfer takes place within the mixture from hot water to cold water. Molecules of hot water start moving downwards and molecules of cold water start moving upwards as they lose and gain heat respectively. Thus, the mixture comes in motion as a result of buoyancy force originated from variation in fluid density.<\/p>",
+                    null,
+                    null,
+                    [
+                        72,
+                        222
+                    ],
+                    1,
+                    0,
+                    "966afb4f66b44e5299f502926f408e8f",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    74,
+                    null,
+                    "<p>Choose Kelvin-Plank statement among the following:<\/p>",
+                    [
+                        "<p>It is impossible for a heat engine to produce net work in a complete cycle if it exchanges heat only with bodies at a single fixed temperature<\/p>",
+                        "<p>It is impossible to construct a device which, operating in a cycle will produce no effect other than the transfer of heat from a cooler to hotter body<\/p>",
+                        "<p>Entropy of universe is always increasing<\/p>",
+                        "<p>None of above<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p><b>Kelvin-Plank statement<\/b>: It is impossible for a heat engine to produce net work in a complete cycle if it exchanges heat only with bodies at a single fixed temperature.<\/p><p><img alt=\"\" data-book_with_3_col=\"[110,100]\" src=\"https://kodemapa.com/static/media/wl_client/1/qdump/e15a7351bd3aa55f4a06d4d7dd6f96fc/d9c0ca2942bc1141c560ef8b9e2c0876.png\" style=\"\"/><br/><\/p><p>For heat engine to operate, the working fluid has to exchange heat with a heat sink as well with the heat source.<\/p><p>If \\(\\mathrm{Q}_{\\mathrm{L}}=0\\), then \\(\\eta=1-\\frac{Q_{L}}{Q_{H}}=1\\)<\/p><p>Therefore, the second law claims that no heat engine can be \\(100 \\%\\) efficient. So, \\(\\mathrm{W}=\\mathrm{Q}\\) (is impossible)<\/p><p>There will be always some heat loss to the surrounding. \\(\\mathrm{W}=\\mathrm{Q}_{\\mathrm{H}}-\\mathrm{Q}_{\\mathrm{L}}\\) (is possible)<\/p><p>As \\(\\left(Q_{H}-Q_{L}\\right) \\geq 0\\) so \\(W_{\\text {cycle }} \\geq 0\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        73,
+                        223
+                    ],
+                    1,
+                    0,
+                    "d3e24c0195914a32a7b3f8bcd439f6bb",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    75,
+                    null,
+                    "<p>The weight of the diesel engine, compared to similar petrol engine is<\/p>",
+                    [
+                        "<p>2 to 3 times greater<\/p>",
+                        "<p>2 to 3 times smaller<\/p>",
+                        "<p>almost equal<\/p>",
+                        "<p>none of the above<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>The weight of the diesel engine is&nbsp;2 to 3 times greater compared to similar petrol engine.<\/p><ul><li>Diesel engines or (C.I.Engines) are heavier than petrol engines (S.I.Engines) because of the large compression ratio in the case of diesel engines. The reason for the large compression ratio being compression ignition i.e. in diesel engines, ignition takes place by the high temperature developed by the compression since there is no spark plug like in petrol or S.I.Engine.<\/li><li>Also, the flashpoint at which fuel gets ignited is more in the case of diesel engines so the compression ratio needs to be sufficient enough to produce that self-ignition temperature of the fuel for the combustion to take place.<\/li><li>Compression ratio (r): It is defined as the ratio of volume before compression to the volume after compression.<\/li><\/ul><p><span>\\(r=\\frac{\\left(V_{c}+V_{s}\\right)}{V_{c}}\\)<\/span><\/p><p><span>where \\(\\mathrm{V}_{\\mathrm{C}}\\) and \\(\\mathrm{V}_{\\mathrm{S}}\\) are clearance and swept volume respectively.<\/span><\/p><ul><li>The value of the compression ratio for diesel engines lies between \\(16: 1\\) to \\(22: 1\\) whereas for the petrol engine it lies between \\(6: 1\\) to \\(12: 1\\).<\/li><\/ul>",
+                    null,
+                    null,
+                    [
+                        74,
+                        224
+                    ],
+                    1,
+                    0,
+                    "384fc89dd7524a2f952d3917fa1efc6d",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    76,
+                    null,
+                    "<p>A system is in thermal equilibrium with its environment if:<\/p>",
+                    [
+                        "<p>The temperatures of the system and environment are equal<\/p>",
+                        "<p>The pressures in the system and environment are equal<\/p>",
+                        "<p>The chemical potentials of the system and environment are equal<\/p>",
+                        "<p>All of the above<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>A system is in thermal equilibrium with its environment if the temperatures of the system and environment are equal.<\/p><p><b>Thermal equilibrium<\/b>: It is a condition/state in which all parts of a system are at the same temperature. Two objects are in thermal equilibrium if they are in close contact and there is no net flow of thermal energy between them.&nbsp;<\/p><p>For this condition to happen, the two closely contact objects must be at the same temperature. From the definition of thermal equilibrium, a system is in thermal equilibrium with its environment if the temperatures of the system and environment are equal.<\/p>",
+                    null,
+                    null,
+                    [
+                        75,
+                        225
+                    ],
+                    1,
+                    0,
+                    "3a839b03c04d4d1bb6982cb81f86d114",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    77,
+                    null,
+                    "<p>If __________ between the system and the surroundings, the process is adiabatic.<\/p>",
+                    [
+                        "<p>both heat and matter flows<\/p>",
+                        "<p>heat flows but matter does not flow<\/p>",
+                        "<p>neither heat nor matter flows<\/p>",
+                        "<p>matter flows but heat does not flow<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>If neither heat nor matter flows between the system and the surroundings, the process is adiabatic.<\/p><p><b>Adiabatic wall:<\/b><\/p><p>An adiabatic wall is an insulating wall that does not allow the flow of heat energy between the system and its surroundings or between two systems.<\/p><p>It is found that \\(\\left(N_{A}, V_{A}\\right)\\) will be in equilibrium with any other possible pair of values. \\(\\left(\\mathrm{N}_{\\mathrm{B}}, \\mathrm{V}_{\\mathrm{B}}\\right)\\)<\/p><p><b>Diathermic wall:<\/b><\/p><p>A diathermic wall is a conducting wall, which allows heat energy to flow between the system and its surroundings or between two systems.<\/p><p>From above it is clear that if neither heat nor matter flows between the system and the surroundings, then the process is adiabatic.<\/p>",
+                    null,
+                    null,
+                    [
+                        76,
+                        226
+                    ],
+                    1,
+                    0,
+                    "546318d642ae49ce9d023548e72288cc",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    78,
+                    null,
+                    "<p>Thermocouple, thermometer is based on:<\/p>",
+                    [
+                        "<p>Seebeck effect<\/p>",
+                        "<p>Pettier effect<\/p>",
+                        "<p>Thomson effect<\/p>",
+                        "<p>Joule effect<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Thermocouple, thermometer is based on&nbsp;Seebeck effect.<\/p><p><b>Seebeck effect<\/b><\/p><ul><li>If two different metal wires are joined to form a closed circuit and two junctions are kept at different temperatures, a small emf is set up in the circuit in a definite direction. This effect is called a thermoelectric effect or Seebeck effect.<\/li><li>The emf developed in the circuit is called thermal emf or Seeback emf and the current called thermoelectric current.<\/li><\/ul>",
+                    null,
+                    null,
+                    [
+                        77,
+                        227
+                    ],
+                    1,
+                    0,
+                    "78d1b56e4d2c4a04bac0a0d3ef3ffb47",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    79,
+                    null,
+                    "<p>Two bodies in contact are said to be in thermal equilibrium when:<\/p>",
+                    [
+                        "<p>No work is done by the bodies<\/p>",
+                        "<p>When one of the body has a higher temperature<\/p>",
+                        "<p>No heat flow occurs between the two bodies<\/p>",
+                        "<p>All of the above<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Two bodies in contact are said to be in thermal equilibrium when no heat flow occurs between the two bodies.<\/p><p><b>Thermal equilibrium<\/b>: Thermal equilibrium is a condition when two surfaces in physical contact have no exchange of heat between them.<\/p><ul><li>Heat flows from an object of higher temperature to an object of lower temperature.<\/li><li>So, temperature governs the direction of heat flow.<\/li><li>When no heat flow occurs, it is to be inferred that the surfaces are at the same temperature.<\/li><\/ul>",
+                    null,
+                    null,
+                    [
+                        78,
+                        228
+                    ],
+                    1,
+                    0,
+                    "75db6182fa084365b7d3c53e7198116a",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    80,
+                    null,
+                    "<p>300 gm of water at \\(25^{\\circ} \\mathrm{C}\\) is added to \\(100 \\mathrm{gm}\\) of ice at \\(0^{\\circ} \\mathrm{C}\\). Final temperature of the mixture is:<\/p>",
+                    [
+                        "<p>\\(0^{\\circ} \\mathrm{C}\\)<\/p>",
+                        "<p>\\(-\\frac{5^{\\circ}}{3} \\mathrm{C}\\)<\/p>",
+                        "<p>\\(-\\frac{5^{\\circ}{2}}{\\mathrm{C}}\\)<\/p>",
+                        "<p>\\(-5^{\\circ} \\mathrm{C}\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>\\(m_1=300 ~gm\\), \\(T_0=25^{\\circ} \\mathrm{C}\\), \\(m_2=100 \\mathrm{gm}\\)<\/p><p>We know that latent heat of fusion of ice is \\(79.7 \\mathrm{Cal}\\) per gram.<\/p><p>Let final temperature be \\(\\mathrm{T}\\).<\/p><p>Then<\/p><p>\\(\\mathrm{m}_{1} \\mathrm{~S} \\Delta \\mathrm{T}=\\mathrm{m}_{2} \\mathrm{~L} \\)<\/p><p>Put the given values in above formula:<\/p><p>\\(300 \\times 1 \\times(25-\\mathrm{T})=100 \\times 75 \\)<\/p><p>\\(\\Rightarrow (25-\\mathrm{T})=\\frac{100 \\times 75}{300} \\)<\/p><p>\\(\\Rightarrow 25-\\mathrm{T}=25 \\)<\/p><p>\\(\\Rightarrow \\mathrm{~T}=0^{\\circ} \\mathrm{C}\\)<\/p><p>After that total energy left \\(=4.7 \\times 100=470\\)<\/p><p>Total mass of water \\(=400 \\mathrm{~g}\\)<\/p><p>Amount of water again converted into ice<\/p><p>\\(m=\\frac{\\text{ total energy left }}{\\text{ latent heat of fusion of ice}}\\)<\/p><p>\\(\\mathrm{m}=\\frac{470}{79.7} \\)<\/p><p>\\(\\mathrm{~m}=5.9 \\mathrm{~g}\\)<\/p><p>Thus whole mass is converted into water at \\(0^{\\circ} \\mathrm{C}\\), and about \\(5.9\\) gwater is again converted into ice whose temperature is also \\(0{ }^{\\circ} \\mathrm{C}\\).<\/p><p>After achieving the temperature of \\(0^{\\circ} \\mathrm{C}\\), latent heat of fusion is required firstly for conversion of water into ice then further lowering of temperature is possible. So the final temperature will be \\(0{ }^{\\circ} \\mathrm{C}\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        79,
+                        229
+                    ],
+                    1,
+                    0,
+                    "a2b523058400481fb074bd8028c095b5",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    81,
+                    null,
+                    "<p>Which of the following equation correctly represents work done by adiabatic expansion?<\/p>",
+                    [
+                        "<p>\\(W=\\frac{P_{1} V_{1}-P_{2} V_{2}}{\\gamma-1}\\)<\/p>",
+                        "<p>\\(W=2.3026 n R T \\log _{10}\\left(\\frac{V_{2}}{V_{1}}\\right)\\)<\/p>",
+                        "<p>\\(W=2.3026 n R T \\log _{10}\\left(\\frac{P_{2}}{P_{1}}\\right)\\)<\/p>",
+                        "<p>\\(\\mathrm{W}=0\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>\\(\\frac{P_{1} V_{1}-P_{2} V_{2}}{\\gamma-1}\\) correctly represents work done by adiabatic expansion.<\/p><p>An adiabatic process is a thermodynamic process in which there is no exchange of heat between the system and surrounding, that is, the heat remains constant.<\/p><p>For an adiabatic process, We follow the Poisson's Law.<\/p><p>\\(P V^{\\gamma}=\\) constant<\/p><p>\\(T V^{\\gamma-1}=\\) constant<\/p><p>\\(\\frac{T^{\\gamma}}{P^{\\gamma-1}}=\\) constant<\/p><p>For adiabatic process, \\(\\Delta Q=0\\)<\/p><p>Now according to the first law of thermodynamics \\(\\Delta Q=\\Delta W+\\Delta U\\), so if \\(\\Delta Q=0\\).<\/p><p>This means that for adiabatic process the system performs Work \\((\\Delta \\mathrm{W})\\) based on the bases of internal energy since \\(\\Delta \\mathrm{W}=-\\Delta \\mathrm{U}\\) from the above equation<\/p><p>For the adiabatic process, the work done by the system is given as<\/p><p>\\(W=\\frac{P_{1} V_{1}-P_{2} V_{2}}{\\gamma-1}=\\frac{n R\\left(T_{1}-T_{2}\\right)}{\\gamma-1}\\)<\/p><p>Here \\(\\mathrm{R}\\) is gas constant, \\(\\mathrm{n}\\) is molar mass and \\(\\gamma=\\frac{C_{P}}{C_{V}}\\), where \\(\\mathrm{Cp}\\) and \\(\\mathrm{Cv}\\) are specific heat at constant pressure and volume. (as we had discussed in topic Heat and temperature)<\/p><p>Here,<\/p><p>\\(\\mathrm{P}_{1}\\) and \\(\\mathrm{P}_{2}=\\) initial and final pressure<\/p><p>\\(\\mathrm{V}_{1}\\) and \\(\\mathrm{V}_{2}=\\) initial and final volume,<\/p><p>\\(\\gamma =\\) adiabatic index<\/p><p>\\(W=\\) work done<\/p>",
+                    null,
+                    null,
+                    [
+                        80,
+                        230
+                    ],
+                    1,
+                    0,
+                    "39aeb70764014d2e9762947705e13805",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    82,
+                    null,
+                    "<p>During an adiabatic expansion of 2 mole of gas, the change in internal energy was, found \\(-50 \\mathrm{~J}\\). The work done during the process:<\/p>",
+                    [
+                        "-50 J",
+                        "50 J",
+                        "100 J",
+                        "0 J"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p><img src=\"https://testseries.edugorilla.com/static/media/wl_client/1/qdump/e55a342d057a52acc35b29ffdedd2ff4/3f13445565e36eca89cf81bf1702113e.jpg\" class=\"img-responsive\" style=\"display: inline;\"><\/span><\/p><p>Given:<\/p><p>\\(\\Delta \\mathrm{U}=-50 \\mathrm{~J}\\) and \\(\\mathrm{Q}=0 \\mathrm{~J}\\) (Adiabatic process)<\/p><p>The first law of thermodynamics: This law states that the total heat given or taken out of the system will always be equal to the work done and change in the internal energy of the system.<\/p><p>\\(\\Rightarrow \\Delta Q=\\Delta W+\\Delta U\\)<\/p><p>The work done during the process<\/p><p>\\(\\Rightarrow 0=\\Delta W-50 \\)<\/p><p>\\(\\Rightarrow \\Delta W=50 J\\)<\/p><p>Here work done is positive so we can conclude that the system is doing work on the surrounding.<\/p>",
+                    null,
+                    null,
+                    [
+                        81,
+                        231
+                    ],
+                    1,
+                    0,
+                    "2a768cbaa22a4125a7a4d83aeb460376",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    83,
+                    null,
+                    "<p>A monoatomic gas is suddenly compressed to \\(\\left(\\frac{1}{8}\\right)^{t h}\\) of its initial volume adiabatically. The ratio of its final pressure to the initial pressure is:<\/p>",
+                    [
+                        "1: 32",
+                        "40: 3",
+                        "20: 7",
+                        "1: 16"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>\\(\\gamma=\\frac{5 }{ 3}\\) and \\(V_{2}=\\frac{V_{1} }{ 8}\\)<\/p><p>For an ideal gas undergoing an adiabatic process at room temperature,<\/p><p>\\( P_{1} V_{1}^{\\gamma}=P_{2} V_{2}^{\\gamma} \\)<\/p><p>\\(\\Rightarrow \\frac{P_{1}}{P_{2}}=\\left(\\frac{V_{2}}{V_{1}}\\right)^{\\gamma} \\)<\/p><p>\\(\\Rightarrow \\frac{P_{1}}{P_{2}}=\\left(\\frac{1V_{1}}{8V_{1}}\\right)^{\\frac{5}{3}}\\)<\/p><p>\\(=1:32\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        82,
+                        232
+                    ],
+                    1,
+                    0,
+                    "8e2b45b6a63341419f2c41461438bcad",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    84,
+                    null,
+                    "<p>For a gas of non rigid diatomic molecules, the value of \\(\\gamma=\\frac{C_{P}}{C_{V}}\\) is:<\/p>",
+                    [
+                        "<p>\\(\\frac{9}{7}\\)<\/p>",
+                        "<p>\\(\\frac{5}{7}\\)<\/p>",
+                        "<p>\\(\\frac{7}{5}\\)<\/p>",
+                        "<p>\\(\\frac{11}{7}\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>Diatomic molecule, so \\(\\mathrm{f}=5\\)<\/p><p>Molecular specific heat at constant volume \\(\\mathbf{C}_{\\mathrm{v}}=\\mathrm{f} \\frac{R}{ 2}\\)<\/p><p>Molecular specific heat at constant volume \\(C_{p}=C_{v}+R=(2+f) \\frac{R }{ 2}\\)<\/p><p>where \\(\\mathrm{f}\\) is the degree of freedom.<\/p><p>For monoatomic molecule \\(\\mathrm{f}=3\\)<\/p><p>For diatomic molecule \\(f=5\\)<\/p><p>\\(\\gamma=\\frac{C_{P}}{C_{V}}=\\frac{7}{5}\\)<br><\/p>",
+                    null,
+                    null,
+                    [
+                        83,
+                        233
+                    ],
+                    1,
+                    0,
+                    "019650ef905c43bc96f0bf87c37b4cf9",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    85,
+                    null,
+                    "<p>A Carnot heat pump works between \\(27^{\\circ} \\mathrm{C}\\) and \\(327^{\\circ} \\mathrm{C}\\). What will be its COP?<\/p>",
+                    [
+                        "0.09",
+                        "1",
+                        "1.09",
+                        "2"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Given:<\/p><p><img src=\"https://testseries.edugorilla.com/static/media/wl_client/1/qdump/e55a342d057a52acc35b29ffdedd2ff4/3b15cf2735602e83e3ccdf143ac5123a.jpg\" class=\"img-responsive\" style=\"display: inline;\"><\/span><\/p><p>\\(T_{1}=327^{\\circ} \\mathrm{C}=600 \\mathrm{~K}, \\mathrm{~T}_{2}=27^{\\circ} \\mathrm{C}=300 \\)<\/p><p>COP of Carnot Heat pump \\(=\\frac{T_{1}}{T_{1}-T_{2}}\\)<\/p><p>\\( C O P=\\frac{600}{600-300}=\\frac{600}{300}=2\\)<\/p><p>COP of Carnot heat pump \\(=2\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        84,
+                        234
+                    ],
+                    1,
+                    0,
+                    "f72ffff8ed71482ea0c3d0f576334190",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    86,
+                    null,
+                    "<p>In a vapor compression refrigeration system, the sub-cooling of refrigerant in the condenser results in:<\/p>",
+                    [
+                        "<p>Decrease in COP of the system<\/p>",
+                        "<p>Decrease in the size of the condenser<\/p>",
+                        "<p>Increase in the size of the evaporator<\/p>",
+                        "<p>Increase in the size of the compressor<br><\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<ul><li>In a vapor compression refrigeration system, the sub-cooling of refrigerant in the condenser results in increase in the size of the evaporator.<\/li><li><span>Sub cooling is the process of cooling the liquid refrigerant below the condensing temperature for a given pressure.<\/span><\/li><li><span>The difference between the saturation temperature and the temperature of sub cooled liquid at that pressure is called Degree of sub cooling.<\/span><\/li><li><span>Subcooling is beneficial as it increases the refrigeration effect by reducing the, throttling loss at no additional specific work input.<\/span><\/li><li><span>Also, subcooling ensures that only liquid enters the throttling device leading to its efficient operation.<\/span><\/li><\/ul><p><span><img src=\"https://testseries.edugorilla.com/static/media/wl_client/1/qdump/e55a342d057a52acc35b29ffdedd2ff4/1ee093c686714c0686003e626ab79f1f.jpg\" class=\"img-responsive\" style=\"display: inline;\"><\/p>",
+                    null,
+                    null,
+                    [
+                        85,
+                        235
+                    ],
+                    1,
+                    0,
+                    "5539c82edffa44d8946c83be68c5749c",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    87,
+                    null,
+                    "<p>Domestic refrigerator working on vapour compression cycle uses the following type of expansion device.<\/p>",
+                    [
+                        "<p>Electrically operated throttling valve<\/p>",
+                        "<p>Manually operated valve,<\/p>",
+                        "<p>Thermostatic valve<\/p>",
+                        "<p>Capillary tube<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Domestic refrigerator working on vapour compression cycle uses the 'Capillary tube' of the expansion device.<\/p><ul><li>The capillary tube is one of the most commonly used throttling devices in domestic refrigerators, deep freezers, water coolers, and air conditioners. Capillary tubes have very small internal diameters and very long lengths and they are coiled to several turns so that they would occupy less space (compact). They are easy to manufacture, cheap and compact.<\/li><li>When the refrigerant leaves the condenser and enters the capillary tube, its high pressure drops down suddenly due to the very small diameter of the capillary tube and the long length gives more friction head and drops pressure further.<\/li><li>The decrease in pressure leads to the cooling of the refrigerant and the low-temperature refrigerant can take the heat from the room.<\/li><\/ul>",
+                    null,
+                    null,
+                    [
+                        86,
+                        236
+                    ],
+                    1,
+                    0,
+                    "7e802a3aaeb34dc485253cfafdf2a759",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    88,
+                    null,
+                    "<p>Which is the desirable physical property of refrigerant?<\/p>",
+                    [
+                        "<p>Toxic<\/p>",
+                        "<p>Explosive<\/p>",
+                        "<p>Low boiling point<\/p>",
+                        "<p>High freezing point<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>'Low boiling point' is the desirable physical property of refrigerant.<\/p><p>The characteristics of a good refrigerant should have the following properties.<\/p><p>1. Low boiling point<\/p><p>2. High latent heat value<\/p><p>3. Low freezing point<\/p><p>4. Non-flammable and non-toxic<\/p><p>5. High di-electric strength<\/p><p>6. Not affected by moisture<\/p><p>7. Non-corrosive to metals<\/p><p>8. Mixes well with compressor oil<\/p>",
+                    null,
+                    null,
+                    [
+                        87,
+                        237
+                    ],
+                    1,
+                    0,
+                    "51f06f991b2b4b789ac2a851258b21a2",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    89,
+                    null,
+                    "<p>In a refrigeration system, why are expansion devices located closer to the evaporator?<\/p>",
+                    [
+                        "<p>To avoid the flow of the refrigerant<\/p>",
+                        "<p>To minimise the heat gain<\/p>",
+                        "<p>To ease the flow of the refrigerant<\/p>",
+                        "<p>To maximise the heat gain<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>In a refrigeration system, '<span>To minimise the heat gain<\/span><span>', expansion devices are located closer to the evaporator.<\/span><\/p><span><\/span><p><b>Refrigeration system:<\/b><\/p><ul><li>A refrigeration system contains a minimum of four key components i.e., compressor, condenser, expansion valve, and evaporator.<\/li><li>The purpose of the expansion device is to rapidly reduce the pressure of the refrigerant in the refrigeration cycle.<\/li><li>This allows the refrigerant to rapidly cool before entering the evaporator.<\/li><li>An expansion device is located closer to the evaporator in order to minimize heat gain.<\/li><li>The most common devices are capillary tubes, thermal expansion valves, electronic expansion valves.<\/li><\/ul>",
+                    null,
+                    null,
+                    [
+                        88,
+                        238
+                    ],
+                    1,
+                    0,
+                    "26bf3a7a8ea543528c145582f4d93668",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    90,
+                    null,
+                    "<p>If the volume of most air with \\(50 \\% \\mathrm{RH}\\) is isothermally reduced to half its original volume then relative humidity of moist air becomes:<\/p>",
+                    [
+                        "25%",
+                        "60%",
+                        "70%",
+                        "100%"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Given:<\/p><p>\\(\\phi_{1}=50 \\%\\)<\/p><p>Relative humidity is given by<\/p><p>\\(\\phi=\\frac{P_{v}}{P_{v s}}\\)<\/p><p>where \\(\\mathrm{P}_{\\mathrm{v}}\\) is pressure of water vapour and \\(\\mathrm{P}_{\\mathrm{vs}}\\) is pressure of water vapour at saturation point.<\/p><p>So,<\/p><p>\\(\\frac{\\phi_{2}}{\\phi_{1}}=\\frac{P_{v_{2}}}{P_{v 1}} \\)<\/p><p>Since volume is reduced to half so the pressure has become twice.<\/p><p>\\(P_{v _2}=2 P_{v _1} \\)<\/p><p>\\(\\Rightarrow \\frac{\\phi_{2}}{\\phi_{1}}=2 \\)<\/p><p>\\(\\Rightarrow \\phi_{2}=2 \\phi_{1} \\)<\/p><p>Put the value of \\(\\phi_{1}\\) in above equation:<\/p><p>\\(\\phi_{2}=2 \\times 50\\%\\)<\/p><p>\\(= 100 \\%\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        89,
+                        239
+                    ],
+                    1,
+                    0,
+                    "6fe135a2ad184ae1bfbf5e250ce3c4c4",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ]
+            ],
+            "shuffling": true,
+            "qp_ids": {},
+            "qc_ids": {},
+            "passages": null
+        },
+        "user": {
+            "level": 4,
+            "name": "Admin"
+        }
+    },
+    "code": 200
+}

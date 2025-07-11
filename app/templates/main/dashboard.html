@@ -1,0 +1,219 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - KODEMAPA{% endblock %}
+
+{% block content %}
+<!-- Welcome Section -->
+<section class="bg-animated text-white py-4 position-relative">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-8">
+                <h1 class="display-5 fw-bold mb-3 fade-in-up">
+                    Welcome back, <span class="text-gradient-cool">{{ current_user.username }}!</span>
+                </h1>
+                <p class="lead mb-4 fade-in-up" style="color: rgba(255,255,255,0.9);">
+                    🚀 Ready to continue your exam preparation journey? Let's achieve excellence together!
+                </p>
+                <div class="fade-in-up">
+                    <a href="{{ url_for('exam.practice') }}" class="btn btn-light btn-lg me-3 glow-success">
+                        <i class="bi bi-play-circle me-2"></i>Continue Practice
+                    </a>
+                    <a href="{{ url_for('exam.results') }}" class="btn btn-outline-light btn-lg">
+                        <i class="bi bi-graph-up me-2"></i>View Results
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-4 text-center">
+                <i class="bi bi-person-circle float" style="font-size: 6rem; opacity: 0.9; color: rgba(255,255,255,0.8);"></i>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Statistics Section -->
+<section class="py-5 bg-light">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-4 mb-4">
+                <div class="stats-card cosmic">
+                    <div class="stats-number">{{ total_subjects }}</div>
+                    <h5><i class="bi bi-book me-2"></i>Subjects</h5>
+                    <p class="mb-0">📚 Comprehensive coverage of CBSE curriculum</p>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="stats-card forest">
+                    <div class="stats-number">{{ total_topics }}</div>
+                    <h5><i class="bi bi-list-ul me-2"></i>Topics</h5>
+                    <p class="mb-0">🎯 Detailed topic-wise practice sessions</p>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="stats-card vibrant">
+                    <div class="stats-number">{{ (total_questions / 1000) | round(1) }}K+</div>
+                    <h5><i class="bi bi-question-circle me-2"></i>Questions</h5>
+                    <p class="mb-0">💡 Extensive question bank with solutions</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Quick Actions Section -->
+<section class="py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center mb-5">
+                <h2 class="text-gradient-fire">🎯 Quick Actions</h2>
+                <p class="lead text-muted">Jump right into your study session</p>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center">
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow-glow-primary text-center">
+                    <div class="card-body p-4">
+                        <i class="bi bi-pencil-square text-primary mb-3" style="font-size: 3rem;"></i>
+                        <h5>Practice Questions</h5>
+                        <p class="text-muted mb-4">Start practicing with random questions</p>
+                        <a href="{{ url_for('exam.practice') }}" class="btn btn-primary">
+                            <i class="bi bi-play-circle me-2"></i>Start Now
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow-custom text-center">
+                    <div class="card-body p-4">
+                        <i class="bi bi-clipboard-data text-success mb-3" style="font-size: 3rem;"></i>
+                        <h5>Take Exam</h5>
+                        <p class="text-muted mb-4">Take a full-length practice exam</p>
+                        <a href="{{ url_for('exam.dashboard') }}" class="btn btn-success">
+                            <i class="bi bi-clock me-2"></i>Start Exam
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow-custom text-center">
+                    <div class="card-body p-4">
+                        <i class="bi bi-graph-up text-info mb-3" style="font-size: 3rem;"></i>
+                        <h5>View Results</h5>
+                        <p class="text-muted mb-4">Check your performance and progress</p>
+                        <a href="{{ url_for('exam.results') }}" class="btn btn-info">
+                            <i class="bi bi-bar-chart me-2"></i>View Results
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Class Selection Section -->
+<section class="py-5 bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center mb-5">
+                <h2 class="text-gradient">📚 Browse by Class</h2>
+                <p class="lead text-muted">Select your class to explore subjects and topics</p>
+            </div>
+        </div>
+        
+        <div class="row">
+            <!-- Class XI -->
+            <div class="col-lg-6 mb-4">
+                <div class="card h-100 shadow-glow-primary">
+                    <div class="card-header text-center bg-glass">
+                        <h3><i class="bi bi-11-circle me-2"></i>Class XI</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            {% for subject in class_xi_subjects %}
+                            <div class="col-md-6 mb-3">
+                                <a href="{{ url_for('main.topics', subject_id=subject.id) }}" 
+                                   class="text-decoration-none">
+                                    <div class="d-flex align-items-center p-3 bg-glass rounded-custom shadow-custom">
+                                        <i class="bi bi-journal-text me-3 text-gradient" style="font-size: 1.5rem;"></i>
+                                        <div>
+                                            <h6 class="mb-1">{{ subject.name }}</h6>
+                                            <small class="text-muted">{{ subject.topics.count() }} topics</small>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        <div class="text-center mt-3">
+                            <a href="{{ url_for('main.subjects', class_level='XI') }}" 
+                               class="btn btn-primary">
+                                <i class="bi bi-arrow-right me-2"></i>View All Subjects
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Class XII -->
+            <div class="col-lg-6 mb-4">
+                <div class="card h-100 shadow-custom">
+                    <div class="card-header text-center">
+                        <h3><i class="bi bi-12-circle me-2"></i>Class XII</h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            {% for subject in class_xii_subjects %}
+                            <div class="col-md-6 mb-3">
+                                <a href="{{ url_for('main.topics', subject_id=subject.id) }}" 
+                                   class="text-decoration-none">
+                                    <div class="d-flex align-items-center p-3 bg-light rounded">
+                                        <i class="bi bi-journal-text me-3 text-primary" style="font-size: 1.5rem;"></i>
+                                        <div>
+                                            <h6 class="mb-1">{{ subject.name }}</h6>
+                                            <small class="text-muted">{{ subject.topics.count() }} topics</small>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        <div class="text-center mt-3">
+                            <a href="{{ url_for('main.subjects', class_level='XII') }}" 
+                               class="btn btn-primary">
+                                <i class="bi bi-arrow-right me-2"></i>View All Subjects
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Add smooth scrolling and animation effects
+    document.addEventListener('DOMContentLoaded', function() {
+        // Animate cards on scroll
+        const cards = document.querySelectorAll('.card');
+        const observer = new IntersectionObserver(entries => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        });
+        
+        cards.forEach(card => {
+            card.style.opacity = '0';
+            card.style.transform = 'translateY(20px)';
+            card.style.transition = 'all 0.6s ease';
+            observer.observe(card);
+        });
+    });
+</script>
+{% endblock %}

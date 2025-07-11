@@ -1,0 +1,2412 @@
+{
+    "result": {
+        "data": {
+            "L3": [
+                {
+                    "package_bought": true,
+                    "L4": [
+                        {
+                            "name": "Relations and Functions",
+                            "L5": [
+                                [
+                                    "Relations and Functions (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190557",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Relations_and_Functions_Relations_and_Functions_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Relations and Functions (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190559",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Relations_and_Functions_Relations_and_Functions_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Relations and Functions (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190558",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Relations_and_Functions_Relations_and_Functions_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Inverse Trigonometric Functions (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190556",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Relations_and_Functions_Inverse_Trigonometric_Functions_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Inverse Trigonometric Functions (Moderate)",
+                                    30,
+                                    30,
+                                    "1500",
+                                    0,
+                                    "/testapp/190555",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Relations_and_Functions_Inverse_Trigonometric_Functions_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Inverse Trigonometric Functions (Moderate)",
+                                    30,
+                                    30,
+                                    "1440",
+                                    0,
+                                    "/testapp/190554",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Relations_and_Functions_Inverse_Trigonometric_Functions_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Algebra",
+                            "L5": [
+                                [
+                                    "Matrices (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190553",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Algebra_Matrices_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Matrices (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190552",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Algebra_Matrices_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Matrices (Moderate)",
+                                    30,
+                                    30,
+                                    "1680",
+                                    0,
+                                    "/testapp/190551",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Algebra_Matrices_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Determinants (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190550",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Algebra_Determinants_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Determinants (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190549",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Algebra_Determinants_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Determinants (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190548",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Algebra_Determinants_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Vectors and Three-Dimensional Geometry",
+                            "L5": [
+                                [
+                                    "Vectors (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190545",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Vectors_and_Three-Dimensional_Geometry_Vectors_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Vectors (Moderate)",
+                                    30,
+                                    30,
+                                    "1560",
+                                    0,
+                                    "/testapp/190547",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Vectors_and_Three-Dimensional_Geometry_Vectors_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Vectors (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190546",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Vectors_and_Three-Dimensional_Geometry_Vectors_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Three Dimensional Geometry (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190544",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Vectors_and_Three-Dimensional_Geometry_Three_Dimensional_Geometry_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Three Dimensional Geometry (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190543",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Vectors_and_Three-Dimensional_Geometry_Three_Dimensional_Geometry_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Three Dimensional Geometry (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190542",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Vectors_and_Three-Dimensional_Geometry_Three_Dimensional_Geometry_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Probability",
+                            "L5": [
+                                [
+                                    "Probability (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190541",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Probability_Probability_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Probability (Moderate)",
+                                    30,
+                                    30,
+                                    "1500",
+                                    0,
+                                    "/testapp/190540",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Probability_Probability_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Probability (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190539",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Probability_Probability_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Calculus",
+                            "L5": [
+                                [
+                                    "Continuity and Differentiability (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190538",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Continuity_and_Differentiability_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Continuity and Differentiability (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190537",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Continuity_and_Differentiability_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Continuity and Differentiability (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190531",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Continuity_and_Differentiability_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Application of Derivatives (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190530",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Application_of_Derivatives_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Application of Derivatives (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190533",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Application_of_Derivatives_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Application of Derivatives (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190524",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Application_of_Derivatives_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Integrals (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190528",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Integrals_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Integrals (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190527",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Integrals_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Integrals (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190526",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Integrals_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Application of Integrals (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    1,
+                                    "/testapp/190525",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    true,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Application_of_Integrals_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Application of Integrals (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190535",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Application_of_Integrals_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Application of Integrals (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190534",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Application_of_Integrals_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Differential Equations (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190529",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Differential_Equations_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Differential Equations (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190536",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Differential_Equations_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Differential Equations (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190532",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Calculus_Differential_Equations_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Linear Programming",
+                            "L5": [
+                                [
+                                    "Linear Programming (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190523",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Linear_Programming_Linear_Programming_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Linear Programming (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190521",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Linear_Programming_Linear_Programming_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Linear Programming (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190522",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Linear_Programming_Linear_Programming_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    "url": "/api/v2/ecatalog/L4/2269/86245",
+                    "mt_coming": true,
+                    "name": "Mathematics",
+                    "id": 86245
+                },
+                {
+                    "package_bought": true,
+                    "L4": [
+                        {
+                            "L5": [
+                                [
+                                    "Electric Charges and Fields (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190603",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electrostatic_Electric_Charges_and_Fields_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Electric Charges and Fields (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190602",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electrostatic_Electric_Charges_and_Fields_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Electric Charges and Fields (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190601",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electrostatic_Electric_Charges_and_Fields_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Electrostatic Potential and Capacitance (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190605",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electrostatic_Electrostatic_Potential_and_Capacitance_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Electrostatic Potential and Capacitance (Moderate)",
+                                    30,
+                                    30,
+                                    "1200",
+                                    0,
+                                    "/testapp/190606",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electrostatic_Electrostatic_Potential_and_Capacitance_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Electrostatic Potential and Capacitance (Moderate)",
+                                    30,
+                                    30,
+                                    "1200",
+                                    0,
+                                    "/testapp/190604",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electrostatic_Electrostatic_Potential_and_Capacitance_(Moderate).json"
+                                    }
+                                ]
+                            ],
+                            "name": "Electrostatic"
+                        },
+                        {
+                            "L5": [
+                                [
+                                    "Current Electricity (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190599",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Current_Electricity_Current_Electricity_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Current Electricity (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190600",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Current_Electricity_Current_Electricity_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Current Electricity (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190598",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Current_Electricity_Current_Electricity_(Moderate).json"
+                                    }
+                                ]
+                            ],
+                            "name": "Current Electricity"
+                        },
+                        {
+                            "L5": [
+                                [
+                                    "Moving Charges and Magnetism (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190595",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Magnetic_Effects_of_Current_and_Magnetism_Moving_Charges_and_Magnetism_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Moving Charges and Magnetism (Moderate)",
+                                    30,
+                                    30,
+                                    "1200",
+                                    0,
+                                    "/testapp/190596",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Magnetic_Effects_of_Current_and_Magnetism_Moving_Charges_and_Magnetism_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Moving Charges and Magnetism (Moderate)",
+                                    30,
+                                    30,
+                                    "1200",
+                                    0,
+                                    "/testapp/190597",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Magnetic_Effects_of_Current_and_Magnetism_Moving_Charges_and_Magnetism_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Magnetism and Matter (Moderate)",
+                                    30,
+                                    30,
+                                    "1200",
+                                    0,
+                                    "/testapp/190594",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Magnetic_Effects_of_Current_and_Magnetism_Magnetism_and_Matter_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Magnetism and Matter (Moderate)",
+                                    30,
+                                    30,
+                                    "1200",
+                                    0,
+                                    "/testapp/190593",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Magnetic_Effects_of_Current_and_Magnetism_Magnetism_and_Matter_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Magnetism and Matter (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190592",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Magnetic_Effects_of_Current_and_Magnetism_Magnetism_and_Matter_(Moderate).json"
+                                    }
+                                ]
+                            ],
+                            "name": "Magnetic Effects of Current and Magnetism"
+                        },
+                        {
+                            "L5": [
+                                [
+                                    "Ray Optics and Optical Instruments (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190591",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Optics_Ray_Optics_and_Optical_Instruments_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Ray Optics and Optical Instruments (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190590",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Optics_Ray_Optics_and_Optical_Instruments_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Ray Optics and Optical Instruments (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190589",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Optics_Ray_Optics_and_Optical_Instruments_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Wave Optics (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190588",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Optics_Wave_Optics_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Wave Optics (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190587",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Optics_Wave_Optics_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Wave Optics (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190586",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Optics_Wave_Optics_(Moderate).json"
+                                    }
+                                ]
+                            ],
+                            "name": "Optics"
+                        },
+                        {
+                            "L5": [
+                                [
+                                    "Electromagnetic Induction (Moderate)",
+                                    30,
+                                    30,
+                                    "1200",
+                                    0,
+                                    "/testapp/190581",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electromagnetic_Induction_and_Alternating_Current_Electromagnetic_Induction_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Electromagnetic Induction (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190585",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electromagnetic_Induction_and_Alternating_Current_Electromagnetic_Induction_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Electromagnetic Induction (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190580",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electromagnetic_Induction_and_Alternating_Current_Electromagnetic_Induction_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Alternating Current (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190583",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electromagnetic_Induction_and_Alternating_Current_Alternating_Current_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Alternating Current (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190584",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electromagnetic_Induction_and_Alternating_Current_Alternating_Current_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Alternating Current (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190582",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electromagnetic_Induction_and_Alternating_Current_Alternating_Current_(Moderate).json"
+                                    }
+                                ]
+                            ],
+                            "name": "Electromagnetic Induction and Alternating Current"
+                        },
+                        {
+                            "L5": [
+                                [
+                                    "Electromagnetic Waves (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190577",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electromagnetic_Waves_Electromagnetic_Waves_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Electromagnetic Waves (Moderate)",
+                                    30,
+                                    30,
+                                    "1200",
+                                    0,
+                                    "/testapp/190578",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electromagnetic_Waves_Electromagnetic_Waves_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Electromagnetic Waves (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190579",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electromagnetic_Waves_Electromagnetic_Waves_(Moderate).json"
+                                    }
+                                ]
+                            ],
+                            "name": "Electromagnetic Waves"
+                        },
+                        {
+                            "L5": [
+                                [
+                                    "Atoms (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190574",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Atoms_and_Nuclei_Atoms_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Atoms (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190575",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Atoms_and_Nuclei_Atoms_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Atoms (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190573",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Atoms_and_Nuclei_Atoms_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Nuclei (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190576",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Atoms_and_Nuclei_Nuclei_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Nuclei (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190572",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Atoms_and_Nuclei_Nuclei_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Nuclei (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190571",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Atoms_and_Nuclei_Nuclei_(Moderate).json"
+                                    }
+                                ]
+                            ],
+                            "name": "Atoms and Nuclei"
+                        },
+                        {
+                            "L5": [],
+                            "name": "Electromagnetic Induction"
+                        },
+                        {
+                            "L5": [
+                                [
+                                    "Semiconductor Electronics (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190568",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electronic_Devices_Semiconductor_Electronics_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Semiconductor Electronics (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190569",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electronic_Devices_Semiconductor_Electronics_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Semiconductor Electronics (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190570",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electronic_Devices_Semiconductor_Electronics_(Moderate).json"
+                                    }
+                                ]
+                            ],
+                            "name": "Electronic Devices"
+                        },
+                        {
+                            "L5": [
+                                [
+                                    "Dual Nature of Matter and Radiation (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190567",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Dual_Nature_of_Matter_and_Radiation_Dual_Nature_of_Matter_and_Radiation_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Dual Nature of Matter and Radiation (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190565",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Dual_Nature_of_Matter_and_Radiation_Dual_Nature_of_Matter_and_Radiation_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Dual Nature of Matter and Radiation (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190566",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Dual_Nature_of_Matter_and_Radiation_Dual_Nature_of_Matter_and_Radiation_(Moderate).json"
+                                    }
+                                ]
+                            ],
+                            "name": "Dual Nature of Matter and Radiation"
+                        }
+                    ],
+                    "url": "/api/v2/ecatalog/L4/2269/86254",
+                    "mt_coming": true,
+                    "name": "Physics",
+                    "id": 86254
+                },
+                {
+                    "package_bought": true,
+                    "L4": [
+                        {
+                            "name": "The d and f Block Elements\t",
+                            "L5": [
+                                [
+                                    "d and f Block Elements (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190848",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\The_d_and_f_Block_Elements__d_and_f_Block_Elements_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "d and f Block Elements (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190849",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\The_d_and_f_Block_Elements__d_and_f_Block_Elements_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "d and f Block Elements (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190850",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\The_d_and_f_Block_Elements__d_and_f_Block_Elements_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Haloalkanes and Haloarenes\t",
+                            "L5": [
+                                [
+                                    "Haloalkanes and Haloarenes (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190632",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Haloalkanes_and_Haloarenes__Haloalkanes_and_Haloarenes_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Haloalkanes and Haloarenes (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190633",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Haloalkanes_and_Haloarenes__Haloalkanes_and_Haloarenes_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Haloalkanes and Haloarenes (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190634",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Haloalkanes_and_Haloarenes__Haloalkanes_and_Haloarenes_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Chemical Kinetics",
+                            "L5": [
+                                [
+                                    "Chemical Kinetics (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190626",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Chemical_Kinetics_Chemical_Kinetics_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Chemical Kinetics (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190627",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Chemical_Kinetics_Chemical_Kinetics_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Chemical Kinetics (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190628",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Chemical_Kinetics_Chemical_Kinetics_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Electrochemistry",
+                            "L5": [
+                                [
+                                    "Electrochemistry (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190623",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electrochemistry_Electrochemistry_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Electrochemistry (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190624",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electrochemistry_Electrochemistry_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Electrochemistry (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190625",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Electrochemistry_Electrochemistry_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Coordination Compounds\t",
+                            "L5": [
+                                [
+                                    "Coordination Compounds (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190622",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Coordination_Compounds__Coordination_Compounds_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Coordination Compounds (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190620",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Coordination_Compounds__Coordination_Compounds_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Coordination Compounds (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190621",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Coordination_Compounds__Coordination_Compounds_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Biomolecules",
+                            "L5": [
+                                [
+                                    "Biomolecules (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190617",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biomolecules_Biomolecules_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Biomolecules (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190618",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biomolecules_Biomolecules_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Biomolecules (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190619",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biomolecules_Biomolecules_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Aldehydes, Ketones and Carboxylic Acids",
+                            "L5": [
+                                [
+                                    "Aldehydes, Ketones and Carboxylic Acids (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190614",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Aldehydes,_Ketones_and_Carboxylic_Acids_Aldehydes,_Ketones_and_Carboxylic_Acids_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Aldehydes, Ketones and Carboxylic Acids (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190615",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Aldehydes,_Ketones_and_Carboxylic_Acids_Aldehydes,_Ketones_and_Carboxylic_Acids_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Aldehydes, Ketones and Carboxylic Acids (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190616",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Aldehydes,_Ketones_and_Carboxylic_Acids_Aldehydes,_Ketones_and_Carboxylic_Acids_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "The p Block Elements",
+                            "L5": []
+                        },
+                        {
+                            "name": "Alcohols, Phenols and Ethers",
+                            "L5": [
+                                [
+                                    "Alcohols, Phenols and Ethers (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190610",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Alcohols,_Phenols_and_Ethers_Alcohols,_Phenols_and_Ethers_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Alcohols, Phenols and Ethers (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190611",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Alcohols,_Phenols_and_Ethers_Alcohols,_Phenols_and_Ethers_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Alcohols, Phenols and Ethers (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190612",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Alcohols,_Phenols_and_Ethers_Alcohols,_Phenols_and_Ethers_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Solutions",
+                            "L5": [
+                                [
+                                    "Solutions (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190607",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Solutions_Solutions_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Solutions (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190608",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Solutions_Solutions_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Solutions (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190609",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Solutions_Solutions_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    "url": "/api/v2/ecatalog/L4/2269/86265",
+                    "mt_coming": true,
+                    "name": "Chemistry",
+                    "id": 86265
+                },
+                {
+                    "package_bought": true,
+                    "L4": [
+                        {
+                            "name": "Ecology and Environment\t",
+                            "L5": [
+                                [
+                                    "Organisms and Populations (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190852",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Ecology_and_Environment__Organisms_and_Populations_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Organisms and Populations (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190854",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Ecology_and_Environment__Organisms_and_Populations_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Organisms and Populations (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190855",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Ecology_and_Environment__Organisms_and_Populations_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Ecosystem (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190856",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Ecology_and_Environment__Ecosystem_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Ecosystem (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190857",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Ecology_and_Environment__Ecosystem_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Ecosystem (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190858",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Ecology_and_Environment__Ecosystem_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Biodiversity and its Conservation (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190859",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Ecology_and_Environment__Biodiversity_and_its_Conservation_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Biodiversity and its Conservation (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190860",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Ecology_and_Environment__Biodiversity_and_its_Conservation_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Biodiversity and its Conservation (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190861",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Ecology_and_Environment__Biodiversity_and_its_Conservation_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Biotechnology and its Applications",
+                            "L5": [
+                                [
+                                    "Biotechnology - Principles and Processes (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190659",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biotechnology_and_its_Applications_Biotechnology_-_Principles_and_Processes_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Biotechnology - Principles and Processes (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190660",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biotechnology_and_its_Applications_Biotechnology_-_Principles_and_Processes_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Biotechnology - Principles and Processes (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190661",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biotechnology_and_its_Applications_Biotechnology_-_Principles_and_Processes_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Biotechnology and Its Applications (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190662",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biotechnology_and_its_Applications_Biotechnology_and_Its_Applications_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Biotechnology and Its Applications (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190663",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biotechnology_and_its_Applications_Biotechnology_and_Its_Applications_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Biotechnology and Its Applications (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190664",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biotechnology_and_its_Applications_Biotechnology_and_Its_Applications_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Biology and Human Welfare",
+                            "L5": [
+                                [
+                                    "Human Health and Diseases (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190653",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biology_and_Human_Welfare_Human_Health_and_Diseases_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Human Health and Diseases (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190654",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biology_and_Human_Welfare_Human_Health_and_Diseases_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Human Health and Diseases (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190655",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biology_and_Human_Welfare_Human_Health_and_Diseases_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Microbes in Human Welfare (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190656",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biology_and_Human_Welfare_Microbes_in_Human_Welfare_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Microbes in Human Welfare (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190657",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biology_and_Human_Welfare_Microbes_in_Human_Welfare_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Microbes in Human Welfare (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190658",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Biology_and_Human_Welfare_Microbes_in_Human_Welfare_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Genetics and Evolution",
+                            "L5": [
+                                [
+                                    "Principles of Inheritance and Variation (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190644",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Genetics_and_Evolution_Principles_of_Inheritance_and_Variation_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Principles of Inheritance and Variation (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190645",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Genetics_and_Evolution_Principles_of_Inheritance_and_Variation_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Principles of Inheritance and Variation (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190646",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Genetics_and_Evolution_Principles_of_Inheritance_and_Variation_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Molecular Basis of Inheritance (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190647",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Genetics_and_Evolution_Molecular_Basis_of_Inheritance_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Molecular Basis of Inheritance (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190648",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Genetics_and_Evolution_Molecular_Basis_of_Inheritance_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Molecular Basis of Inheritance (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190649",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Genetics_and_Evolution_Molecular_Basis_of_Inheritance_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Evolution (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190650",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Genetics_and_Evolution_Evolution_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Evolution (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190651",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Genetics_and_Evolution_Evolution_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Evolution (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190652",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Genetics_and_Evolution_Evolution_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Reproduction",
+                            "L5": [
+                                [
+                                    "Sexual Reproduction in Flowering Plants (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190635",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Reproduction_Sexual_Reproduction_in_Flowering_Plants_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Sexual Reproduction in Flowering Plants (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190636",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Reproduction_Sexual_Reproduction_in_Flowering_Plants_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Sexual Reproduction in Flowering Plants (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190637",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Reproduction_Sexual_Reproduction_in_Flowering_Plants_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Human Reproduction (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190638",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Reproduction_Human_Reproduction_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Human Reproduction (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190639",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Reproduction_Human_Reproduction_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Human Reproduction (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190640",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Reproduction_Human_Reproduction_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Reproductive Health (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190641",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Reproduction_Reproductive_Health_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Reproductive Health (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190642",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Reproduction_Reproductive_Health_(Moderate).json"
+                                    }
+                                ],
+                                [
+                                    "Reproductive Health (Moderate)",
+                                    30,
+                                    30,
+                                    "1800",
+                                    0,
+                                    "/testapp/190643",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false,
+                                    {
+                                        "file_path": "responseBody\\Reproduction_Reproductive_Health_(Moderate).json"
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    "url": "/api/v2/ecatalog/L4/2269/86276",
+                    "mt_coming": true,
+                    "name": "Biology",
+                    "id": 86276
+                }
+            ],
+            "total_users_count": 4000,
+            "tests_available": 147,
+            "tests_taken": 41908,
+            "disallow_reattempt": null,
+            "students": 5152,
+            "exam_calender": [],
+            "quizes": [],
+            "image": "https://kodemapa.com/static/media/wl_client/251995/l2_exam_images/af672236a177468aaa434daab4a59ed6.png",
+            "l0_image": "/static/images/L0_Images/949.png",
+            "name": "Karnataka Board Class XII"
+        }
+    }
+}

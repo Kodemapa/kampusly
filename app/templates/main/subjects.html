@@ -1,0 +1,177 @@
+{% extends "base.html" %}
+
+{% block title %}Class {{ class_level }} Subjects - KODEMAPA{% endblock %}
+
+{% block content %}
+<!-- Header Section -->
+<section class="py-5 bg-primary text-white">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-8">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb text-white-50">
+                        <li class="breadcrumb-item">
+                            <a href="{{ url_for('main.index') }}" class="text-white">Home</a>
+                        </li>
+                        <li class="breadcrumb-item active">Class {{ class_level }}</li>
+                    </ol>
+                </nav>
+                <h1 class="display-5 fw-bold mb-3">
+                    <i class="bi bi-{{ '11' if class_level == 'XI' else '12' }}-circle me-3"></i>
+                    Class {{ class_level }} Subjects
+                </h1>
+                <p class="lead">Choose a subject to explore topics and start practicing</p>
+            </div>
+            <div class="col-md-4 text-center">
+                <i class="bi bi-collection" style="font-size: 5rem; opacity: 0.7;"></i>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Subjects Grid -->
+<section class="py-5">
+    <div class="container">
+        {% if subjects %}
+            <div class="row">
+                {% for subject in subjects %}
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <a href="{{ url_for('main.topics', subject_id=subject.id) }}" 
+                       class="subject-card card h-100 text-decoration-none">
+                        <div class="card-body text-center p-4">
+                            <!-- Subject Icon -->
+                            {% if 'Math' in subject.name %}
+                                <i class="bi bi-calculator subject-icon"></i>
+                            {% elif 'Physics' in subject.name %}
+                                <i class="bi bi-lightning subject-icon"></i>
+                            {% elif 'Chemistry' in subject.name %}
+                                <i class="bi bi-droplet subject-icon"></i>
+                            {% elif 'Biology' in subject.name %}
+                                <i class="bi bi-flower1 subject-icon"></i>
+                            {% elif 'English' in subject.name %}
+                                <i class="bi bi-book subject-icon"></i>
+                            {% else %}
+                                <i class="bi bi-journal-text subject-icon"></i>
+                            {% endif %}
+                            
+                            <h4 class="card-title mb-3">{{ subject.name }}</h4>
+                            
+                            <div class="row text-center">
+                                <div class="col-6">
+                                    <div class="bg-light rounded p-2">
+                                        <strong class="text-primary">{{ subject.topics.count() }}</strong>
+                                        <small class="d-block text-muted">Topics</small>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="bg-light rounded p-2">
+                                        <strong class="text-success">
+                                            {% set total_questions = 0 %}
+                                            {% for topic in subject.topics %}
+                                                {% set total_questions = total_questions + topic.questions.count() %}
+                                            {% endfor %}
+                                            {{ total_questions }}
+                                        </strong>
+                                        <small class="d-block text-muted">Questions</small>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="mt-3">
+                                <span class="btn btn-primary btn-sm">
+                                    <i class="bi bi-arrow-right me-1"></i>Explore Topics
+                                </span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div class="text-center py-5">
+                <i class="bi bi-inbox text-muted" style="font-size: 4rem;"></i>
+                <h3 class="text-muted mt-3">No Subjects Found</h3>
+                <p class="text-muted">No subjects are available for Class {{ class_level }} at the moment.</p>
+                <a href="{{ url_for('main.index') }}" class="btn btn-primary">
+                    <i class="bi bi-house me-2"></i>Return Home
+                </a>
+            </div>
+        {% endif %}
+    </div>
+</section>
+
+<!-- Quick Stats -->
+{% if subjects %}
+<section class="py-5 bg-light">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-3 mb-3">
+                <div class="card border-0 bg-primary text-white">
+                    <div class="card-body">
+                        <h3 class="mb-1">{{ subjects|length }}</h3>
+                        <small>Subjects</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="card border-0 bg-success text-white">
+                    <div class="card-body">
+                        <h3 class="mb-1">
+                            {% set total_topics = 0 %}
+                            {% for subject in subjects %}
+                                {% set total_topics = total_topics + subject.topics.count() %}
+                            {% endfor %}
+                            {{ total_topics }}
+                        </h3>
+                        <small>Total Topics</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="card border-0 bg-warning text-dark">
+                    <div class="card-body">
+                        <h3 class="mb-1">
+                            {% set total_questions = 0 %}
+                            {% for subject in subjects %}
+                                {% for topic in subject.topics %}
+                                    {% set total_questions = total_questions + topic.questions.count() %}
+                                {% endfor %}
+                            {% endfor %}
+                            {{ total_questions }}
+                        </h3>
+                        <small>Total Questions</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="card border-0 bg-info text-white">
+                    <div class="card-body">
+                        <h3 class="mb-1">100%</h3>
+                        <small>CBSE Aligned</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Add staggered animation to subject cards
+    document.addEventListener('DOMContentLoaded', function() {
+        const cards = document.querySelectorAll('.subject-card');
+        cards.forEach((card, index) => {
+            card.style.opacity = '0';
+            card.style.transform = 'translateY(20px)';
+            card.style.transition = 'all 0.6s ease';
+            
+            setTimeout(() => {
+                card.style.opacity = '1';
+                card.style.transform = 'translateY(0)';
+            }, index * 100);
+        });
+    });
+</script>
+{% endblock %}

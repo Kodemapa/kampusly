@@ -1,0 +1,980 @@
+{
+    "status": true,
+    "msg": "",
+    "code": 200,
+    "result": {
+        "data": {
+            "shuffling": true,
+            "qc_ids": {},
+            "qp_ids": {},
+            "sol_passage": null,
+            "passages": null,
+            "sec_questions": [
+                [
+                    1,
+                    null,
+                    "<p>If the distances of \\(\\mathrm{P}(x, y)\\) from \\(\\mathrm{A}(4,1)\\) and \\(\\mathrm{B}(-1,4)\\) are equal, then which of the following is true?<br><\/p>",
+                    [
+                        "<p>\\(3 x=2 y\\)<\/p>",
+                        "<p>\\(5 x=3 y\\)<\/p>",
+                        "<p>\\(x=2 y\\)<\/p>",
+                        "<p>\\(x=y\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>The distances of \\(\\mathrm{P}(x, y)\\) from \\(\\mathrm{A}(4,1)\\) and \\(\\mathrm{B}(-1,4)\\) are equal.<br><\/p><p>The distance ' \\(d\\) ' between two points \\(\\left(x_{1}, y_{1}\\right)\\) and \\(\\left(x_{2}, y_{2}\\right)\\) is obtained by using the Pythagoras' Theorem: \\(d^{2}=\\left(x_{1}-x_{2}\\right)^{2}+\\left(y_{1}-y_{2}\\right)^{2}\\).<br><\/p><p>Using the formula for the distance between two points:<\/p><p>\\(\\mathrm{AP}^{2}=(x-4)^{2}+(y-1)^{2}\\)<\/p><p>\\(\\mathrm{BP}^{2}=(x+1)^{2}+(y-4)^{2}\\)<\/p><p>Since the distances are equal, we have:<\/p><p>\\(\\mathrm{AP}^{2}=\\mathrm{BP}^{2} \\)<\/p><p>\\(\\Rightarrow(x-4)^{2}+(y-1)^{2}=(x+1)^{2}+(y-4)^{2}\\)<\/p><p>\\(\\Rightarrow x^{2}-8 x+16+y^{2}-2 y+1=x^{2}+2 x+1+y^{2}-8 y+16 \\)<\/p><p>\\(\\Rightarrow 10 x=6 y\\)<\/p><p>\\(\\Rightarrow 5 x=3 y\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        0,
+                        0
+                    ],
+                    1,
+                    4.000999927520752,
+                    "89e74e31d50142d0be270817014ef00c",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    2,
+                    null,
+                    "<p>The slope of the line perpendicular to the line passing through the points \\((3,2)\\) and \\((1,-1)\\) is:<\/p>",
+                    [
+                        "<p>\\(\\frac{-2}{3}\\)<\/p>",
+                        "<p>\\(\\frac{2}{3}\\)<\/p>",
+                        "<p>\\(\\frac{3}{2}\\)<\/p>",
+                        "<p>\\(\\frac{-3}{2}\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given,<\/p><p><span>The line passing through the points \\((3,2)\\) and \\((1,-1)\\)<\/span><br><\/p><p>Equation of a line passing through \\(\\left(x_{1}, y_{1}\\right)\\) and \\(\\left(x_{2}, y_{2}\\right)\\) is:<\/p><p>\\(\\frac{y-y_{1}}{x-x_{1}}=\\frac{y_{2}-y_{1}}{x_{2}-x_{1}}\\)<\/p><p>Therefore,<\/p><p>\\(\\frac{y-2}{x-3}=\\frac{-1-2}{1-3} \\)\\(\\quad\\quad(\\because \\frac{y-2}{x-3}=\\frac{-1-2}{1-3} )\\)<\/p><p>\\(3 x-2 y-5=0\\)<\/p><p>\\(y=\\frac{3}{2} x-\\frac{5}{2} \\)<\/p><p>\\(\\Rightarrow \\text { Slope }\\left(m_{1}\\right)=\\frac{3}{2} \\text { and } c_{1}=\\frac{-5}{2}\\)<\/p><p>Now for the slope of the perpendicular line \\(\\left(\\mathrm{m}_{2}\\right)\\)<\/p><p>\\(\\mathrm{m}_{1} \\times \\mathrm{m}_{2}=-1 \\)<\/p><p>\\(\\Rightarrow \\frac{3}{2} \\times \\mathrm{m}_{2}=-1 \\)<\/p><p>\\(\\Rightarrow \\mathrm{m}_{2}=\\frac{-2}{3}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        1,
+                        236
+                    ],
+                    1,
+                    0,
+                    "e88d2f0bf291410181d5d9f6a09aaebf",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    3,
+                    null,
+                    "<p>Find distance between the parallel lines \\(p(x+y)+q=0\\) and \\(p(x+y)-r=0\\)?<\/p>",
+                    [
+                        "<p>\\(\\frac{|q-r|}{\\sqrt{2} p}\\)<br><\/p>",
+                        "<p>\\(\\frac{|q+r|}{\\sqrt{2} p}\\)<\/p>",
+                        "<p>\\(\\frac{|q+r|}{2 \\sqrt{2} p}\\)<\/p>",
+                        "<p>\\(\\frac{|q-r|}{2 \\sqrt{2} p}\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>Two parallel line&nbsp;\\(p(x+y)+q=0\\) and \\(p(x+y)-r=0\\)<\/p><p>The distance between the parallel lines \\(ax+by+c_{1}=0\\) and \\(a x+b y+c_{2}=0\\) is given by:<\/p><p>\\(d=\\left|\\frac{c_{1}-c_{2}}{\\sqrt{a^{2}+b^{2}}}\\right|\\)<\/p><p>Here, we have to find the distance between the parallel lines \\(p(x+y)+q=0\\) and \\(p(x\\) \\(+y)-r=0\\)<\/p><p>The given equations of line can be re-written as: \\(p x+p y+q=0\\) and \\(p x+p y-r=0\\)<\/p><p>By comparing the equations of the given line with \\(ax+by+\\mathrm{c}_{1}=0\\) and \\(ax+by+\\) \\(c_{2}=0\\) we get,<\/p><p>\\(a=p, b=p, c_{1}=q\\) and \\(c_{2}=-r\\)<\/p><p>As we know that, the distance between the parallel lines is given by:<\/p><p>\\(d=\\left|\\frac{c_{1}-c_{2}}{\\sqrt{a^{2}+b^{2}}}\\right|\\)<\/p><p>\\(d=\\left|\\frac{q+r}{\\sqrt{p^{2}+p^{2}}}\\right|\\)<\/p><p>\\(=\\frac{|q+r|}{\\sqrt{2} p}\\)<\/p><p>Distance between the parallel lines \\(p(x+y)+q=0\\) and \\(p(x+y)-r=0\\) is&nbsp;\\(\\frac{|q+r|}{\\sqrt{2} p}\\).<br><\/p>",
+                    null,
+                    null,
+                    [
+                        2,
+                        237
+                    ],
+                    1,
+                    0,
+                    "e1b627a68112400e86706c62d8d9c520",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    4,
+                    null,
+                    "<p>Find the values of \\(k\\) for which the length of the perpendicular from the point \\((4,1)\\) on the line \\(3 x-4 y+k=0\\) is 2 units?<\/p>",
+                    [
+                        "<p>18<\/p>",
+                        "<p>-2<\/p>",
+                        "<p>-18<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>The length of the perpendicular from the point \\((4,1)\\) on the line \\(3 x-4 y+k=0\\) is 2 units.<\/p><p>The perpendicular distance \\(d\\) from \\(P\\left(x_{1}, y_{1}\\right)\\) to the line \\(a x+b y+c=0\\) is given by<\/p><p>\\(d=\\left|\\frac{a x_{1}+b y_{1}+c}{\\sqrt{a^{2}+b^{2}}}\\right|\\).........(i)<\/p><p>Let \\(P=(4,1)\\)<\/p><p>Here \\(x_{1}=4, y_{1}=1, a=3, b=-4\\) and \\(d=2\\)<\/p><p>Now substitute \\(x_{1}=4\\) and \\(y_{1}=1\\) in the equation (i) we get,<\/p><p>\\(\\Rightarrow d=\\left|\\frac{3 \u00d7 x_{1}-4 \u00d7 y_{1}+k}{\\sqrt{3^{2}+(-4)^{2}}}\\right|=2\\)<\/p><p>\\(\\Rightarrow d=\\left|\\frac{3 \u00d7 4-4 \u00d7 2+k}{\\sqrt{25}}\\right|=2\\)<\/p><p>\\(\\Rightarrow|\\frac{8+\\mathrm{k}}{5}|=2\\)<\/p><p>\\(\\Rightarrow|8+\\mathrm{k}|\\) = \\(10\\)<\/p><p>\\(\\Rightarrow \\mathrm{k}=2 \\text { or }-18\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        3,
+                        238
+                    ],
+                    1,
+                    0,
+                    "223724e32b7b4622897615014ebca2fc",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    5,
+                    null,
+                    "<p>Find the value of \\(k\\) for which the distance of point \\((k+2,2 k+3)\\) is \\(\\frac{4}{ \\sqrt{10}}\\) from the line \\(x+\\) \\(3 y=7 ?\\)<\/p>",
+                    [
+                        "<p>9<\/p>",
+                        "<p>-3<\/p>",
+                        "<p>2<\/p>",
+                        "<p>0<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>The distance of the point \\((k+2,2 k+3)\\) from the line \\(x+3 y=7\\) is \\(\\frac{4}{\\sqrt{10}}\\).<br><\/p><p>Let \\(P=(k+2,2 k+3)\\)<\/p><p>\\(\\Rightarrow x_{1}=k+2\\) and \\(y_{1}=2 k+3\\)<\/p><p>Here, \\(a=1\\) and \\(b=3\\)<\/p><p>Now substitute \\(x_{1}=k+2\\) and \\(y_{1}=2 k+3\\) in the equation \\(x+3 y-7=0\\) we get,<\/p><p>\\(\\Rightarrow\\left|x_{1}+3 \\cdot y_{1}-7\\right|=|7 k+4|\\)<\/p><p>\\(\\Rightarrow \\sqrt{a^{2}+b^{2}}\\)<\/p><p>\\(=\\sqrt{1^{2}+3^{2}}\\)<\/p><p>\\(=\\sqrt{10}\\)<\/p><p>As we know that, the perpendicular distance \\(d\\) from \\(P\\left(x_{1}, y_{1}\\right)\\) to the line \\(a x+b y+c\\) \\(=0\\) is given by:<\/p><p>\\(d=\\left|\\frac{a x_{1}+b y_{1}+c}{\\sqrt{a^{2}+b^{2}}}\\right|\\)<\/p><p>\\( d=\\left|\\frac{7 k+4}{\\sqrt{1^{2}+3^{2}}}\\right|\\)<\/p><p>\\(=\\frac{4}{\\sqrt{10}} \\)<\/p><p>\\(\\Rightarrow|7 k+4|\\)<\/p><p>\\(=4\\)<\/p><p>\\(\\Rightarrow k=0 \\text { or }\\frac{-8}{ 7}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        4,
+                        239
+                    ],
+                    1,
+                    0,
+                    "9ee8fa7e7e7f4984866bb4dd9efc0ad6",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    6,
+                    null,
+                    "<p>What is the product of the perpendiculars drawn from the points \\(\\left(\\pm \\sqrt{a^{2}-b^{2}}, 0\\right)\\) upon the line \\(b x \\cos \\alpha+\\) ay \\(\\sin \\alpha=a b\\)?<\/p>",
+                    [
+                        "<p>\\(a^{2}\\)<br/><\/p>",
+                        "<p>\\(b^{2}\\)<\/p>",
+                        "<p>\\(a^{2}+b^{2}\\)<\/p>",
+                        "<p>\\(a+b\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>\\(\\frac{x}{a} \\cos \\theta+\\frac{y}{b} \\sin \\theta=1\\)<\/p><p>Or, \\(b x\\cos \\theta+a y \\sin \\theta-a b=0\\).......(1)<\/p><p>Length of the perpendicular from point \\(\\left(\\sqrt{a^{2}-b^{2}} ; 0\\right)\\) to line (1) is<\/p><p>\\(P_{1}=\\frac{|b \\cos \\theta\\left(\\sqrt{a^{2}-b^{2}}\\right)+a \\sin \\theta(0)-a b \\mid}{\\sqrt{b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta}}=\\frac{\\mid b \\cos \\theta \\sqrt{a^{2}-b^{2}}-a b|}{\\sqrt{b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta}}\\)....(2)<\/p><p>Length of the perpendicular from point \\(\\left(-\\sqrt{a^{2}-b^{2}}, 0\\right)\\) to line \\((2)\\) is<\/p><p>\\(P_{2}=\\frac{|b \\cos \\theta\\left(-\\sqrt{a^{2}-b^{2}}\\right)+a \\sin \\theta(0)-a b|}{\\sqrt{b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta}}=\\frac{|b \\cos \\theta (-\\sqrt{a^{2}-b^{2}})-a b \\mid}{\\sqrt{b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta}}\\)<\/p><p>\\(P_{2}=\\frac{|b \\cos \\theta\\left(-\\sqrt{a^{2}-b^{2}}\\right)+a \\sin \\theta(0)-a b|}{\\sqrt{b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta}}=\\frac{|b \\cos \\theta \\sqrt{a^{2}-b^{2}}+a b \\mid}{\\sqrt{b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta}}\\)....(3)<\/p><p>On multiplying equations (2) and (3) we get,<\/p><p>\\(P_{1} P_{2}=\\frac{|(b \\cos \\theta \\sqrt{a^{2}-b^{2}}-a b)(b \\cos \\theta \\sqrt{a^{2}-b^{2}}+a b) \\mid}{\\left(\\sqrt{b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta}\\right)^{2}}\\)<\/p><p>\\(=\\frac{\\left|\\left(b \\cos \\theta \\sqrt{a^{2}-b^{2}}-a b\\right)\\left(b \\cos \\theta \\sqrt{a^{2}-b^{2}}+a b\\right)\\right|}{\\left(b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta\\right)}\\)<\/p><p>\\(=\\frac{\\left|\\left(b \\cos \\theta \\sqrt{a^{2}-b^{2}}\\right)^{2}-(a b)^{2}\\right|}{\\left(b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta\\right)}\\)\\(\\quad(\\because (a+b)(a-b) = a^{2} -b^{2})\\)<\/p><p>\\(=\\frac{\\left|b^{2} \\cos ^{2} \\theta\\left(a^{2}-b^{2}\\right)-a^{2} b^{2}\\right|}{\\left(b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta\\right)}\\)<\/p><p>\\(=\\frac{\\left|a^{2} b^{2} \\cos ^{2} \\theta-b^{4} \\cos ^{2} \\theta-a^{2} b^{2}\\right|}{b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta}\\)<\/p><p>\\(=\\frac{b^{2}\\left|a^{2} \\cos ^{2} \\theta-b^{2} \\cos ^{2} \\theta-a^{2}\\right|}{b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta}\\)<\/p><p>\\(=\\frac{b^{2}\\left|a^{2} \\cos ^{2} \\theta-b^{2} \\cos ^{2} \\theta-a^{2} \\sin ^{2} \\theta-a^{2} \\cos ^{2} \\theta\\right|}{b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta}\\) \\(\\quad\\quad\\because[\\sin ^{2} \\theta+\\cos ^{2} \\theta=1]\\)<\/p><p>\\(=\\frac{b^{2}\\left|-\\left(b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta\\right)\\right|}{b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta}\\)<\/p><p>\\(=\\frac{b^{2}\\left(b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta\\right)}{\\left(b^{2} \\cos ^{2} \\theta+a^{2} \\sin ^{2} \\theta\\right)}\\)<\/p><p>\\(=b^{2}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        5,
+                        240
+                    ],
+                    1,
+                    0,
+                    "daa1c15866684864975c76a29189b06d",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    7,
+                    null,
+                    "<p>The point whose abscissa is equal to its ordinate and which is equidistant from \\(\\mathrm{A}(-1,0)\\) and \\(\\mathrm{B}(0,5)\\) is:<\/p>",
+                    [
+                        "<p>\\((1,1)\\)<\/p>",
+                        "<p>\\((2,2)\\)<\/p>",
+                        "<p>\\((-2,-2)\\)<\/p>",
+                        "<p>\\((3,3)\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>Points are \\(\\mathrm{A}(-1,0)\\) and \\(\\mathrm{B}(0,5)\\).<\/p><p>The distance between tow points \\(\\mathrm{A}\\left(\\mathrm{x}_{1}, \\mathrm{y}_{1}\\right)\\) and \\(\\mathrm{B}\\left(\\mathrm{x}_{2}, \\mathrm{y}_{2}\\right)\\) is given by:<\/p><p>\\(\\mathrm{AB}=\\sqrt{\\left(\\mathrm{x}_{1}-\\mathrm{x}_{2}\\right)^{2}+\\left(\\mathrm{y}_{1}-\\mathrm{y}_{2}\\right)^{2}}\\)<\/p><p>Let the point which is equidistant from the points \\(\\mathrm{A}\\) and \\(\\mathrm{B}\\) be \\(\\mathrm{C}(\\mathrm{x},\\mathrm{x})\\).<\/p><p>As the point is equidistant we have \\(\\mathrm{A}\\mathrm{C}=\\mathrm{B}\\mathrm{C}\\).<\/p><p>Therefore, equating the right hand and left hand side using distance formula.<\/p><p>\\(\\mathrm{AC} =\\mathrm{BC} \\)<\/p><p>\\(\\sqrt{(-1-\\mathrm{x})^{2}+(0-\\mathrm{x})^{2}}=\\sqrt{(0-\\mathrm{x})^{2}+(5-\\mathrm{x})^{2}}\\)<\/p><p>\\(\\Rightarrow (-1-\\mathrm{x})^{2}+(0-\\mathrm{x})^{2} =(0-\\mathrm{x})^{2}+(5-\\mathrm{x})^{2}\\)<\/p><p>\\(\\Rightarrow1+2 \\mathrm{x}+\\mathrm{x}^{2}+\\mathrm{x}^{2} =\\mathrm{x}^{2}+25-10 \\mathrm{x}+\\mathrm{x}^{2} \\)<\/p><p>\\(\\Rightarrow1+2 \\mathrm{x} =25-10 \\mathrm{x}\\)<\/p><p>\\(\\Rightarrow12 \\mathrm{x} =24 \\)<\/p><p>\\(\\Rightarrow\\mathrm{x} =2\\)<\/p><p>Thus, the point which is equidistant from both points is \\((2,2)\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        6,
+                        241
+                    ],
+                    1,
+                    0,
+                    "6e875df34e0c4ad29da78f04f076e10b",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ],
+                [
+                    8,
+                    null,
+                    "<p>Find the equation of the line perpendicular to the line \\(x-3 y+5=0\\) and passes through the point \\((2,-4)\\).<\/p>",
+                    [
+                        "<p>\\(y+3 x-2=0\\)<\/p>",
+                        "<p>\\(3 x-y-10=0\\)<\/p>",
+                        "<p>\\(x-3 y-14=0\\)<\/p>",
+                        "<p>\\(x+3 y+10=0\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>Line \\(x-3 y+5=0\\)<\/p><p>The general equation of a line is \\(y=m x+c\\)<\/p><p>Where \\(m\\) is the slope and \\(c\\) is any constant<\/p><ul><li><span>The slope of parallel lines is equal.<\/span><\/li><li>The slope of the perpendicular line have their product \\(=-1\\)<\/li><\/ul><p>\\(\\Rightarrow y=\\frac{1}{3} x+\\frac{5}{3}\\)<\/p><p>\\(\\Rightarrow \\text { Slope }(m_{1})=\\frac{1}{3} \\text { and } c_{1}=\\frac{5}{3}\\)<\/p><p>Now for the slope of the perpendicular line \\(m_2\\)<\/p><p>\\(m_{1} \\times m_{2}=-1\\)<\/p><p>\\(\\Rightarrow \\frac{1}{3} \\times m_{2}=-1\\)<\/p><p>\\(\\Rightarrow m_{2}=-3\\)<\/p><p>Perpendicular line has the slope \\(-3\\) and passes through \\((2,-4)\\)<\/p><p>\\(\\therefore\\) Equation of the perpendicular line is<\/p><p>\\(\\left(y-y_{1}\\right)=m\\left(x-x_{1}\\right) \\)<\/p><p>\\(\\Rightarrow y-(-4)=-3(x-2)\\)<\/p><p>\\(\\Rightarrow y+3 x-2=0\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        7,
+                        242
+                    ],
+                    1,
+                    0,
+                    "79d743bc35954b578b9a0b72444c599a",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    9,
+                    null,
+                    "<p>What is the equation of the straight line which joins the intersection of the line \\(x-y+4=0\\) and \\(y-2 x-5\\) \\(=0\\) and the point \\((3,2)?\\)<\/p>",
+                    [
+                        "<p>\\(x+y-11=0\\)<br><\/p>",
+                        "<p>\\(x-2 y-11=0\\)<\/p>",
+                        "<p>\\(x+3 y-11=0\\)<\/p>",
+                        "<p>\\(x+4 y-11=0\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>Lines \\(x-y+4=0\\)...(i)<\/p><p>\\(y-2 x-5=0\\)...(ii)<\/p><p>The equation of the line with points \\(\\left(x_{1}, y_{1}\\right)\\) and \\(\\left(x_{2}, y_{2}\\right)\\)<\/p><p>\\(\\frac{y-y_{1}}{x-x_{1}}=\\frac{y_{2}-y_{1}}{x_{2}-x_{1}}\\)<\/p><p>Adding the 2 equation (i) and (ii)<\/p><p>\\(-x-1=0\\)<\/p><p>\\(x=-1\\)<\/p><p>Putting it in equation (i) we get,<\/p><p>\\(-1-y+4=0 \\)<\/p><p>\\(y=3\\)<\/p><p>Intersection of the lines \\((-1,3)\\)<\/p><p>Now the equation of the line to be find out is<\/p><p>\\(\\frac{y-3}{x-(-1)}=\\frac{2-3}{3-(-1)}\\)<\/p><p>\\(4(y-3)=-1(x+1)\\)<\/p><p>\\(x+4 y-11=0\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        8,
+                        243
+                    ],
+                    1,
+                    0,
+                    "c1bea37679d24d57986455a3bd50a357",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    10,
+                    null,
+                    "<p>Find the equation of the line through the point \\((-1,5)\\) and making an intercept of \\(-2\\) on the \\(y\\)-axis?<\/p>",
+                    [
+                        "<p>\\(7 x-y-2=0\\)<\/p>",
+                        "<p>\\(7 x+y+2=0\\)<\/p>",
+                        "<p>\\(7 x+y-2=0\\)<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>As we know that, the equation of a line whose slope is \\(m\\) and which makes an intercept \\(c\\) on the \\(y\\) axis is given by:<\/p><p>\\(y=m x+c\\)<\/p><p>Let the slope of the required line be \\(m\\).<\/p><p>Here, we have \\(c=-2\\)<\/p><p>So, the equation the required line is \\(y=mx-2\\).....(i)<\/p><p>The required line passes through the point \\((-1,5)\\)<\/p><p>Therefore,&nbsp;<\/p><p>Substitute \\(x=-1\\) and \\(y=5\\) will satisfy the equation (i).<\/p><p>\\( 5=-m-2\\)<\/p><p>\\(\\Rightarrow m=-7\\)<\/p><p>\\(\\therefore\\)The equation of the required line is \\(7 x+y+2=0\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        9,
+                        244
+                    ],
+                    1,
+                    0,
+                    "038582b62c5f4002a13856ca54284496",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    11,
+                    null,
+                    "<p>What is the equation to the straight line passing through \\((5,-2)\\) and \\((-4,7)?\\)<\/p>",
+                    [
+                        "<p>\\(5 x-2 y=4\\)<\/p>",
+                        "<p>\\(-4 x+7 y=9\\)<\/p>",
+                        "<p>\\(x+y=3\\)<\/p>",
+                        "<p>\\(x-y=-1\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>Straight-line passing through \\((5,-2)\\) and \\((-4,7)\\)<\/p><p>The slope of a line passing through the distinct points \\((x_{1}, y_{1})\\) and \\((x_{2}, y_{2})\\) is given by,<\/p><p>\\(m=\\frac{y_{2}-y_{1}}{x_{2}-x_{1}}\\)<\/p><p>Where, \\(x_{1}\\) = 5, \\(y_{1}\\) = -2, \\(x_{2}\\) = -4, and \\(y_{2}\\) = 7<\/p><p>Slope of a line \\(=m=\\frac{7-(-2)}{-4-5}\\)<\/p><p>\\(=\\frac{9}{-9}\\)<\/p><p>\\(=-1\\)<\/p><p>Now, equation of line is:<\/p><p>&nbsp;\\((y-y_{1})=m(x-x_{1})\\)<\/p><p>\\(y-(-2)=-1 \\times(x-5)\\)<\/p><p>\\(\\Rightarrow y+2=-x+5\\)<\/p><p>\\(\\Rightarrow x+y=3\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        10,
+                        245
+                    ],
+                    1,
+                    0,
+                    "0bbbc1b11fcb4778a610fc1d2e346b64",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    12,
+                    null,
+                    "<p>If a line is perpendicular to the line \\(5 x-y=0\\) and forms a triangle of area 5 square units with co-ordinate axes, then its equation is:<\/p>",
+                    [
+                        "<p>\\(x+5 y \\pm 5 \\sqrt{2}=0\\)<br/><\/p>",
+                        "<p>\\(x-5 y \\pm 5 \\sqrt{2}=0\\)<\/p>",
+                        "<p>\\(5 x+y \\pm 5 \\sqrt{2}=0\\)<\/p>",
+                        "<p>\\(5 x-y \\pm 5 \\sqrt{2}=0\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>The area of a triangle is 5 square units.<\/p><p>Equation of line is \\(5 x-y=0\\)<\/p><p>The equation of a line perpendicular to a given line is<\/p><p>\\( x+5 y=\\lambda\\)....(i)<\/p><p>\\(\\Rightarrow \\frac{x}{\\lambda}+\\frac{5 y}{\\lambda}=1\\)<\/p><p>\\(\\Rightarrow \\frac{x}{\\lambda}+\\frac{y}{\\left(\\frac{\\lambda}{5}\\right)}=1\\)<\/p><p><img class=\"img-responsive\" data-book_with_2_col=\"[93,87]\" data-book_with_3_col=\"[90,82]\" src=\"https://kodemapa.com/static/media/wl_client/1/qdump/e15a7351bd3aa55f4a06d4d7dd6f96fc/9377a280d9b211ae1533894fe74fce1b.png\" style=\"width: 93px; max-width: 93px; height: 87px; max-height: 87px;\"/><\/p><p>Area of triangle \\(=5\\) square units<\/p><p>Area of triangle = \\(\\frac{1}{2}\u00d7b\u00d7h\\)<\/p><p>\\(\\frac{1}{2} \\times \\lambda \\times \\frac{\\lambda}{5}=5\\)<\/p><p>\\(\\Rightarrow \\lambda^{2}=50 \\)<\/p><p>\\(\\Rightarrow\\lambda=\\pm 5 \\sqrt{2}\\)<\/p><p>Put the value of \\(\\lambda\\) in equation (i) we get,<\/p><p>\u00a0\\(x+5 y=\\pm 5 \\sqrt{2}\\)<\/p><p>\\(\\Rightarrow x+5 y \\pm 5 \\sqrt{2}=0\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        11,
+                        246
+                    ],
+                    1,
+                    0,
+                    "4dcac3712a9046499652afb816687eb0",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    13,
+                    null,
+                    "<p>Find the equation of a line having a slope of \\(-2\\) and passes through the intersection if \\(2 x-y=1\\) and \\(x+ 2 y = 3\\).<\/p>",
+                    [
+                        "<p>\\(y-2 x+1=0\\)<\/p>",
+                        "<p>\\(y+2 x-3=0\\)<\/p>",
+                        "<p>\\(2 y-x-3=0\\)<\/p>",
+                        "<p>\\(2 y+x+1=0\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>Slope of line = -2<\/p><p>Lines are:<\/p><p>\\(2 x-y=1 \\)....(i)<\/p><p>\\(x+2 y=3\\)...(ii)<\/p><p>On multiplying equation (i) by 2 we get,<\/p><p>\\(4 x-2y=2 \\)....(iii)&nbsp;<\/p><p>Adding equation (ii) and (iii) we get,<\/p><p>\\(5 x=5\\)<\/p><p>\\(\\Rightarrow x=1\\)<\/p><p>On putting value of \\(x\\) in equation (i),<\/p><p>\\(2(1)-y=1 \\)<\/p><p>\\(\\Rightarrow y=1\\)<\/p><p>Therefore,<\/p><p>The intersection point is \\((1,1)\\)<\/p><p>So line has the slope m = \\(-2\\) and passes through \\((1,1)\\)<\/p><p>Therefore,<\/p><p>Equation of the perpendicular line is:<\/p><p>\\(\\left(y-y_{1}\\right)=m\\left(x-x_{1}\\right)\\)<\/p><p>\\(\\Rightarrow y-1=-2(x-1) \\)<\/p><p>\\(\\Rightarrow y+2 x-3=0\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        12,
+                        247
+                    ],
+                    1,
+                    0,
+                    "2102b3bae6554d87bf1ef692cbc17fb0",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    14,
+                    null,
+                    "<p>The locus of a point, whose abscissa and ordinate are always equal is:<\/p>",
+                    [
+                        "<p>\\(x+y+1=0\\)<\/p>",
+                        "<p>\\(x-y=0\\)<\/p>",
+                        "<p>\\(x+y=1\\)<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given,&nbsp;<\/p><p>Abscissa = Ordinate<\/p><p>Let the coordinate of the variable point P is (x, y)<\/p><p>Now, the abscissa of this point = x&nbsp;<span>and its ordinate = y<\/span><\/p><p><span>According to the question,<br><\/span><\/p><p>x = y<\/p><p>\u21d2 x \u2013 y = 0<\/p><p>So, the locus of the point is x \u2013 y = 0<\/p>",
+                    null,
+                    null,
+                    [
+                        13,
+                        248
+                    ],
+                    1,
+                    0,
+                    "30b65742d22540c5ad3d887adeaf1fd6",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    15,
+                    null,
+                    "<p>The length of the perpendicular from the origin to a line is 7 and the line makes an angle of 150 degrees with the positive direction of the y-axis then, the equation of a line is:<\/p>",
+                    [
+                        "<p>\\(x+y=14\\)<br><\/p>",
+                        "<p>\\(\\sqrt{3} y+x=14\\)<\/p>",
+                        "<p>\\(\\sqrt{3} x+y=14\\)<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>The length of the perpendicular from the origin to a line is 7 and the line makes an angle of 150 degrees with the positive direction of the \\(x\\)-axis.<\/p><p>We know that, If \\(p\\) is the length of the normal from origin to a line and \\(\\alpha\\) is the angle made by the normal with the positive direction of \\(x\\)-axis then the equation of the line is given by:<\/p><p>&nbsp;\\(x \\cos \\alpha+y \\sin \\alpha=p\\)<\/p><p>Now, the equation of a line is<\/p><p>\\(x \\times \\cos 150^{\\circ} +y \\times \\sin 150^{\\circ} =7\\)<\/p><p>\\(\\Rightarrow x \\times \\cos (180^{\\circ}-30^{\\circ})+y \\times \\sin (180^{\\circ}-30^{\\circ}) =7\\)\\(\\quad\\quad(\\because cos (180^{\\circ}-\\theta) = cos \\theta,sin (180^{\\circ}-\\theta) = sin \\theta)\\)<\/p><p>\\(\\Rightarrow x \\times \\cos 30^{\\circ}+y \\times \\sin 30^{\\circ}=7\\)<\/p><p>\\(\\Rightarrow \\frac{\\sqrt{3} x}{2}+\\frac{y}{2}=7\\) \\(\\quad(\\because \\cos 30^{\\circ}=\\frac{\\sqrt{3}}{2} \\text { and } \\sin 30^{\\circ}\\)=\\(\\frac{1}{2})\\)<\/p><p>\\(\\Rightarrow \\sqrt{3} x+y=7 \\times 2\\)<\/p><p>\\(\\Rightarrow \\sqrt{3} x+y=14\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        14,
+                        249
+                    ],
+                    1,
+                    0,
+                    "7e6e143d860440a990448c60a99cec92",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    16,
+                    null,
+                    "<p>What can be said regarding if a line if its slope is zero?<\/p>",
+                    [
+                        "<p>\u03b8 is an acute angle<\/p>",
+                        "<p>\u03b8 is an obtuse angle<\/p>",
+                        "<p>Either the line is x-axis or it is parallel to the x-axis.<\/p>",
+                        "<p>None of these<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>The slope is zero.<\/p><p>Let \u03b8 be the angle of inclination of the given line with the positive direction of x-axis in the anticlockwise sense.<\/p><p>Then its slope is given by:<\/p><p>m = tan \u03b8<\/p><p>tan \u03b8 = 0<\/p><p>\u21d2 \u03b8 = 0\u00b0<\/p><p>\u21d2 Either the line is x-axis or it is parallel to the x-axis.<\/p>",
+                    null,
+                    null,
+                    [
+                        15,
+                        250
+                    ],
+                    1,
+                    0,
+                    "461dadcbfa544670bdc5cf5677b932aa",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    17,
+                    null,
+                    "<p>The equation of the locus of a point equidistant from the point A(1, 3) and B(-2, 1) is:<\/p>",
+                    [
+                        "<p>\\(6 x-4 y=5\\)<\/p>",
+                        "<p>\\(6 x+4 y=5\\)<\/p>",
+                        "<p>\\(6 x+4 y=7\\)<\/p>",
+                        "<p>\\(6 x-4 y=7\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Let \\(P(h, k)\\) be any point on the locus which is equidistant from the point A(1, 3) and B(-2, 1).<\/p><p>According to question,<\/p><p>\\(P A=P B\\)<\/p><p>\\(\\sqrt{(h-1)^{2}+(k-3)^{2}}=\\sqrt{(h+2)^{2}+(k-1)^{2}}\\)..(i)<\/p><p>Squaring both side in equation (i) we get,<\/p><p>\\(\\Rightarrow(h-1)^{2}+(k-3)^{2}=(h+2)^{2}+(k-1)^{2} \\)\\(\\quad\\quad(\\because (a\\pm b)^{2} = a^{2}+b^{2} \\pm 2ab)\\)<\/p><p>\\(\\Rightarrow h^{2}-2 h+1+k^{2}-6 k+9=h^{2}+4 h+4+k^{2}-2 k+1\\)<\/p><p>\\(\\Rightarrow-2 h-6 k+10=4 h-2 k+5 \\)<\/p><p>\\(\\Rightarrow 6 h+4 k=5\\)<\/p><p>\\(\\therefore\\)The locus of \\((h,k)\\) is \\(6 x+4 y=5\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        16,
+                        251
+                    ],
+                    1,
+                    0,
+                    "cfff1ab98ff24446ad897f45c7bc3251",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    18,
+                    null,
+                    "<p>Find the equation of the line passing through \\((-3,5)\\) and perpendicular to the line through the points \\((2,5)(-3,6)\\).<\/p>",
+                    [
+                        "<p>\\(x+y+20=0\\)<\/p>",
+                        "<p>\\(x-y+20=0\\)<\/p>",
+                        "<p>\\(x+5 y+20=0\\)<\/p>",
+                        "<p>\\(5 x-y+20=0\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>The equation of the line passing through \\(\\left(x_{1}, y_{1}\\right)\\) with the slope \\(m\\) is:<\/p><p>\\(\\left(y-y_{1}\\right)=m\\left(x-x_{1}\\right)\\)<\/p><p>The slope of line passing through the points \\(\\left(x_{1}, y_{1}\\right)\\) and \\(\\left(x_{2}, y_{2}\\right)\\) is:<\/p><p>\\(=\\frac{y_{2}-y_{1}}{x_{2}-x_{1}}\\)<\/p><p>The slope of line passing through the points \\((2,5)(-3,6)\\) is \\(=\\frac{6-5}{-3-2}\\)<\/p><p>\\(\\Rightarrow m_{1}=\\frac{1}{-5}=\\frac{-1}{5}\\)<\/p><p>The two non-vertical lines are perpendicular to each other only if and only if their slopes are negative reciprocals of each other.<\/p><p>The slope of perpendicular to the line through the points \\((2,5)(-3,6)\\) is \\(\\mathrm{m}_{2}=\\frac{-1}{\\mathrm{~m}_{1}}\\)<\/p><p>\\(\\Rightarrow \\mathrm{m}_{2}=5\\)<\/p><p>The equation of the line passing through \\((x_{1}, y_{1})=(-3,5)\\) and perpendicular to the line through the points \\((2,5)(-3,6)\\) is:<\/p><p>\\(\\left(y-y_{1}\\right)=m\\left(x-x_{1}\\right)\\)<\/p><p>\\(\\Rightarrow(y-5)=5(x+3)\\)<\/p><p>\\(\\Rightarrow 5 x-y+20=0\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        17,
+                        252
+                    ],
+                    1,
+                    0,
+                    "77cb0e4390994b688784113a0381ceb3",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    19,
+                    null,
+                    "<p>A line passes through \\((1,1)\\) and is perpendicular to the line \\(3 x+y=7\\). Its \\(x\\)-intercept is:<\/p>",
+                    [
+                        "<p>-2<\/p>",
+                        "<p>2<\/p>",
+                        "<p>\\(\\frac{2}{3}\\)<\/p>",
+                        "<p>\\(\\frac{-2}{3}\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>\\(3 x+y=7\\)<\/p><p>\\(\\Rightarrow y=-3 x+7\\)<\/p><p>Then the slope of a line perpendicular<\/p><p>The slope of line \\(=m=-3\\)<\/p><p>Then the slope of a line perpendicular to it is \\(\\frac{-1}{m}=\\frac{1}{3}\\)<\/p><p>The equation of line passing through \\((1,1)\\) with slope \\(\\frac{1}{3}\\) is:<\/p><p>\\(y-1=(\\frac{1}{3})(x-1) \\)<\/p><p>Then the slope of a line perpendicular<\/p><p>\\(\\Rightarrow 3 y-3=x-1\\)<\/p><p>Then the slope of a line perpendicular<\/p><p>\\(\\Rightarrow 3 y=x+2 \\)<\/p><p>Then the slope of a line perpendicular<\/p><p>\\(\\Rightarrow 3 y-x=2\\)<\/p><p>Then the slope of a line perpendicular<\/p><p>Then the slope of a line perpendicular<\/p><p>For \\(x\\)-intercept, \\(y=0\\)<\/p><p>\\(x=-2\\)<\/p><p>Then the slope of a line perpendicular<\/p><p><span>\\(\\therefore\\)The \\(x\\)-intercept of line is \\(-2\\)<\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        18,
+                        253
+                    ],
+                    1,
+                    0,
+                    "8d6403dc6d0b4629b66c472dce417d32",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    20,
+                    null,
+                    "<p>What is the equation of the straight line which passes through the point of intersection of the straight lines \\(x+2 y=5\\) and \\(3 x+7 y=17\\) and is perpendicular to the straight line \\(3 x+4 y=10 ?\\)<\/p>",
+                    [
+                        "<p>\\(4 x+3 y+2=0\\)<\/p>",
+                        "<p>\\(4 x-y+2=0\\)<\/p>",
+                        "<p>\\(4 x-3 y-2=0\\)<\/p>",
+                        "<p>\\(4 x-3 y+2=0\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>\\(x+2 y=5\\)...(i)<\/p><p>\\(3 x+7 y=17\\)...(ii)<\/p><p>Solving equation (i) and (ii), we get<\/p><p>\\(x=1 \\text { and } y=2\\)<\/p><p>Point of intersection: \\((x, y)=\\left(x_{1}, y_{1}\\right)=(1,2)\\)<\/p><p>Let slope of the straight line \\(3 x+4 y=10\\) is \\(m_{1}\\)<\/p><p>Slope \\(\\left(m_{1}\\right)=\\frac{-3}{4}\\)<\/p><p>We know that when two lines are perpendicular, the product of their slope is \\(-1 .\\)<\/p><p>Slope of perpendicular line \\(m=\\frac{-1}{m_{1}}=\\frac{4}{3}\\)<\/p><p>Equation of line: \\(\\left(y-y_{1}\\right)=m\\left(x-x_{1}\\right)\\)<\/p><p>\\(\\Rightarrow y-2=\\frac{4}{3}(x-1)\\)<\/p><p>\\(\\Rightarrow 3 y-6=4 x-4 \\)<\/p><p>\\(\\therefore 4 x-3 y+2=0\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        19,
+                        254
+                    ],
+                    1,
+                    0,
+                    "d635f3d01c244db1b347ff732ec7d3d9",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    21,
+                    null,
+                    "<p>The equation of the line passing through the point \\((2,3)\\) and the point of intersection of lines \\(2 x-3 y+7=\\) 0 and \\(7 x+4 y+2=0\\) is:<\/p>",
+                    [
+                        "<p>\\(21 x+46 y-180=0\\)<\/p>",
+                        "<p>\\(21 x-46 y+96=0\\)<\/p>",
+                        "<p>\\(46 x+21 y-155=0\\)<\/p>",
+                        "<p>\\(46 x-21 y-29=0\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Let \\(L_{3}\\) is the line passing through the intersection of lines \\(L_{1}\\) and \\(L_{2}\\) Then equation of line \\(L_{3}\\) is given by \\(L_{1}+(\\lambda) L_{2}=0\\)<\/p><p>Equation of line passing through the intersection of lines, \\(2 x-3 y+7=0\\) and \\(7 x+4 y+2=0\\) is given by,<\/p><p>\\(2 x-3 y+7+\\lambda(7 x+4 y+2)=0\\)<\/p><p>Now, this line is also passing through the point \\((2,3)\\),<\/p><p>So, it will satisfy the equation of line \\(2 x-3 y+7+\\lambda(7 x+4 y+2)=0\\)<\/p><p>\\(\\therefore 2(2)-3(3)+7+\\lambda(7(2)+4(3)+2)=0\\)<\/p><p>\\(\\Rightarrow 4-9+7=-\\lambda(14+12+2) \\)<\/p><p>\\(\\Rightarrow-\\lambda=\\frac{2}{28} \\)<\/p><p>\\(\\Rightarrow \\lambda=-\\frac{1}{14}\\)<\/p><p>Now, putting \\(\\lambda=-\\frac{1}{14}\\) in \\((1)\\), we get equation of line,<\/p><p>\\(2 x-3 y+7+\\left(-\\frac{1}{14}\\right)(7 x+4 y+2)=0\\)<\/p><p>Multiply by 14 ,<\/p><p>\\(\\Rightarrow 28 x-42 y+98-(7 x+4 y+2)=0\\)<\/p><p>\\(\\Rightarrow 28 x-7 x-42 y-4 y+98-2=0 \\)<\/p><p>\\(\\Rightarrow 21 x-46 y+96=0\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        20,
+                        255
+                    ],
+                    1,
+                    0,
+                    "719ea7f4c01c47e08507d397921c7e09",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    22,
+                    null,
+                    "<p>Find the equation of line passing through \\((h, 0)\\) and \\((0, k)\\) and divided by the point \\((1,2)\\) in the ratio \\(2: 3\\):<\/p>",
+                    [
+                        "<p>\\(3 x+4 y=10\\)<\/p>",
+                        "<p>\\(3 x+3 y=20\\)<\/p>",
+                        "<p>\\(x+4 y=20\\)<\/p>",
+                        "<p>\\(4 x+3 y=10\\)<\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>Point \\((1,2)\\) divides the line passing through \\((h, 0)\\) and \\((0, k)\\) in the ratio \\(2: 3\\)<\/p><p>Here, \\(m: n=2: 3\\)<\/p><p>\\((x, y)=(1,2),\\left(x_{1}, y_{1}\\right)=(0, k),\\left(x_{2}, y_{2}\\right)=(h, 0)\\)<\/p><p>Using section formula,<\/p><p>\\(x=\\frac{\\operatorname{mx}_{x}+\\mathrm{nx}_{1}}{\\mathrm{~m}+\\mathrm{n}}\\)<\/p><p>\\(\\Rightarrow 1=\\frac{2(\\mathrm{~h})+3(0)}{2+3}\\)<\/p><p>\\(\\Rightarrow 1=\\frac{2 \\mathrm{~h}}{5}\\)<\/p><p>\\(\\Rightarrow 2 \\mathrm{~h}=5\\)<\/p><p>\\(\\Rightarrow \\mathrm{h}=\\frac{5}{2}\\)\u00a0<\/p><p>\\(\\mathrm{y}=\\frac{\\mathrm{m} y_{2}+\\mathrm{n} y_{1}}{\\mathrm{~m}+\\mathrm{n}}\\)<\/p><p>\\(\\Rightarrow 2=\\frac{2(0)+3(\\mathrm{k})}{2+3}\\)<\/p><p>\\(\\Rightarrow 3 \\mathrm{k}=2(5)=10\\)<\/p><p>\\(\\Rightarrow \\mathrm{k}=\\frac{10}{3}\\)<\/p><p>Points are \\(\\left(\\frac{5}{2}, 0\\right)\\) and \\(\\left(0, \\frac{10}{3}\\right)\\)<\/p><p>Now, equation of line passing through \\(\\left(\\frac{5}{2}, 0\\right)\\) and \\(\\left(0, \\frac{10}{3}\\right)\\)<\/p><p>\\(\\frac{x}{\\frac{5}{2}}+\\frac{y}{\\frac{10}{3}}=1\\)<\/p><p>\\(\\Rightarrow \\frac{2 x}{5}+\\frac{3 y}{10}=1\\)<\/p><p>\\(\\Rightarrow 4 x+3 y=10\\)\u00a0 \u00a0 (<span>because\u00a0<\/span><span>multiply whole equation by 10)<\/span><\/p>",
+                    null,
+                    null,
+                    [
+                        21,
+                        256
+                    ],
+                    1,
+                    0,
+                    "5c01585692f84477ae8ae285d2069c13",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    23,
+                    null,
+                    "<p>What is the acute angle between the lines represented by the equations \\(y-\\sqrt{3} x-5=0\\) and \\(\\sqrt{3} y-x+6=0 ?\\)<\/p>",
+                    [
+                        "<p>\\(30^{\\circ}\\)<\/p>",
+                        "<p>\\(45^{\\circ}\\)<\/p>",
+                        "<p>\\(60^{\\circ}\\)<\/p>",
+                        "<p>\\(75^{\\circ}\\)<\/p>"
+                    ],
+                    [
+                        0
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>\\(y-\\sqrt 3 x-5=0\\)<\/p><p>\\(\\sqrt3 y-x+6=0\\)<\/p><p>\\(y-\\sqrt{3} x-5=0\\)<\/p><p>\\(\\Rightarrow y=\\sqrt{3 x+5}\\)<\/p><p>So, slope of line, \\(m_{1}=\\sqrt{3}\\)<\/p><p>\\(\\sqrt{3} y-x+6=0\\)<\/p><p>\\(\\Rightarrow y=\\frac{x}{\\sqrt{3}}-\\frac{6}{\\sqrt{3}}\\)<\/p><p>So, slope of the line, \\(m_{2}=\\frac{1}{\\sqrt{3}}\\)<\/p><p>Let \\(\\theta\\) be the acute angle between the lines.<\/p><p>The angle \\(\\theta\\) between the lines having slope \\(m_{1}\\) and \\(m_{2}\\) is given by:<\/p><p>\\(\\tan \\theta=\\left|\\frac{m_{1}-m_{2}}{1+m_{1} m_{2}}\\right|\\)<\/p><p>\\(\\Rightarrow \\tan \\theta=\\left|\\frac{\\sqrt{3}-\\frac{1}{\\sqrt{3}}}{1+\\sqrt{3} \\times \\frac{1}{\\sqrt{3}}}\\right|\\)<\/p><p>\\(\\Rightarrow \\tan \\theta=\\left|\\frac{\\frac{2}{\\sqrt{3}}}{2}\\right| \\)<\/p><p>\\(\\Rightarrow \\tan \\theta=\\frac{1}{\\sqrt{3}} \\)<\/p><p>\\(\\Rightarrow \\theta=30^{\\circ}\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        22,
+                        257
+                    ],
+                    1,
+                    0,
+                    "90b1d36f7a8b470b9dbbe0d45f67ba76",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    24,
+                    null,
+                    "<p>The angle between the lines \\(x+y-3=0\\) and \\(x-y+3=0\\) is \\(\\alpha\\) and the acute angle between the lines \\(x\\) -\\(\\sqrt{3} y+2 \\sqrt{3}=0\\) and \\(\\sqrt{3} x-y+1=0\\) is \\(\\beta\\). Which one of the following is correct?<\/p>",
+                    [
+                        "<p>\\(a=\\beta\\)<\/p>",
+                        "<p>\\(a&gt;\\beta\\)<\/p>",
+                        "<p>\\(a&lt;\\beta\\)<\/p>",
+                        "<p>\\(a=2 \\beta\\)<\/p>"
+                    ],
+                    [
+                        1
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>Angle between the lines \\(x+y-3=0\\) and \\(x-y+3=0\\) is \\(\\alpha\\).<\/p><p>Angle between the lines \\(x-\\sqrt{3 y}+2 \\sqrt{3}=0\\) and \\(\\sqrt{3 x}-y+1=0\\) is \\(\\beta\\).<\/p><p>The angle \\(\\theta\\) between the lines having slope \\(m_{1}\\) and \\(m_{2}\\) is given by \\(\\tan \\theta=\\left|\\frac{m_{2}-m_{1}}{1+m_{1} m_{2}}\\right|\\)<\/p><p>Let's find the slope,<\/p><p>Slope of line \\(x+y-3=0\\) is \\(m_{1}\\) and slope of line \\(x-y+3=0\\) is \\(m_{2}\\).<\/p><p>\\( \\mathrm{m}_{1}=-1\\) and \\(\\mathrm{m}_{2}=1\\)<\/p><p>Therefore,<\/p><p>tan \\(\\mathrm{a}=\\left|\\frac{1-(-1)}{1+(-1) \\times 1}\\right|=\\infty\\)<\/p><p>\\(\\alpha=90^{\\circ}\\)<\/p><p>Slope of line \\(x-\\sqrt{3} y+2 \\sqrt{3}=0\\) is \\(\\mathrm{m}_{1}\\) and \\(\\sqrt{3} x-y+1=0\\) is \\(m_{2}\\)<\/p><p>\\( \\mathrm{m}_{1}=(\\frac{1 }{\\mathrm{N}})\\) and \\(\\mathrm{m}_{2}=\\sqrt{3}\\)<\/p><p>\\(\\tan \\beta=\\left|\\frac{\\sqrt{3}-\\frac{1}{\\sqrt{3}}}{1+\\left(\\sqrt{3} \\times \\frac{1}{\\sqrt{3}}\\right)}\\right|=\\frac{1}{\\sqrt{3}}\\)<\/p><p>\\(\\beta=30^{\\circ}\\)<\/p><p>\\(\\alpha&gt;\\beta\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        23,
+                        258
+                    ],
+                    1,
+                    0,
+                    "1a6a571b101642fe9023025015d4183b",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    25,
+                    null,
+                    "<p>Find the value of \\(x\\) so that the inclination of the line joining the points \\((x,-3)\\) and \\((2,5)\\) is \\(135^{\\circ} ?\\)<\/p>",
+                    [
+                        "<p>\\(-5\\)<br><\/p>",
+                        "<p>5<\/p>",
+                        "<p>10<\/p>",
+                        "<p>\\(-10\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given,<\/p><p>The inclination of the line joining the points \\((x,-3)\\) and \\((2,5)\\) is \\(135^{\\circ}\\)<\/p><p>Here, we have to find the value of \\(x\\).<\/p><p>As we know that, the slope of a line is given by tan \\(\\alpha\\) and it is denoted by \\(m\\) where \\(\\alpha\\) \\(\\neq \\frac{\\pi}{2}\\) and it represents the angle which a given line makes with respect to the \\(X-\\) axis in the positive direction.<\/p><p>\\(\\mathrm{m}=\\tan \\left(135^{\\circ}\\right)=\\tan \\left(180^{\\circ}-135^{\\circ}\\right)\\)<\/p><p>\\(=-\\tan 45^{\\circ}\\)<\/p><p>\\(=-1\\)<\/p><p>As we know that, the slope of the line joining the points \\(\\left(x_{1}, y_{1}\\right)\\) and \\(\\left(x_{2}, y_{2}\\right)\\) is:<\/p><p>\\(m=\\frac{y_{2}-y_{1}}{x_{2}-x_{1}}\\)<\/p><p>Here, \\(x_{1}=x, y_{1}=-3, x_{2}=2, y_{2}=5\\) and \\(m=-1\\).<\/p><p>\\(-1=\\frac{5-(-3)}{2-x}\\)<\/p><p>\\(\\Rightarrow-2+x=8\\)<\/p><p>\\(\\Rightarrow x=10\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        24,
+                        259
+                    ],
+                    1,
+                    0,
+                    "fcb1f41607ad43c2bc6af51407e6eaa6",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    26,
+                    null,
+                    "<p>The equation of the line passing through the point \\((2,3)\\) with slope \\(2\\) is:<\/p>",
+                    [
+                        "<p>\\(2 x+y-1=0\\)<\/p>",
+                        "<p>\\(2 x-y+1=0\\)<\/p>",
+                        "<p>\\(2 x-y-1=0\\)<\/p>",
+                        "<p>\\(2 x+y+1=0\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Given, the point \\((2,3)\\) and slope of the line is \\(2\\)<\/p><p>By, slope-intercept formula,<\/p><p>\\(y-3=2(x-2)\\)<\/p><p>\\(\\Rightarrow y-3=2 x-4\\)<\/p><p>\\(\\Rightarrow 2 x-4-y+3=0\\)<\/p><p>\\(\\Rightarrow 2 x-y-1=0\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        25,
+                        260
+                    ],
+                    1,
+                    0,
+                    "2dc22b642a9e47baa1b27fbff11bb863",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    27,
+                    null,
+                    "<p>The sum of squares of the distances of a moving point from two fixed points \\((a, 0)\\) and \\((-a, 0)\\) is equal to \\(2 c^2\\) then the equation of its locus is:<\/p>",
+                    [
+                        "<p>\\(x^2-y^2=c^2-a^2\\)<\/p>",
+                        "<p>\\(x^2-y^2=c^2+a^2\\)<\/p>",
+                        "<p>\\(x^2+y^2=c^2-a^2\\)<\/p>",
+                        "<p>\\(x^2+y^2=c^2+a^2\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>Let \\(P(h, k)\\) be any position of the moving point and let \\(A(a, 0)\\) and \\(B(-a, 0)\\) be the given points. Then<\/p>\n<p>\\( P A^2+P B^2=2 c^2\\)<\/p>\n<p>\\( \\Rightarrow(h-a)^2+(k-0)^2+(h+a)^2+(k-0)^2=2 c^2\\)<\/p>\n<p>\\( \\Rightarrow h^2-2 a h+a^2+k^2+h^2+2 a h+a^2+k^2=2 c^2 \\)<\/p>\n<p>\\( \\Rightarrow 2 h^2+2 k^2+2 a^2=2 c^2\\)<\/p>\n<p>\\( \\Rightarrow h^2+k^2+a^2=c^2\\)<\/p>\n<p>\\( \\Rightarrow h^2+k^2=c^2-a^2\\)<\/p>\n<p>Hence, the locus of \\((h, k)\\) is \\(x^2+y^2=c^2-a^2\\)<\/p>",
+                    null,
+                    null,
+                    [
+                        26,
+                        261
+                    ],
+                    1,
+                    0,
+                    "b41e8f18e75d43f18dfc9504787c0a5b",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "0",
+                    null,
+                    null
+                ],
+                [
+                    28,
+                    null,
+                    "<p><span>What is the distance between (1, 3) and (5, 6)?<\/span><\/p>",
+                    [
+                        "<p><span>3 units<\/span><br/><\/p>",
+                        "<p><span>4 units<\/span><\/p>",
+                        "<p><span>5 units<\/span><\/p>",
+                        "<p><span>25 units<\/span><\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p><span>We know, distance between two points \\(\\left(x_1, y_1\\right)\\) and \\(\\left(x_2, y_2\\right)\\) is \\(\\sqrt{\\left(x_1-x_2\\right)^2+\\left(y_1-y_2\\right)^2}\\)<\/span><\/p>\n<p>So, distance between \\((1,3)\\) and \\((5,6)\\) is \\(\\sqrt{(1-5)^2+(3-6)^2}=\\sqrt{(4)^2+(3)^2}=5\\) units.<\/p>",
+                    null,
+                    null,
+                    [
+                        27,
+                        262
+                    ],
+                    1,
+                    0,
+                    "61a317645cf643f48de4531bd4cde947",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    29,
+                    null,
+                    "<p><span>What is the distance of (5, 12) from origin?<\/span><\/p>",
+                    [
+                        "<p><span>6 units<\/span><\/p>",
+                        "<p><span>8 units<\/span><\/p>",
+                        "<p><span>10 units<\/span><\/p>",
+                        "<p><span>13 units<\/span><\/p>"
+                    ],
+                    [
+                        3
+                    ],
+                    null,
+                    "<p>We know, distance between two points \\(\\left(x_1, y_1\\right)\\) and \\(\\left(x_2, y_2\\right)\\) is \\(\\sqrt{\\left(x_1-x_2\\right)^2+\\left(y_1-y_2\\right)^2}\\).<\/p>\n<p>So, distance between \\((5,12)\\) from origin \\((0,0)\\) is \\(\\sqrt{(5-0)^2+(12-0)^2}=\\sqrt{(5)^2+(12)^2}=13\\) units.<\/p>",
+                    null,
+                    null,
+                    [
+                        28,
+                        263
+                    ],
+                    1,
+                    0,
+                    "7fc2c9468e28448f8efd5f3b666718fb",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "1",
+                    null,
+                    null
+                ],
+                [
+                    30,
+                    null,
+                    "<p>The coordinates of a point dividing the line segment joining \\((1,2)\\) and \\((4,5)\\) ternally in the ratio \\(2: 1\\) is:<\/p>",
+                    [
+                        "<p>\\( (4,5)\\)<\/p>",
+                        "<p>\\( (6,8)\\)<\/p>",
+                        "<p>\\((7,8)\\)<\/p>",
+                        "<p>\\( (8,6)\\)<\/p>"
+                    ],
+                    [
+                        2
+                    ],
+                    null,
+                    "<p>The coordinates of a point dividing the line segment joining \\(\\left(x_1, y_1\\right)\\) and \\(\\left( x _2, y _2\\right)\\) externally in the ratio \\(m : n\\) is \\(\\left(\\frac{m x_2-n x_1}{m-n}, \\frac{m y_2-n y_1}{m-n}\\right)\\).<\/p>\n<p>So, the coordinates of a point dividing the line segment joining \\((1,2)\\) and \\((4,5)\\) externally in the ratio \\(2: 1\\) is \\(\\left(\\frac{2 \\times 4-1 \\times 1}{2-1}, \\frac{2 \\times 5-1 \\times 2}{2-1}\\right)=(7,8)\\).<\/p>",
+                    null,
+                    null,
+                    [
+                        29,
+                        264
+                    ],
+                    1,
+                    0,
+                    "1870633313dd4a21a28c7355fc355e79",
+                    "1",
+                    null,
+                    null,
+                    false,
+                    "2",
+                    null,
+                    null
+                ]
+            ]
+        },
+        "user": {
+            "name": "Admin",
+            "level": 4
+        }
+    }
+}

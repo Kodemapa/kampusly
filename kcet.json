@@ -1,0 +1,903 @@
+{
+    "status": true,
+    "result": {
+        "data": {
+            "disallow_reattempt": null,
+            "L3": [
+                {
+                    "L4": [
+                        {
+                            "name": "KCET Mathematics Mock Tests",
+                            "L5": [
+                                [
+                                    "KCET Mathematics Mock Test - 1",
+                                    60,
+                                    60,
+                                    "4800",
+                                    1,
+                                    "/testapp/91497",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    true
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 2",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91502",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 3",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91510",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 4",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91480",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 5",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91481",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 6",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91482",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 7",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91488",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 8",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91489",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 9",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91494",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 10",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91496",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 11",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/29454",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 12",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/29455",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Mathematics Mock Test - 13",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/29456",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "KCET Chemistry Mock Tests",
+                            "L5": [
+                                [
+                                    "KCET Chemistry Mock Test - 1",
+                                    60,
+                                    60,
+                                    "4800",
+                                    1,
+                                    "/testapp/91474",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    true
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 2",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91476",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 3",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91477",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 4",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91478",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 5",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91468",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 6",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91469",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 7",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91470",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 8",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91471",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 9",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91472",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 10",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91473",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 11",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/29460",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 12",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/29461",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 13",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/29462",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Chemistry Mock Test - 14",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/48403",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "KCET Biology Mock Tests",
+                            "L5": [
+                                [
+                                    "KCET Biology Mock Test - 1",
+                                    60,
+                                    60,
+                                    "4800",
+                                    1,
+                                    "/testapp/91464",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    true
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 2",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91465",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 3",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91466",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 4",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91442",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 5",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91451",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 6",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91453",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 7",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91455",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 8",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91457",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 9",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91462",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 10",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91463",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 11",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/29449",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 12",
+                                    57,
+                                    57,
+                                    "4800",
+                                    0,
+                                    "/testapp/29452",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Biology Mock Test - 13",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/29453",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "KCET Physics Mock Tests",
+                            "L5": [
+                                [
+                                    "KCET Physics Mock Test - 1",
+                                    60,
+                                    60,
+                                    "4800",
+                                    1,
+                                    "/testapp/91602",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    true
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 2",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91606",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 3",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91607",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 4",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91608",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 5",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91609",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 6",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91610",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 7",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91511",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 8",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91597",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 9",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91599",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 10",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/91601",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 11",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/29457",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 12",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/29458",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 13",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/29459",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 14",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/48319",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 15",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/48361",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ],
+                                [
+                                    "KCET Physics Mock Test - 16",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/48395",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ]
+                            ]
+                        }
+                    ],
+                    "mt_coming": false,
+                    "name": "Mock Tests",
+                    "package_bought": false,
+                    "id": 27579,
+                    "url": "/api/v2/ecatalog/L4/1155/27579"
+                },
+                {
+                    "L4":  [
+                        {
+                            "name": "KCET Physics PYP 2015",
+                            "L5": []
+                        },
+                        {
+                            "name": "KCET Chemistry PYP 2015",
+                            "L5": []
+                        },
+                        {
+                            "name": "KCET Mathematics PYP 2015",
+                            "L5": []
+                        },
+                        {
+                            "name": "KCET Biology PYP 2015",
+                            "L5": []
+                        },
+                        {
+                            "name": "KCET Physics PYP 2016",
+                            "L5": []
+                        },
+                        {
+                            "name": "KCET Chemistry PYP 2016",
+                            "L5": [
+                                [
+                                    "KCET Chemistry PYP 2016",
+                                    60,
+                                    60,
+                                    "4800",
+                                    1,
+                                    "/testapp/48242",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    true
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "KCET Mathematics PYP 2016",
+                            "L5": []
+                        },
+                        {
+                            "name": "KCET Biology PYP 2016",
+                            "L5": []
+                        },
+                        {
+                            "name": "KCET Physics PYP 2017",
+                            "L5": [
+                                [
+                                    "KCET Physics PYP 2017",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/48108",
+                                    "[\"1\", \"9\"]",
+                                    false,
+                                    null,
+                                    false
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "KCET Chemistry PYP 2017",
+                            "L5": [
+                                [
+                                    "KCET Chemistry PYP 2017",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/48109",
+                                    "[\"1\", \"9\"]",
+                                    false,
+                                    null,
+                                    false
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "KCET Mathematics PYP 2017",
+                            "L5": [
+                                [
+                                    "KCET Mathematics PYP 2017",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/48386",
+                                    "[\"1\"]",
+                                    false,
+                                    null,
+                                    false
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "KCET Biology PYP 2017",
+                            "L5": []
+                        },
+                        {
+                            "name": "KCET Physics PYP 2018",
+                            "L5": [
+                                [
+                                    "KCET Physics PYP 2018",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/48082",
+                                    "[\"1\", \"9\"]",
+                                    false,
+                                    null,
+                                    false
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "KCET Chemistry PYP 2018",
+                            "L5": [
+                                [
+                                    "KCET Chemistry PYP 2018",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/48105",
+                                    "[\"1\", \"9\"]",
+                                    false,
+                                    null,
+                                    false
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "KCET Mathematics PYP 2018",
+                            "L5": [
+                                [
+                                    "KCET Mathematics PYP 2018",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/48106",
+                                    "[\"1\", \"9\"]",
+                                    false,
+                                    null,
+                                    false
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "KCET Biology PYP 2018",
+                            "L5": [
+                                [
+                                    "KCET Biology PYP 2018",
+                                    60,
+                                    60,
+                                    "4800",
+                                    0,
+                                    "/testapp/48107",
+                                    "[\"1\", \"9\"]",
+                                    false,
+                                    null,
+                                    false
+                                ]
+                            ]
+                        }
+                    ],
+                    "mt_coming": false,
+                    "name": "Previous Year Papers ",
+                    "package_bought": false,
+                    "id": 43086,
+                    "url": "/api/v2/ecatalog/L4/1155/43086"
+                }
+            ],
+            "name": "Karnataka Common Entrance Test KCET",
+            "total_users_count": 4000,
+            "tests_taken": 412754,
+            "tests_available": 64,
+            "l0_image": "/static/images/L0_Images/528.png",
+            "image": "/static/media/wl_client_exam_images/1/2c66c18d78824d0cbd2e30db09b5f583.png",
+            "students": 54471,
+            "quizes": [],
+            "exam_calender": []
+        },
+        "user": {
+            "name": "Admin",
+            "level": 4
+        }
+    },
+    "code": 200,
+    "msg": ""
+}
